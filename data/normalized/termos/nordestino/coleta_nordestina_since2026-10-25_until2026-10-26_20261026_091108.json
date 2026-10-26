@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestina",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "bfb37fdc-71e4-477d-bb74-e41b74fa9ca8",
+    "collected_at": "2026-10-26T09:11:08-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 1,
+      "records_total": 3,
+      "skipped_duplicate": 15
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114199398141862060",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114199398141862060",
+      "parent_post_id": null,
+      "thread_root_id": "2114199398141862060",
+      "author": {
+        "platform_id": null,
+        "display_name": "AdrianaR15084",
+        "username": "AdrianaR15084",
+        "profile_url": "https://x.com/AdrianaR15084"
+      },
+      "text": "😆aqui tudo é 22 ,até meu cachorro,meus 7 gatos e a lagartixa na parede ,eu sou nordestina e não besta.",
+      "created_at": "2026-10-25T03:36:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T09:11:08-03:00",
+      "permalink": "https://nitter.meowing.monster/AdrianaR15084/status/2114199398141862060#m",
+      "metrics": {
+        "like_count": 441,
+        "reply_count": 2,
+        "retweet_count": 1,
+        "quote_count": 29
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "bfb37fdc-71e4-477d-bb74-e41b74fa9ca8",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114199398141862060",
+        "text": "😆aqui tudo é 22 ,até meu cachorro,meus 7 gatos e a lagartixa na parede ,eu sou nordestina e não besta.",
+        "author_username": "AdrianaR15084",
+        "author_name": "AdrianaR15084",
+        "created_at": "2026-10-25T03:36:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AdrianaR15084/status/2114199398141862060#m",
+        "metrics": {
+          "like_count": 441,
+          "reply_count": 2,
+          "retweet_count": 1,
+          "quote_count": 29
+        }
+      },
+      "normalized": {
+        "text_length": 102,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114682245382361449",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114682245382361449",
+      "parent_post_id": null,
+      "thread_root_id": "2114682245382361449",
+      "author": {
+        "platform_id": null,
+        "display_name": "MauricioViana26",
+        "username": "MauricioViana26",
+        "profile_url": "https://x.com/MauricioViana26"
+      },
+      "text": "Esperando minha irmã falar como ta a expressão na cara da colega de trabalho, que é nordestina, evangélica, Maconheira e Bolsonarista ferrenha. Kkkkkkkk qui diliça",
+      "created_at": "2026-10-26T11:35:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T09:11:08-03:00",
+      "permalink": "https://nitter.meowing.monster/MauricioViana26/status/2114682245382361449#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "bfb37fdc-71e4-477d-bb74-e41b74fa9ca8",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114682245382361449",
+        "text": "Esperando minha irmã falar como ta a expressão na cara da colega de trabalho, que é nordestina, evangélica, Maconheira e Bolsonarista ferrenha. Kkkkkkkk qui diliça",
+        "author_username": "MauricioViana26",
+        "author_name": "MauricioViana26",
+        "created_at": "2026-10-26T11:35:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MauricioViana26/status/2114682245382361449#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 163,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114492684077347073",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114492684077347073",
+      "post_id": "2114199398141862060",
+      "parent_comment_id": "2114199398141862060",
+      "thread_root_id": "2114199398141862060",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "TsumikiYuki",
+        "username": "TsumikiYuki",
+        "profile_url": null
+      },
+      "text": "Só burra msm",
+      "created_at": "2026-10-25T23:01:00+00:00",
+      "collected_at": "2026-10-26T09:11:08-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/TsumikiYuki/status/2114492684077347073#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "bfb37fdc-71e4-477d-bb74-e41b74fa9ca8",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114492684077347073",
+        "text": "Só burra msm",
+        "author_username": "TsumikiYuki",
+        "author_name": "TsumikiYuki",
+        "created_at": "2026-10-25T23:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/TsumikiYuki/status/2114492684077347073#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114199398141862060",
+        "parent_comment_id": "2114199398141862060",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 12,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
