@@ -1,0 +1,536 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinos",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "20dfe89f-044d-47ad-ada0-fd829208b678",
+    "collected_at": "2026-10-26T06:41:28-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 31
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114624725187981341",
+            "text": "Se Flávio não tivesse sido capacitista, não teria motivado PVDs a votarem no Lula, sou PCD e sei do q estou falando\n\nSe Flávio não tivesse debochado da idade do Lula, não teria motivado os idosos a votarem no Lula\n\nVotos das mulheres e nordestinos fica por sua conta e do Marçal",
+            "author_username": "CLAUDIACALIEL",
+            "author_name": "CLAUDIACALIEL",
+            "created_at": "2026-10-26T07:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/CLAUDIACALIEL/status/2114624725187981341#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114560746075959738",
+            "text": "Vimos duas coisas no primeiro turno:\n1- O norte e o nordeste estão acordando.\n2- O Brasil quer mudança e não aguenta mais o PT.\nQuem ganhou a eleição para o Lula foi o algoritmo do TSE. Não culpem os nordestinos.",
+            "author_username": "DavidFerraz",
+            "author_name": "DavidFerraz",
+            "created_at": "2026-10-26T03:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DavidFerraz/status/2114560746075959738#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114555980482494616",
+            "text": "Creio que por isso o valor é mais baixo que outros litorais nordestinos",
+            "author_username": "Marco_inilap10",
+            "author_name": "Marco_inilap10",
+            "created_at": "2026-10-26T03:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Marco_inilap10/status/2114555980482494616#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114545864291033322",
+            "text": "nós nordestinos aceitamos Minas Gerais",
+            "author_username": "badludssa",
+            "author_name": "badludssa",
+            "created_at": "2026-10-26T02:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/badludssa/status/2114545864291033322#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114537409064923449",
+            "text": "Sou filhos de nordestinos, e nós somos foda.",
+            "author_username": "GlaucoS13113",
+            "author_name": "GlaucoS13113",
+            "created_at": "2026-10-26T01:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/GlaucoS13113/status/2114537409064923449#m",
+            "metrics": {
+              "like_count": 64,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 8
+            }
+          },
+          {
+            "id": "2114535591752892861",
+            "text": "O que adianta Brasil não tem jeito os nordestinos estão sempre nos puxando pro buraco",
+            "author_username": "Andreinatureza",
+            "author_name": "Andreinatureza",
+            "created_at": "2026-10-26T01:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Andreinatureza/status/2114535591752892861#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114533953293963293",
+            "text": "É mais fácil separar o Brasil dos nordestinos.\n\nE, aviso: Não me façam engolir nordestino.",
+            "author_username": "FabioGhisleni",
+            "author_name": "FabioGhisleni",
+            "created_at": "2026-10-26T01:45:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FabioGhisleni/status/2114533953293963293#m",
+            "metrics": {
+              "like_count": 93,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114527267078476163",
+            "text": "Por mim, nordestinos podem morrer de fome e de sede. Merecem sofrer...",
+            "author_username": "FabioGGoulart",
+            "author_name": "FabioGGoulart",
+            "created_at": "2026-10-26T01:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FabioGGoulart/status/2114527267078476163#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114527243091546530",
+            "text": "Nos nordestinos gostamos de adrenalina, deixamos para ganhar no final",
+            "author_username": "Tatu36702182",
+            "author_name": "Tatu36702182",
+            "created_at": "2026-10-26T01:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Tatu36702182/status/2114527243091546530#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114526674293309890",
+            "text": "Nordestinos que moram em outros estados, tenham cuidado nesses dias.",
+            "author_username": "emyfabs",
+            "author_name": "emyfabs",
+            "created_at": "2026-10-26T01:16:00+00:00",
+            "permalink": "https://nitter.meowing.monster/emyfabs/status/2114526674293309890#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114526451374407725",
+            "text": "\"ESSES NORDESTINOS FILHOS DA PUTA, FICAM VOTANDO NESSE PT AI!\"...",
+            "author_username": "LorenzoxtSc",
+            "author_name": "LorenzoxtSc",
+            "created_at": "2026-10-26T01:16:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LorenzoxtSc/status/2114526451374407725#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114518883205841250",
+            "text": "meus avós, com neta lésbica, nordestinos e aposentados \n\nassim que o Lula foi reeleito, me mandaram áudio comemorando \n\ne esse é o meu porquê!!!",
+            "author_username": "kareinms",
+            "author_name": "kareinms",
+            "created_at": "2026-10-26T00:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/kareinms/status/2114518883205841250#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114517612935749815",
+            "text": "MG tbm , mas os nordestinos pesam mais ...",
+            "author_username": "Kabulozocensura",
+            "author_name": "Kabulozocensura",
+            "created_at": "2026-10-26T00:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Kabulozocensura/status/2114517612935749815#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 3,
+              "retweet_count": 0,
+              "quote_count": 69
+            }
+          },
+          {
+            "id": "2114516565697675372",
+            "text": "SE HOJE VENCEMOS MUITO TEMOS QUE AGRADECER AOS NORDESTINOS, AO VELHINHOS QUE NEM PRECISAVA VOTAR MAS ELES JA VIVERAM UMA DITADURA E SABE COMO É IMPORTANTE VOTAR\nAOS MINEIROS \n\nDEUS É BOM O TEMPO TODO",
+            "author_username": "ptkfortunato",
+            "author_name": "ptkfortunato",
+            "created_at": "2026-10-26T00:36:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ptkfortunato/status/2114516565697675372#m",
+            "metrics": {
+              "like_count": 32,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114511680717668417",
+            "text": "Uma notícia boa pra nordestinos, sou nordestino, batam em minha porta e recebem um presente do lula",
+            "author_username": "Davyd29952730",
+            "author_name": "Davyd29952730",
+            "created_at": "2026-10-26T00:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Davyd29952730/status/2114511680717668417#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114510766032212062",
+            "text": "ESSAS PORRA DE NORDESTINOS PASSA FOME DO CARALHO... TEM QUE SEPARAR O BRASIL DESSES FILHOS DA PUTA",
+            "author_username": "RagePlayOficial",
+            "author_name": "RagePlayOficial",
+            "created_at": "2026-10-26T00:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RagePlayOficial/status/2114510766032212062#m",
+            "metrics": {
+              "like_count": 52,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114510273918783882",
+            "text": "Eu votei no Lula 13 meu presidente ⭐❤️ obrigado especial para os meus conterrâneos nordestinos, eu amo o nordeste, eu amo vocês.",
+            "author_username": "nandoroots",
+            "author_name": "nandoroots",
+            "created_at": "2026-10-26T00:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nandoroots/status/2114510273918783882#m",
+            "metrics": {
+              "like_count": 150,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114458064200106063",
+            "text": "Como pode não parar de vir nordestinos, lá das terras petistas ricas e cheias de oportunidades para a terra arrasada do interior paulista e para o sul do país?",
+            "author_username": "LB_putz_grila",
+            "author_name": "LB_putz_grila",
+            "created_at": "2026-10-25T20:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LB_putz_grila/status/2114458064200106063#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114390487008497683",
+            "text": "estou totalmente emocionada em votar em Lula pela ultima vez, obrigada pelas oportunidades concedidas à nós, em específico aos nordestinos. Nunca esqueceremos do maior presidente que tivemos, que der tudo certo!!!!! 🥹⭐️❤️",
+            "author_username": "xxdepr",
+            "author_name": "xxdepr",
+            "created_at": "2026-10-25T16:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/xxdepr/status/2114390487008497683#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114361229062160672",
+            "text": "Austrália e Nova Zelândia com Lula bem na frente... a pessoa sai do Brasil para um país capitalista de primeiro mundo para votar no PT... exatamente igual aos nordestinos fazem indo pra outras regiões do país em busca de melhores condições de vida!",
+            "author_username": "matsimon",
+            "author_name": "matsimon",
+            "created_at": "2026-10-25T14:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/matsimon/status/2114361229062160672#m",
+            "metrics": {
+              "like_count": 60,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114356144508428657",
+            "text": "Nós salvem por favor Nordestinos, por favor nos salvem, sabemos a democracia!!! #VivaLula13\n#DeixemONordesteVotar",
+            "author_username": "Thiagosouzasite",
+            "author_name": "Thiagosouzasite",
+            "created_at": "2026-10-25T13:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Thiagosouzasite/status/2114356144508428657#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114315339471216871",
+            "text": "Amg, todos os estados do Brasil têm muito preconceito contra os nordestinos, e eu realmente amaria que o Nordeste se tornasse um país independente. A gente tem potencial econômico, energia limpa, cabos submarinos que conectam nossa região à Europa e a outros continentes,",
+            "author_username": "ScornOfDiana",
+            "author_name": "ScornOfDiana",
+            "created_at": "2026-10-25T11:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ScornOfDiana/status/2114315339471216871#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114241019491308009",
+            "text": "E. Flávio Bolsonaro presidente 22 🇧🇷 22 🇧🇷 22 🇧🇷 22 🇧🇷 22 🇧🇷 acorda. Brasil. Diz. Não. Ao. Comunismo. De. Maduro.ula. E. A mesma coisa está. Ajudando. Cuba tirando dos. Po te. O nordeste. Nem. Água. Deus.  Os nordestinos. Daram. A. Resposta. Obrigado. Deus",
+            "author_username": "mariase82907105",
+            "author_name": "mariase82907105",
+            "created_at": "2026-10-25T06:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mariase82907105/status/2114241019491308009#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114188683716833626",
+            "text": "A esperança do Brasil estar nas mãos dos Nordestinos!",
+            "author_username": "Teo1650604",
+            "author_name": "Teo1650604",
+            "created_at": "2026-10-25T02:53:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Teo1650604/status/2114188683716833626#m",
+            "metrics": {
+              "like_count": 46,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114179251838538173",
+            "text": "Lula, palavras faltam para te agradecer por tudo que fez e faz pelo Brasil. pelo povo, por nós nordestinos. meu coração se enche de amor, alegria, esperança e medo. o medo é difícil de não sentir, pois sabemos da realidade. gratidão ao gigante Lula 💚 #SoMaisUmVotoProLula",
+            "author_username": "WellynaS_",
+            "author_name": "WellynaS_",
+            "created_at": "2026-10-25T02:16:00+00:00",
+            "permalink": "https://nitter.meowing.monster/WellynaS_/status/2114179251838538173#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114141404632915989",
+            "text": "Até parece que milhões de nordestinos viajam de avião, conta outra",
+            "author_username": "luiz47127134311",
+            "author_name": "luiz47127134311",
+            "created_at": "2026-10-24T23:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/luiz47127134311/status/2114141404632915989#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114140999530201567",
+            "text": "Carlos! Flávio nāo terá 31% no nordeste. Os nordestinos tāo putos com ele.",
+            "author_username": "GlaucoS13113",
+            "author_name": "GlaucoS13113",
+            "created_at": "2026-10-24T23:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/GlaucoS13113/status/2114140999530201567#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 3,
+              "retweet_count": 0,
+              "quote_count": 83
+            }
+          }
+        ],
+        "comments": [
+          {
+            "id": "2114558685502406967",
+            "text": "Presente professor! ❤️🇧🇷",
+            "author_username": "8runoO",
+            "author_name": "8runoO",
+            "created_at": "2026-10-26T03:24:00+00:00",
+            "permalink": "https://nitter.meowing.monster/8runoO/status/2114558685502406967#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114537409064923449",
+            "parent_comment_id": "2114537409064923449",
+            "depth": 1
+          },
+          {
+            "id": "2114535473439748355",
+            "text": "Xô xenofobico, Xô",
+            "author_username": "marinho_netto",
+            "author_name": "marinho_netto",
+            "created_at": "2026-10-26T01:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/marinho_netto/status/2114535473439748355#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114533953293963293",
+            "parent_comment_id": "2114533953293963293",
+            "depth": 1
+          },
+          {
+            "id": "2114550130300932423",
+            "text": "Por que pesam mais? Se quem ganha em Minas vence a eleição?",
+            "author_username": "MaySchon",
+            "author_name": "MaySchon",
+            "created_at": "2026-10-26T02:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MaySchon/status/2114550130300932423#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114517612935749815",
+            "parent_comment_id": "2114517612935749815",
+            "depth": 1
+          },
+          {
+            "id": "2114550662549975430",
+            "text": "Eu sou pernambucana e reconheço os lixos esquerdistas do meu estado, mas nordeste sozinho não vence eleição, tem um monte de lixo espalhados no país e o principal foco fora do nordeste é Minas!",
+            "author_username": "MaySchon",
+            "author_name": "MaySchon",
+            "created_at": "2026-10-26T02:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MaySchon/status/2114550662549975430#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114517612935749815",
+            "parent_comment_id": "2114517612935749815",
+            "depth": 1
+          },
+          {
+            "id": "2114339896290611600",
+            "text": "Pois é, espero q lula ganhe pra deixar esses conservagabundo espumando de raiva.",
+            "author_username": "ScornOfDiana",
+            "author_name": "ScornOfDiana",
+            "created_at": "2026-10-25T12:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ScornOfDiana/status/2114339896290611600#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114315339471216871",
+            "parent_comment_id": "2114315339471216871",
+            "depth": 1
+          }
+        ],
+        "pagination": {
+          "pages_collected": 41,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ]
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114624725187981341",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114624725187981341",
+      "collected_at": "2026-10-26T06:41:28-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "20dfe89f-044d-47ad-ada0-fd829208b678",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114624725187981341",
+        "text": "Se Flávio não tivesse sido capacitista, não teria motivado PVDs a votarem no Lula, sou PCD e sei do q estou falando\n\nSe Flávio não tivesse debochado da idade do Lula, não teria motivado os idosos a votarem no Lula\n\nVotos das mulheres e nordestinos fica por sua conta e do Marçal",
+        "author_username": "CLAUDIACALIEL",
+        "author_name": "CLAUDIACALIEL",
+        "created_at": "2026-10-26T07:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/CLAUDIACALIEL/status/2114624725187981341#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}
