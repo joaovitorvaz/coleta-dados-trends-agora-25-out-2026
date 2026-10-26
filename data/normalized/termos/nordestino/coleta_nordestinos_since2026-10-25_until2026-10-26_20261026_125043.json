@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinos",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "0dea8029-0204-4c1e-8c32-9ab4e1c84a30",
+    "collected_at": "2026-10-26T12:50:43-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 41
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114725016331841852",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114725016331841852",
+      "parent_post_id": null,
+      "thread_root_id": "2114725016331841852",
+      "author": {
+        "platform_id": null,
+        "display_name": "Kabulozocensura",
+        "username": "Kabulozocensura",
+        "profile_url": "https://x.com/Kabulozocensura"
+      },
+      "text": "O mercado tá derretendo ???\nEu quero é o caos nesse país de merda, quero ouvir ranger de dentes de nordestinos , quero MG se exploda com a violência das facções...\nAgora eu tô do lado deles, eles não fizeram essa escolha?!🔥",
+      "created_at": "2026-10-26T14:25:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:50:43-03:00",
+      "permalink": "https://nitter.meowing.monster/Kabulozocensura/status/2114725016331841852#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 9,
+        "retweet_count": 27,
+        "quote_count": 287
+      },
+      "matched_terms": [
+        "nordestino",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "0dea8029-0204-4c1e-8c32-9ab4e1c84a30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114725016331841852",
+        "text": "O mercado tá derretendo ???\nEu quero é o caos nesse país de merda, quero ouvir ranger de dentes de nordestinos , quero MG se exploda com a violência das facções...\nAgora eu tô do lado deles, eles não fizeram essa escolha?!🔥",
+        "author_username": "Kabulozocensura",
+        "author_name": "Kabulozocensura",
+        "created_at": "2026-10-26T14:25:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Kabulozocensura/status/2114725016331841852#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 9,
+          "retweet_count": 27,
+          "quote_count": 287
+        }
+      },
+      "normalized": {
+        "text_length": 223,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114698715126501749",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114698715126501749",
+      "parent_post_id": null,
+      "thread_root_id": "2114698715126501749",
+      "author": {
+        "platform_id": null,
+        "display_name": "victortalk",
+        "username": "victortalk",
+        "profile_url": "https://x.com/victortalk"
+      },
+      "text": "nordestinos e mineiro. os maiorais desse país, sabem fazer Política. Aprendam...",
+      "created_at": "2026-10-26T12:40:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T12:50:43-03:00",
+      "permalink": "https://nitter.meowing.monster/victortalk/status/2114698715126501749#m",
+      "metrics": {
+        "like_count": 55,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "0dea8029-0204-4c1e-8c32-9ab4e1c84a30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114698715126501749",
+        "text": "nordestinos e mineiro. os maiorais desse país, sabem fazer Política. Aprendam...",
+        "author_username": "victortalk",
+        "author_name": "victortalk",
+        "created_at": "2026-10-26T12:40:00+00:00",
+        "permalink": "https://nitter.meowing.monster/victortalk/status/2114698715126501749#m",
+        "metrics": {
+          "like_count": 55,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 80,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
