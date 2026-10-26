@@ -1,0 +1,175 @@
+{
+  "name": "trends_now_checkpoint",
+  "campaign_start": "2026-10-25",
+  "last_successful_until": null,
+  "completed_windows": [],
+  "last_run_at": "2026-10-25T20:37:21-03:00",
+  "last_post_id": null,
+  "extra": {
+    "agent_id": "trends_agora_20261025",
+    "agent_kind": "trends_now",
+    "last_cycle": {
+      "written": 0,
+      "duplicates": 0,
+      "errors": 10,
+      "json_files": 0,
+      "event": {
+        "event_id": "77325281-c87a-4573-9106-ab8ec3fa0b25",
+        "event_type": "trends_now_trends_agora_20261025",
+        "started_at": "2026-10-25T20:37:21-03:00",
+        "finished_at": "2026-10-25T20:42:28-03:00",
+        "status": "partial",
+        "since": "2026-10-25",
+        "until": "2026-10-26",
+        "records_written": 0,
+        "records_skipped_duplicate": 0,
+        "json_files_written": 0,
+        "errors": [
+          {
+            "query": "#EuVotoFazendoL",
+            "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+          },
+          {
+            "query": "Corinthians",
+            "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+          },
+          {
+            "query": "Neymar",
+            "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+          },
+          {
+            "query": "Nestor",
+            "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+          },
+          {
+            "query": "LULA REELEITO",
+            "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+          },
+          {
+            "query": "#AposentadosComLula",
+            "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+          },
+          {
+            "query": "#ComLulaNaRua",
+            "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+          },
+          {
+            "query": "Seedorf",
+            "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+          },
+          {
+            "query": "VASCO DA GAMA",
+            "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+          },
+          {
+            "query": "#LulaNaPaulista",
+            "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+          }
+        ],
+        "twitee_trends": []
+      },
+      "run_id": "77325281-c87a-4573-9106-ab8ec3fa0b25",
+      "twitee_trends": [],
+      "trends": [
+        {
+          "rank": 1,
+          "name": "#EuVotoFazendoL",
+          "query": "#EuVotoFazendoL",
+          "href": "/search?query=%23EuVotoFazendoL&tab=top",
+          "source": "twitee",
+          "source_url": "https://twitee.co/?country=BR",
+          "country": "BR"
+        },
+        {
+          "rank": 2,
+          "name": "Corinthians",
+          "query": "Corinthians",
+          "href": "/search/Corinthians?tab=top",
+          "source": "twitee",
+          "source_url": "https://twitee.co/?country=BR",
+          "country": "BR"
+        },
+        {
+          "rank": 3,
+          "name": "Neymar",
+          "query": "Neymar",
+          "href": "/search/Neymar?tab=top",
+          "source": "twitee",
+          "source_url": "https://twitee.co/?country=BR",
+          "country": "BR"
+        },
+        {
+          "rank": 4,
+          "name": "Nestor",
+          "query": "Nestor",
+          "href": "/search/Nestor?tab=top",
+          "source": "twitee",
+          "source_url": "https://twitee.co/?country=BR",
+          "country": "BR"
+        },
+        {
+          "rank": 5,
+          "name": "LULA REELEITO",
+          "query": "LULA REELEITO",
+          "href": "/search/LULA%20REELEITO?tab=top",
+          "source": "twitee",
+          "source_url": "https://twitee.co/?country=BR",
+          "country": "BR"
+        },
+        {
+          "rank": 6,
+          "name": "#AposentadosComLula",
+          "query": "#AposentadosComLula",
+          "href": "/search?query=%23AposentadosComLula&tab=top",
+          "source": "twitee",
+          "source_url": "https://twitee.co/?country=BR",
+          "country": "BR"
+        },
+        {
+          "rank": 7,
+          "name": "#ComLulaNaRua",
+          "query": "#ComLulaNaRua",
+          "href": "/search?query=%23ComLulaNaRua&tab=top",
+          "source": "twitee",
+          "source_url": "https://twitee.co/?country=BR",
+          "country": "BR"
+        },
+        {
+          "rank": 8,
+          "name": "Seedorf",
+          "query": "Seedorf",
+          "href": "/search/Seedorf?tab=top",
+          "source": "twitee",
+          "source_url": "https://twitee.co/?country=BR",
+          "country": "BR"
+        },
+        {
+          "rank": 9,
+          "name": "VASCO DA GAMA",
+          "query": "VASCO DA GAMA",
+          "href": "/search/VASCO%20DA%20GAMA?tab=top",
+          "source": "twitee",
+          "source_url": "https://twitee.co/?country=BR",
+          "country": "BR"
+        },
+        {
+          "rank": 10,
+          "name": "#LulaNaPaulista",
+          "query": "#LulaNaPaulista",
+          "href": "/search?query=%23LulaNaPaulista&tab=top",
+          "source": "twitee",
+          "source_url": "https://twitee.co/?country=BR",
+          "country": "BR"
+        }
+      ],
+      "trend_count": 10,
+      "since": "2026-10-25",
+      "until": "2026-10-26",
+      "git_sync": {
+        "pushed": false,
+        "commit": null
+      }
+    }
+  },
+  "saved_at": "2026-10-25T20:42:28"
+}

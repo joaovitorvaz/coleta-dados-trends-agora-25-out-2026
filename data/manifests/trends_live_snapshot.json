@@ -1,0 +1,98 @@
+{
+  "fetched_at": "2026-10-25T20:45:21.520920-03:00",
+  "trend_count": 10,
+  "nordeste_related_count": 0,
+  "nordeste_related": [],
+  "trends": [
+    {
+      "rank": 1,
+      "name": "#EuVotoFazendoL",
+      "query": "#EuVotoFazendoL",
+      "href": "/search?query=%23EuVotoFazendoL&tab=top",
+      "source": "twitee",
+      "source_url": "https://twitee.co/?country=BR",
+      "country": "BR"
+    },
+    {
+      "rank": 2,
+      "name": "Corinthians",
+      "query": "Corinthians",
+      "href": "/search/Corinthians?tab=top",
+      "source": "twitee",
+      "source_url": "https://twitee.co/?country=BR",
+      "country": "BR"
+    },
+    {
+      "rank": 3,
+      "name": "Neymar",
+      "query": "Neymar",
+      "href": "/search/Neymar?tab=top",
+      "source": "twitee",
+      "source_url": "https://twitee.co/?country=BR",
+      "country": "BR"
+    },
+    {
+      "rank": 4,
+      "name": "Nestor",
+      "query": "Nestor",
+      "href": "/search/Nestor?tab=top",
+      "source": "twitee",
+      "source_url": "https://twitee.co/?country=BR",
+      "country": "BR"
+    },
+    {
+      "rank": 5,
+      "name": "LULA REELEITO",
+      "query": "LULA REELEITO",
+      "href": "/search/LULA%20REELEITO?tab=top",
+      "source": "twitee",
+      "source_url": "https://twitee.co/?country=BR",
+      "country": "BR"
+    },
+    {
+      "rank": 6,
+      "name": "#AposentadosComLula",
+      "query": "#AposentadosComLula",
+      "href": "/search?query=%23AposentadosComLula&tab=top",
+      "source": "twitee",
+      "source_url": "https://twitee.co/?country=BR",
+      "country": "BR"
+    },
+    {
+      "rank": 7,
+      "name": "#ComLulaNaRua",
+      "query": "#ComLulaNaRua",
+      "href": "/search?query=%23ComLulaNaRua&tab=top",
+      "source": "twitee",
+      "source_url": "https://twitee.co/?country=BR",
+      "country": "BR"
+    },
+    {
+      "rank": 8,
+      "name": "Seedorf",
+      "query": "Seedorf",
+      "href": "/search/Seedorf?tab=top",
+      "source": "twitee",
+      "source_url": "https://twitee.co/?country=BR",
+      "country": "BR"
+    },
+    {
+      "rank": 9,
+      "name": "VASCO DA GAMA",
+      "query": "VASCO DA GAMA",
+      "href": "/search/VASCO%20DA%20GAMA?tab=top",
+      "source": "twitee",
+      "source_url": "https://twitee.co/?country=BR",
+      "country": "BR"
+    },
+    {
+      "rank": 10,
+      "name": "#LulaNaPaulista",
+      "query": "#LulaNaPaulista",
+      "href": "/search?query=%23LulaNaPaulista&tab=top",
+      "source": "twitee",
+      "source_url": "https://twitee.co/?country=BR",
+      "country": "BR"
+    }
+  ]
+}

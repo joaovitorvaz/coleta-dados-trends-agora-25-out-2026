@@ -1,0 +1,55 @@
+{
+  "event_id": "77325281-c87a-4573-9106-ab8ec3fa0b25",
+  "event_type": "trends_now_trends_agora_20261025",
+  "started_at": "2026-10-25T20:37:21-03:00",
+  "finished_at": "2026-10-25T20:42:28-03:00",
+  "status": "partial",
+  "since": "2026-10-25",
+  "until": "2026-10-26",
+  "records_written": 0,
+  "records_skipped_duplicate": 0,
+  "json_files_written": 0,
+  "errors": [
+    {
+      "query": "#EuVotoFazendoL",
+      "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+    },
+    {
+      "query": "Corinthians",
+      "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+    },
+    {
+      "query": "Neymar",
+      "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+    },
+    {
+      "query": "Nestor",
+      "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+    },
+    {
+      "query": "LULA REELEITO",
+      "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+    },
+    {
+      "query": "#AposentadosComLula",
+      "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+    },
+    {
+      "query": "#ComLulaNaRua",
+      "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+    },
+    {
+      "query": "Seedorf",
+      "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+    },
+    {
+      "query": "VASCO DA GAMA",
+      "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+    },
+    {
+      "query": "#LulaNaPaulista",
+      "message": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#page-loader.is-hidden\") to be visible\n"
+    }
+  ],
+  "twitee_trends": []
+}
