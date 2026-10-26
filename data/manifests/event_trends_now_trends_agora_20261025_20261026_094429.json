@@ -1,0 +1,14 @@
+{
+  "event_id": "bfb37fdc-71e4-477d-bb74-e41b74fa9ca8",
+  "event_type": "trends_now_trends_agora_20261025",
+  "started_at": "2026-10-26T07:19:58-03:00",
+  "finished_at": "2026-10-26T09:44:29-03:00",
+  "status": "success",
+  "since": "2026-10-25",
+  "until": "2026-10-26",
+  "records_written": 24,
+  "records_skipped_duplicate": 431,
+  "json_files_written": 3,
+  "errors": [],
+  "twitee_trends": []
+}
