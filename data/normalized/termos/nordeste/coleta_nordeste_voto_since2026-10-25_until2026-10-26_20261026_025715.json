@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste voto",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+    "collected_at": "2026-10-26T02:57:15-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 0,
+      "comments": 2,
+      "records_total": 2,
+      "skipped_duplicate": 38
+    }
+  },
+  "posts": [],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114425776301031694",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114425776301031694",
+      "post_id": "2114424797061161237",
+      "parent_comment_id": "2114424797061161237",
+      "thread_root_id": "2114424797061161237",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "oemotiivo",
+        "username": "oemotiivo",
+        "profile_url": null
+      },
+      "text": "🚨 @TSEjusbr, pedimos a extensão do horário de votação diante dos atrasos no transporte público em diversas cidades do Brasil. Nenhum eleitor pode ser prejudicado e impedido de exercer seu direito ao voto por dificuldades de deslocamento. Votar é um direito!",
+      "created_at": "2026-10-25T18:36:00+00:00",
+      "collected_at": "2026-10-26T02:57:15-03:00",
+      "parent_post_url": "https://nitter.netbub.com/oemotiivo/status/2114425776301031694#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste voto",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114425776301031694",
+        "text": "🚨 @TSEjusbr, pedimos a extensão do horário de votação diante dos atrasos no transporte público em diversas cidades do Brasil. Nenhum eleitor pode ser prejudicado e impedido de exercer seu direito ao voto por dificuldades de deslocamento. Votar é um direito!",
+        "author_username": "oemotiivo",
+        "author_name": "oemotiivo",
+        "created_at": "2026-10-25T18:36:00+00:00",
+        "permalink": "https://nitter.netbub.com/oemotiivo/status/2114425776301031694#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114424797061161237",
+        "parent_comment_id": "2114424797061161237",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 257,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114412066828132686",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114412066828132686",
+      "post_id": "2114407438271062032",
+      "parent_comment_id": "2114407438271062032",
+      "thread_root_id": "2114407438271062032",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "partesdajupiter",
+        "username": "partesdajupiter",
+        "profile_url": null
+      },
+      "text": "#LulaPresidente\n\n#LulaPelaDemocracia\n\n#DeixemONordesteVotar",
+      "created_at": "2026-10-25T17:41:00+00:00",
+      "collected_at": "2026-10-26T02:57:15-03:00",
+      "parent_post_url": "https://nitter.netbub.com/partesdajupiter/status/2114412066828132686#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste voto",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114412066828132686",
+        "text": "#LulaPresidente\n\n#LulaPelaDemocracia\n\n#DeixemONordesteVotar",
+        "author_username": "partesdajupiter",
+        "author_name": "partesdajupiter",
+        "created_at": "2026-10-25T17:41:00+00:00",
+        "permalink": "https://nitter.netbub.com/partesdajupiter/status/2114412066828132686#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114407438271062032",
+        "parent_comment_id": "2114407438271062032",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 59,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
