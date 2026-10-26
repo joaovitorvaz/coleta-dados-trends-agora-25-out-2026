@@ -1,0 +1,681 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestina",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+    "collected_at": "2026-10-26T04:03:42-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 12,
+      "comments": 0,
+      "records_total": 12,
+      "skipped_duplicate": 3
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114569958734622927",
+            "text": "Máximo respeito a essa gigante nordestina, fez o vídeo no dia de Nossa Senhora e peitou o ataque sujo da corja do herdeiro do atraso. O desespero dessa escória fascista só serviu para trazer ainda mais votos para o Lula. Não esqueceremos a sua coragem, Juliette!",
+            "author_username": "naoFabricio",
+            "author_name": "naoFabricio",
+            "created_at": "2026-10-26T04:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/naoFabricio/status/2114569958734622927#m",
+            "metrics": {
+              "like_count": 25,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114561895457800558",
+            "text": "posteriormente, no empenho para eleger um metalúrgico como presidente do país. \n\nComo mulher, nordestina, filha de mainha, não tinha como não ser de esquerda desde berço. Que sorte!!\n\nHoje, dei meu último voto pro Lula. Confesso que teve aquela paradinha de alguns segundos antes",
+            "author_username": "amariaclaudia",
+            "author_name": "amariaclaudia",
+            "created_at": "2026-10-26T03:36:00+00:00",
+            "permalink": "https://nitter.meowing.monster/amariaclaudia/status/2114561895457800558#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114561217511539143",
+            "text": "Como mulher, nordestina, filha de mainha, não tinha como não ser de esquerda desde berço. Que sorte!!\n\nHoje, dei meu último voto pro Lula. Confesso que teve aquela paradinha de alguns segundos antes de confirmar o voto.",
+            "author_username": "amariaclaudia",
+            "author_name": "amariaclaudia",
+            "created_at": "2026-10-26T03:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/amariaclaudia/status/2114561217511539143#m",
+            "metrics": {
+              "like_count": 32,
+              "reply_count": 3,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114510742628257854",
+            "text": "Eu sou nordestina, mais eu sinto  nojo do nordeste, bando de pobre que fica enchendo o saco pendido nás ruas, agora mais uma vez elegendo lula,eu tenho nojo 🤮🤮🤮🤮",
+            "author_username": "MariaOl78053223",
+            "author_name": "MariaOl78053223",
+            "created_at": "2026-10-26T00:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MariaOl78053223/status/2114510742628257854#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114501507659997684",
+            "text": "Amo minhas raízes nordestina!",
+            "author_username": "CiceroCalado",
+            "author_name": "CiceroCalado",
+            "created_at": "2026-10-25T23:36:00+00:00",
+            "permalink": "https://nitter.meowing.monster/CiceroCalado/status/2114501507659997684#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114496412398559239",
+            "text": "Eu nunca pensei, sinceramente, em concordar com isso, mas enquanto nordestina q mora aqui eu peco, por favor, dividam o país 🙏",
+            "author_username": "dignidadepsi",
+            "author_name": "dignidadepsi",
+            "created_at": "2026-10-25T23:16:00+00:00",
+            "permalink": "https://nitter.meowing.monster/dignidadepsi/status/2114496412398559239#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114419257719095522",
+            "text": "isso é tão lindo, minha avó de 81 anos, nordestina também, teve um casamento e uma vida difícil com meu avô, porém nunca deixou de se posicionar e faz isso até hoje, inclusive fazendo questão de ir votar e virar voto das amigas dela 🥹1️⃣3️⃣⭐",
+            "author_username": "_edumaria_",
+            "author_name": "_edumaria_",
+            "created_at": "2026-10-25T18:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/_edumaria_/status/2114419257719095522#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114377862396387725",
+            "text": "Desculpa, é que eu sou filha de nordestina, filha de doméstica, filha de mãe solo, moro em comunidade e sou professora. ⭐❤️",
+            "author_username": "nudesutrera",
+            "author_name": "nudesutrera",
+            "created_at": "2026-10-25T15:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nudesutrera/status/2114377862396387725#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114348955051999402",
+            "text": "Eu nunca antes tive tanto orgulho de ser nordestina. Obrigada por tanto meu povo! \n#EuVotoFazendoL \n#EuVotoLula",
+            "author_username": "sandracacto",
+            "author_name": "sandracacto",
+            "created_at": "2026-10-25T13:30:00+00:00",
+            "permalink": "https://nitter.meowing.monster/sandracacto/status/2114348955051999402#m",
+            "metrics": {
+              "like_count": 42,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114347123789439101",
+            "text": "Baiana, nordestina e mulher parda: com muito orgulho apertei 1️⃣3️⃣🚩🇧🇷 pelo  Lula @LulaOficial!\nOrgulho demais de fazer história junto com milhões de brasileiros. ❤️ de Baiano pra todo o Brasil!\n#EuVotoFazendoL #LulaPelaDemocracia #ExercitoDoLula",
+            "author_username": "FrancisDance21",
+            "author_name": "FrancisDance21",
+            "created_at": "2026-10-25T13:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FrancisDance21/status/2114347123789439101#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114341728245162092",
+            "text": "❤️ Minha mãezinha, 80 anos, nordestina, negra, guerreira e meu maior orgulho! 🥹✊🏾\n\nMinha inspiração, que fez questão de ir votar no #LULA! \n\nQue orgulho dessa mulher! \n\nTe amo, mãe! ❤️\n\n#LulaVaiVencer1️⃣3️⃣\n#LulaPresidente2026\n#SegundoTurnoÉLULA\n@AndreJanonesMG @LulaOficial",
+            "author_username": "PinaAdemir",
+            "author_name": "PinaAdemir",
+            "created_at": "2026-10-25T13:02:00+00:00",
+            "permalink": "https://nitter.meowing.monster/PinaAdemir/status/2114341728245162092#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114213976078741748",
+            "text": "a nordestina mais estilosa de sp!!",
+            "author_username": "GCTINHO",
+            "author_name": "GCTINHO",
+            "created_at": "2026-10-25T04:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/GCTINHO/status/2114213976078741748#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114193929071362510",
+            "text": "NORDESTINA DEMAIS PRA VOTAR ERRADO",
+            "author_username": "JeessykaPark",
+            "author_name": "JeessykaPark",
+            "created_at": "2026-10-25T03:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/JeessykaPark/status/2114193929071362510#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114193381437952353",
+            "text": "NORDESTINA DEMAIS PRA VOTAR ERRADO",
+            "author_username": "JeessykaPark",
+            "author_name": "JeessykaPark",
+            "created_at": "2026-10-25T03:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/JeessykaPark/status/2114193381437952353#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114143616763617355",
+            "text": "Sou nordestina e Pernambuca e não quero gorjeta, eu quero salário digno.  \n\nBolsonaro NUNCA mais. \n\n#EuVotoFazendoL",
+            "author_username": "Nadjamacdo",
+            "author_name": "Nadjamacdo",
+            "created_at": "2026-10-24T23:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Nadjamacdo/status/2114143616763617355#m",
+            "metrics": {
+              "like_count": 56,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 41,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ]
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114569958734622927",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114569958734622927",
+      "collected_at": "2026-10-26T04:03:42-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114569958734622927",
+        "text": "Máximo respeito a essa gigante nordestina, fez o vídeo no dia de Nossa Senhora e peitou o ataque sujo da corja do herdeiro do atraso. O desespero dessa escória fascista só serviu para trazer ainda mais votos para o Lula. Não esqueceremos a sua coragem, Juliette!",
+        "author_username": "naoFabricio",
+        "author_name": "naoFabricio",
+        "created_at": "2026-10-26T04:08:00+00:00",
+        "permalink": "https://nitter.meowing.monster/naoFabricio/status/2114569958734622927#m",
+        "metrics": {
+          "like_count": 25,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114561895457800558",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114561895457800558",
+      "collected_at": "2026-10-26T04:03:42-03:00",
+      "matched_terms": [
+        "esquerda",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114561895457800558",
+        "text": "posteriormente, no empenho para eleger um metalúrgico como presidente do país. \n\nComo mulher, nordestina, filha de mainha, não tinha como não ser de esquerda desde berço. Que sorte!!\n\nHoje, dei meu último voto pro Lula. Confesso que teve aquela paradinha de alguns segundos antes",
+        "author_username": "amariaclaudia",
+        "author_name": "amariaclaudia",
+        "created_at": "2026-10-26T03:36:00+00:00",
+        "permalink": "https://nitter.meowing.monster/amariaclaudia/status/2114561895457800558#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114561217511539143",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114561217511539143",
+      "collected_at": "2026-10-26T04:03:42-03:00",
+      "matched_terms": [
+        "esquerda",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114561217511539143",
+        "text": "Como mulher, nordestina, filha de mainha, não tinha como não ser de esquerda desde berço. Que sorte!!\n\nHoje, dei meu último voto pro Lula. Confesso que teve aquela paradinha de alguns segundos antes de confirmar o voto.",
+        "author_username": "amariaclaudia",
+        "author_name": "amariaclaudia",
+        "created_at": "2026-10-26T03:34:00+00:00",
+        "permalink": "https://nitter.meowing.monster/amariaclaudia/status/2114561217511539143#m",
+        "metrics": {
+          "like_count": 32,
+          "reply_count": 3,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114501507659997684",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114501507659997684",
+      "collected_at": "2026-10-26T04:03:42-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114501507659997684",
+        "text": "Amo minhas raízes nordestina!",
+        "author_username": "CiceroCalado",
+        "author_name": "CiceroCalado",
+        "created_at": "2026-10-25T23:36:00+00:00",
+        "permalink": "https://nitter.meowing.monster/CiceroCalado/status/2114501507659997684#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114496412398559239",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114496412398559239",
+      "collected_at": "2026-10-26T04:03:42-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114496412398559239",
+        "text": "Eu nunca pensei, sinceramente, em concordar com isso, mas enquanto nordestina q mora aqui eu peco, por favor, dividam o país 🙏",
+        "author_username": "dignidadepsi",
+        "author_name": "dignidadepsi",
+        "created_at": "2026-10-25T23:16:00+00:00",
+        "permalink": "https://nitter.meowing.monster/dignidadepsi/status/2114496412398559239#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114419257719095522",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114419257719095522",
+      "collected_at": "2026-10-26T04:03:42-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114419257719095522",
+        "text": "isso é tão lindo, minha avó de 81 anos, nordestina também, teve um casamento e uma vida difícil com meu avô, porém nunca deixou de se posicionar e faz isso até hoje, inclusive fazendo questão de ir votar e virar voto das amigas dela 🥹1️⃣3️⃣⭐",
+        "author_username": "_edumaria_",
+        "author_name": "_edumaria_",
+        "created_at": "2026-10-25T18:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/_edumaria_/status/2114419257719095522#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114377862396387725",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114377862396387725",
+      "collected_at": "2026-10-26T04:03:42-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114377862396387725",
+        "text": "Desculpa, é que eu sou filha de nordestina, filha de doméstica, filha de mãe solo, moro em comunidade e sou professora. ⭐❤️",
+        "author_username": "nudesutrera",
+        "author_name": "nudesutrera",
+        "created_at": "2026-10-25T15:25:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nudesutrera/status/2114377862396387725#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114341728245162092",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114341728245162092",
+      "collected_at": "2026-10-26T04:03:42-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114341728245162092",
+        "text": "❤️ Minha mãezinha, 80 anos, nordestina, negra, guerreira e meu maior orgulho! 🥹✊🏾\n\nMinha inspiração, que fez questão de ir votar no #LULA! \n\nQue orgulho dessa mulher! \n\nTe amo, mãe! ❤️\n\n#LulaVaiVencer1️⃣3️⃣\n#LulaPresidente2026\n#SegundoTurnoÉLULA\n@AndreJanonesMG @LulaOficial",
+        "author_username": "PinaAdemir",
+        "author_name": "PinaAdemir",
+        "created_at": "2026-10-25T13:02:00+00:00",
+        "permalink": "https://nitter.meowing.monster/PinaAdemir/status/2114341728245162092#m",
+        "metrics": {
+          "like_count": 21,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114213976078741748",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114213976078741748",
+      "collected_at": "2026-10-26T04:03:42-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114213976078741748",
+        "text": "a nordestina mais estilosa de sp!!",
+        "author_username": "GCTINHO",
+        "author_name": "GCTINHO",
+        "created_at": "2026-10-25T04:34:00+00:00",
+        "permalink": "https://nitter.meowing.monster/GCTINHO/status/2114213976078741748#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114193929071362510",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114193929071362510",
+      "collected_at": "2026-10-26T04:03:42-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114193929071362510",
+        "text": "NORDESTINA DEMAIS PRA VOTAR ERRADO",
+        "author_username": "JeessykaPark",
+        "author_name": "JeessykaPark",
+        "created_at": "2026-10-25T03:14:00+00:00",
+        "permalink": "https://nitter.meowing.monster/JeessykaPark/status/2114193929071362510#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114193381437952353",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114193381437952353",
+      "collected_at": "2026-10-26T04:03:42-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114193381437952353",
+        "text": "NORDESTINA DEMAIS PRA VOTAR ERRADO",
+        "author_username": "JeessykaPark",
+        "author_name": "JeessykaPark",
+        "created_at": "2026-10-25T03:12:00+00:00",
+        "permalink": "https://nitter.meowing.monster/JeessykaPark/status/2114193381437952353#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114143616763617355",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114143616763617355",
+      "collected_at": "2026-10-26T04:03:42-03:00",
+      "matched_terms": [
+        "bolsonaro",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114143616763617355",
+        "text": "Sou nordestina e Pernambuca e não quero gorjeta, eu quero salário digno.  \n\nBolsonaro NUNCA mais. \n\n#EuVotoFazendoL",
+        "author_username": "Nadjamacdo",
+        "author_name": "Nadjamacdo",
+        "created_at": "2026-10-24T23:54:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Nadjamacdo/status/2114143616763617355#m",
+        "metrics": {
+          "like_count": 56,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      }
+    }
+  ],
+  "comments": []
+}
