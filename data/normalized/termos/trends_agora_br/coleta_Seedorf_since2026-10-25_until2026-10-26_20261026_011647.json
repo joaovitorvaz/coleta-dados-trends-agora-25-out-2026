@@ -1,0 +1,816 @@
+{
+  "metadata": {
+    "term_group_id": "trends_agora_br",
+    "query": "Seedorf",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+    "collected_at": "2026-10-26T01:16:47-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 10,
+      "comments": 2,
+      "records_total": 12,
+      "skipped_duplicate": 1
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114397877506048208",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114397877506048208",
+      "parent_post_id": null,
+      "thread_root_id": "2114397877506048208",
+      "author": {
+        "platform_id": null,
+        "display_name": "FabioPorao99",
+        "username": "FabioPorao99",
+        "profile_url": "https://x.com/FabioPorao99"
+      },
+      "text": "Calma amigo não sabia que tu era Tão fã do Seedorf assim, relaxa ele tem contrato e não vai cair agora",
+      "created_at": "2026-10-25T16:45:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T01:16:47-03:00",
+      "permalink": "https://nitter.meowing.monster/FabioPorao99/status/2114397877506048208#m",
+      "metrics": {
+        "like_count": 23,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "twitee:8 Seedorf"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Seedorf",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:8 Seedorf",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114397877506048208",
+        "text": "Calma amigo não sabia que tu era Tão fã do Seedorf assim, relaxa ele tem contrato e não vai cair agora",
+        "author_username": "FabioPorao99",
+        "author_name": "FabioPorao99",
+        "created_at": "2026-10-25T16:45:00+00:00",
+        "permalink": "https://nitter.meowing.monster/FabioPorao99/status/2114397877506048208#m",
+        "metrics": {
+          "like_count": 23,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 102,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114353088068825566",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114353088068825566",
+      "parent_post_id": null,
+      "thread_root_id": "2114353088068825566",
+      "author": {
+        "platform_id": null,
+        "display_name": "rodolfcrvg",
+        "username": "rodolfcrvg",
+        "profile_url": "https://x.com/rodolfcrvg"
+      },
+      "text": "Kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk Igualzinho MC gorila meu mano Seedorf pqp",
+      "created_at": "2026-10-25T13:47:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T01:16:47-03:00",
+      "permalink": "https://nitter.meowing.monster/rodolfcrvg/status/2114353088068825566#m",
+      "metrics": {
+        "like_count": 57,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "twitee:8 Seedorf"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Seedorf",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:8 Seedorf",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114353088068825566",
+        "text": "Kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk Igualzinho MC gorila meu mano Seedorf pqp",
+        "author_username": "rodolfcrvg",
+        "author_name": "rodolfcrvg",
+        "created_at": "2026-10-25T13:47:00+00:00",
+        "permalink": "https://nitter.meowing.monster/rodolfcrvg/status/2114353088068825566#m",
+        "metrics": {
+          "like_count": 57,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 85,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114347937299907041",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114347937299907041",
+      "parent_post_id": null,
+      "thread_root_id": "2114347937299907041",
+      "author": {
+        "platform_id": null,
+        "display_name": "Antonio29128492",
+        "username": "Antonio29128492",
+        "profile_url": "https://x.com/Antonio29128492"
+      },
+      "text": "Pois, reveja o jogo, veja q o craque do Vasco foi Seedorf, que tinha o jogo co trolado, ia fazer o terceiro, era questão de tempo, com o Vasco todo aberto, aí ele põe o Alan, empurra o time pra trás pra segurar a vitória e perde em dois lances anormais do Vasco q não tem goleador",
+      "created_at": "2026-10-25T13:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T01:16:47-03:00",
+      "permalink": "https://nitter.meowing.monster/Antonio29128492/status/2114347937299907041#m",
+      "metrics": {
+        "like_count": 16,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "twitee:8 Seedorf"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Seedorf",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:8 Seedorf",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114347937299907041",
+        "text": "Pois, reveja o jogo, veja q o craque do Vasco foi Seedorf, que tinha o jogo co trolado, ia fazer o terceiro, era questão de tempo, com o Vasco todo aberto, aí ele põe o Alan, empurra o time pra trás pra segurar a vitória e perde em dois lances anormais do Vasco q não tem goleador",
+        "author_username": "Antonio29128492",
+        "author_name": "Antonio29128492",
+        "created_at": "2026-10-25T13:26:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Antonio29128492/status/2114347937299907041#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 280,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114182633248702728",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114182633248702728",
+      "parent_post_id": null,
+      "thread_root_id": "2114182633248702728",
+      "author": {
+        "platform_id": null,
+        "display_name": "MiltonCesarB",
+        "username": "MiltonCesarB",
+        "profile_url": "https://x.com/MiltonCesarB"
+      },
+      "text": "Calma Mano, professor Seedorf tem um plano!🤣🤣🤣",
+      "created_at": "2026-10-25T02:29:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T01:16:47-03:00",
+      "permalink": "https://nitter.meowing.monster/MiltonCesarB/status/2114182633248702728#m",
+      "metrics": {
+        "like_count": 22,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "pl",
+        "twitee:8 Seedorf"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Seedorf",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:8 Seedorf",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114182633248702728",
+        "text": "Calma Mano, professor Seedorf tem um plano!🤣🤣🤣",
+        "author_username": "MiltonCesarB",
+        "author_name": "MiltonCesarB",
+        "created_at": "2026-10-25T02:29:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MiltonCesarB/status/2114182633248702728#m",
+        "metrics": {
+          "like_count": 22,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 46,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114173926347546928",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114173926347546928",
+      "parent_post_id": null,
+      "thread_root_id": "2114173926347546928",
+      "author": {
+        "platform_id": null,
+        "display_name": "MiltonCesarB",
+        "username": "MiltonCesarB",
+        "profile_url": "https://x.com/MiltonCesarB"
+      },
+      "text": "Professor Seedorf tem um plano!",
+      "created_at": "2026-10-25T01:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T01:16:47-03:00",
+      "permalink": "https://nitter.meowing.monster/MiltonCesarB/status/2114173926347546928#m",
+      "metrics": {
+        "like_count": 25,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "pl",
+        "twitee:8 Seedorf"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Seedorf",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:8 Seedorf",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114173926347546928",
+        "text": "Professor Seedorf tem um plano!",
+        "author_username": "MiltonCesarB",
+        "author_name": "MiltonCesarB",
+        "created_at": "2026-10-25T01:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MiltonCesarB/status/2114173926347546928#m",
+        "metrics": {
+          "like_count": 25,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 31,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114150264341156332",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114150264341156332",
+      "parent_post_id": null,
+      "thread_root_id": "2114150264341156332",
+      "author": {
+        "platform_id": null,
+        "display_name": "KennerdeOliveir",
+        "username": "KennerdeOliveir",
+        "profile_url": "https://x.com/KennerdeOliveir"
+      },
+      "text": "O português do Seedorf é perfeito.",
+      "created_at": "2026-10-25T00:21:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T01:16:47-03:00",
+      "permalink": "https://nitter.meowing.monster/KennerdeOliveir/status/2114150264341156332#m",
+      "metrics": {
+        "like_count": 35,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "twitee:8 Seedorf"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Seedorf",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:8 Seedorf",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114150264341156332",
+        "text": "O português do Seedorf é perfeito.",
+        "author_username": "KennerdeOliveir",
+        "author_name": "KennerdeOliveir",
+        "created_at": "2026-10-25T00:21:00+00:00",
+        "permalink": "https://nitter.meowing.monster/KennerdeOliveir/status/2114150264341156332#m",
+        "metrics": {
+          "like_count": 35,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 34,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114150155633016837",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114150155633016837",
+      "parent_post_id": null,
+      "thread_root_id": "2114150155633016837",
+      "author": {
+        "platform_id": null,
+        "display_name": "TheGG28",
+        "username": "TheGG28",
+        "profile_url": "https://x.com/TheGG28"
+      },
+      "text": "Vai tomar no cu, abri a coletiva e o fudido do Seedorf tá dando risadinha\nVai tomar no cu, vai tomar no cuuuuuuuuuuuuuu",
+      "created_at": "2026-10-25T00:20:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T01:16:47-03:00",
+      "permalink": "https://nitter.meowing.monster/TheGG28/status/2114150155633016837#m",
+      "metrics": {
+        "like_count": 46,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "twitee:8 Seedorf"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Seedorf",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:8 Seedorf",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114150155633016837",
+        "text": "Vai tomar no cu, abri a coletiva e o fudido do Seedorf tá dando risadinha\nVai tomar no cu, vai tomar no cuuuuuuuuuuuuuu",
+        "author_username": "TheGG28",
+        "author_name": "TheGG28",
+        "created_at": "2026-10-25T00:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/TheGG28/status/2114150155633016837#m",
+        "metrics": {
+          "like_count": 46,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 119,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114148765187653782",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114148765187653782",
+      "parent_post_id": null,
+      "thread_root_id": "2114148765187653782",
+      "author": {
+        "platform_id": null,
+        "display_name": "Rubinilson1910",
+        "username": "Rubinilson1910",
+        "profile_url": "https://x.com/Rubinilson1910"
+      },
+      "text": "VIRADA HEROICA EM SÃO JANUÁRIO!\nO Vasco venceu o Corinthians por 3x2 com dois gols de Hinestroza no fim (42' e 44'/2T)! A vitória levou o Cruzmaltino aos 38pts (13º) e afundou o Timão no Z4 (17º), estragando a estreia de Seedorf.\n #Vasco #Corinthians\nPor Rubinilso",
+      "created_at": "2026-10-25T00:15:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T01:16:47-03:00",
+      "permalink": "https://nitter.meowing.monster/Rubinilson1910/status/2114148765187653782#m",
+      "metrics": {
+        "like_count": 78,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "pt",
+        "twitee:8 Seedorf"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Seedorf",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:8 Seedorf",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114148765187653782",
+        "text": "VIRADA HEROICA EM SÃO JANUÁRIO!\nO Vasco venceu o Corinthians por 3x2 com dois gols de Hinestroza no fim (42' e 44'/2T)! A vitória levou o Cruzmaltino aos 38pts (13º) e afundou o Timão no Z4 (17º), estragando a estreia de Seedorf.\n #Vasco #Corinthians\nPor Rubinilso",
+        "author_username": "Rubinilson1910",
+        "author_name": "Rubinilson1910",
+        "created_at": "2026-10-25T00:15:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Rubinilson1910/status/2114148765187653782#m",
+        "metrics": {
+          "like_count": 78,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 264,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114144379539706332",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114144379539706332",
+      "parent_post_id": null,
+      "thread_root_id": "2114144379539706332",
+      "author": {
+        "platform_id": null,
+        "display_name": "Adriano_SouEu",
+        "username": "Adriano_SouEu",
+        "profile_url": "https://x.com/Adriano_SouEu"
+      },
+      "text": "Surgiu uma esperança em São Januário \n\nVirou o jogo e vinha perigoso no contra ataque\n\nMas Seedorf aos 30 minutos, resolveu tirar os melhores em campo.\n\nAlguém me diga, pq o Allan ainda e jogador do Corinthians?",
+      "created_at": "2026-10-24T23:57:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T01:16:47-03:00",
+      "permalink": "https://nitter.meowing.monster/Adriano_SouEu/status/2114144379539706332#m",
+      "metrics": {
+        "like_count": 33,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "twitee:8 Seedorf"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Seedorf",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:8 Seedorf",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114144379539706332",
+        "text": "Surgiu uma esperança em São Januário \n\nVirou o jogo e vinha perigoso no contra ataque\n\nMas Seedorf aos 30 minutos, resolveu tirar os melhores em campo.\n\nAlguém me diga, pq o Allan ainda e jogador do Corinthians?",
+        "author_username": "Adriano_SouEu",
+        "author_name": "Adriano_SouEu",
+        "created_at": "2026-10-24T23:57:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Adriano_SouEu/status/2114144379539706332#m",
+        "metrics": {
+          "like_count": 33,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 211,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114141424832721214",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114141424832721214",
+      "parent_post_id": null,
+      "thread_root_id": "2114141424832721214",
+      "author": {
+        "platform_id": null,
+        "display_name": "MauroPrett83856",
+        "username": "MauroPrett83856",
+        "profile_url": "https://x.com/MauroPrett83856"
+      },
+      "text": "Impressionante o time de várzea que virou o Corinthians. Pra fazer o que o Seedorf fez hoje, não precisavam trazer o cara da casa dele. O cara simplesmente, ganhando o jogo, afundou o time na sua área até tomar a virada. Pra fazer isso, qq técnico desempregado no Brasil faria.",
+      "created_at": "2026-10-24T23:46:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T01:16:47-03:00",
+      "permalink": "https://nitter.meowing.monster/MauroPrett83856/status/2114141424832721214#m",
+      "metrics": {
+        "like_count": 551,
+        "reply_count": 1,
+        "retweet_count": 3,
+        "quote_count": 22
+      },
+      "matched_terms": [
+        "pl",
+        "twitee:8 Seedorf"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Seedorf",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:8 Seedorf",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114141424832721214",
+        "text": "Impressionante o time de várzea que virou o Corinthians. Pra fazer o que o Seedorf fez hoje, não precisavam trazer o cara da casa dele. O cara simplesmente, ganhando o jogo, afundou o time na sua área até tomar a virada. Pra fazer isso, qq técnico desempregado no Brasil faria.",
+        "author_username": "MauroPrett83856",
+        "author_name": "MauroPrett83856",
+        "created_at": "2026-10-24T23:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MauroPrett83856/status/2114141424832721214#m",
+        "metrics": {
+          "like_count": 551,
+          "reply_count": 1,
+          "retweet_count": 3,
+          "quote_count": 22
+        }
+      },
+      "normalized": {
+        "text_length": 277,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114403385487065571",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114403385487065571",
+      "post_id": "2114397877506048208",
+      "parent_comment_id": "2114397877506048208",
+      "thread_root_id": "2114397877506048208",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "VascainoMa55015",
+        "username": "VascainoMa55015",
+        "profile_url": null
+      },
+      "text": "Eu sou vascaíno e que que o Seedorf se foda",
+      "created_at": "2026-10-25T17:07:00+00:00",
+      "collected_at": "2026-10-26T01:16:47-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/VascainoMa55015/status/2114403385487065571#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Seedorf",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:8 Seedorf",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114403385487065571",
+        "text": "Eu sou vascaíno e que que o Seedorf se foda",
+        "author_username": "VascainoMa55015",
+        "author_name": "VascainoMa55015",
+        "created_at": "2026-10-25T17:07:00+00:00",
+        "permalink": "https://nitter.meowing.monster/VascainoMa55015/status/2114403385487065571#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114397877506048208",
+        "parent_comment_id": "2114397877506048208",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 43,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114341586494488744",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114341586494488744",
+      "post_id": "2114141424832721214",
+      "parent_comment_id": "2114141424832721214",
+      "thread_root_id": "2114141424832721214",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "LeandroSilva71",
+        "username": "LeandroSilva71",
+        "profile_url": null
+      },
+      "text": "Lembras que há uns dias atrás eu lhe disse que o cara só queria passar umas férias remuneradas aqui no Brasil?",
+      "created_at": "2026-10-25T13:01:00+00:00",
+      "collected_at": "2026-10-26T01:16:47-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/LeandroSilva71/status/2114341586494488744#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Seedorf",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:8 Seedorf",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114341586494488744",
+        "text": "Lembras que há uns dias atrás eu lhe disse que o cara só queria passar umas férias remuneradas aqui no Brasil?",
+        "author_username": "LeandroSilva71",
+        "author_name": "LeandroSilva71",
+        "created_at": "2026-10-25T13:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LeandroSilva71/status/2114341586494488744#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114141424832721214",
+        "parent_comment_id": "2114141424832721214",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 110,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
