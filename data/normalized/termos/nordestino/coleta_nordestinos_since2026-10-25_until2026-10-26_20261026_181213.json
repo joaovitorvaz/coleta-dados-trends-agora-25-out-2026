@@ -1,0 +1,486 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinos",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "63e8c151-f676-4986-bd42-4d225ccadf57",
+    "collected_at": "2026-10-26T18:12:13-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 5,
+      "comments": 2,
+      "records_total": 7,
+      "skipped_duplicate": 67
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114821277663822265",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114821277663822265",
+      "parent_post_id": null,
+      "thread_root_id": "2114821277663822265",
+      "author": {
+        "platform_id": null,
+        "display_name": "Dux_romanus",
+        "username": "Dux_romanus",
+        "profile_url": "https://x.com/Dux_romanus"
+      },
+      "text": "Aiiiinnn, o Sul e o Sudeste são xenófobos com o Nordeste, a recíproca é a mesma se não for bem pior. Acordem! O Nordeste não é vítima de nada e nem de ninguém. É vítima de suas próprias escolhas.\n\nSou filhos de nordestinos e aqui do Ceará.",
+      "created_at": "2026-10-26T20:47:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T18:12:13-03:00",
+      "permalink": "https://nitter.netbub.com/Dux_romanus/status/2114821277663822265#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "63e8c151-f676-4986-bd42-4d225ccadf57",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114821277663822265",
+        "text": "Aiiiinnn, o Sul e o Sudeste são xenófobos com o Nordeste, a recíproca é a mesma se não for bem pior. Acordem! O Nordeste não é vítima de nada e nem de ninguém. É vítima de suas próprias escolhas.\n\nSou filhos de nordestinos e aqui do Ceará.",
+        "author_username": "Dux_romanus",
+        "author_name": "Dux_romanus",
+        "created_at": "2026-10-26T20:47:00+00:00",
+        "permalink": "https://nitter.netbub.com/Dux_romanus/status/2114821277663822265#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 239,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114821005877121055",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114821005877121055",
+      "parent_post_id": null,
+      "thread_root_id": "2114821005877121055",
+      "author": {
+        "platform_id": null,
+        "display_name": "dmofi007",
+        "username": "dmofi007",
+        "profile_url": "https://x.com/dmofi007"
+      },
+      "text": "Mais nem todos os nordestinos foi a favor de Lula. Dentre eles eu. Sempre fui Flávio, muitos conhecidos Flávio. Então não vamos geneleraziar. Cuidado com as palavrass, e lembre-se foi o Brasil todo que votou. Então essa culpa eu e quem votou nele da minha região não carrega só.",
+      "created_at": "2026-10-26T20:46:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T18:12:13-03:00",
+      "permalink": "https://nitter.netbub.com/dmofi007/status/2114821005877121055#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "63e8c151-f676-4986-bd42-4d225ccadf57",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114821005877121055",
+        "text": "Mais nem todos os nordestinos foi a favor de Lula. Dentre eles eu. Sempre fui Flávio, muitos conhecidos Flávio. Então não vamos geneleraziar. Cuidado com as palavrass, e lembre-se foi o Brasil todo que votou. Então essa culpa eu e quem votou nele da minha região não carrega só.",
+        "author_username": "dmofi007",
+        "author_name": "dmofi007",
+        "created_at": "2026-10-26T20:46:00+00:00",
+        "permalink": "https://nitter.netbub.com/dmofi007/status/2114821005877121055#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 278,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114812700953837568",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114812700953837568",
+      "parent_post_id": null,
+      "thread_root_id": "2114812700953837568",
+      "author": {
+        "platform_id": null,
+        "display_name": "JoseTrinda29320",
+        "username": "JoseTrinda29320",
+        "profile_url": "https://x.com/JoseTrinda29320"
+      },
+      "text": "Quero que a petezada se lasquem,os nordestinos vota no Lula,e vem para o Sul e sudeste arruamar emprego,se o PT do Lula é bom porque não fucam por lá .",
+      "created_at": "2026-10-26T20:13:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T18:12:13-03:00",
+      "permalink": "https://nitter.netbub.com/JoseTrinda29320/status/2114812700953837568#m",
+      "metrics": {
+        "like_count": 104,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "nordestino",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "63e8c151-f676-4986-bd42-4d225ccadf57",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114812700953837568",
+        "text": "Quero que a petezada se lasquem,os nordestinos vota no Lula,e vem para o Sul e sudeste arruamar emprego,se o PT do Lula é bom porque não fucam por lá .",
+        "author_username": "JoseTrinda29320",
+        "author_name": "JoseTrinda29320",
+        "created_at": "2026-10-26T20:13:00+00:00",
+        "permalink": "https://nitter.netbub.com/JoseTrinda29320/status/2114812700953837568#m",
+        "metrics": {
+          "like_count": 104,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 151,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114825663693607046",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114825663693607046",
+      "parent_post_id": null,
+      "thread_root_id": "2114825663693607046",
+      "author": {
+        "platform_id": null,
+        "display_name": "batsuteko",
+        "username": "batsuteko",
+        "profile_url": "https://x.com/batsuteko"
+      },
+      "text": "Muita migração recente de Paraenses e Nordestinos pra lá né",
+      "created_at": "2026-10-26T21:05:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T18:12:13-03:00",
+      "permalink": "https://nitter.netbub.com/batsuteko/status/2114825663693607046#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "63e8c151-f676-4986-bd42-4d225ccadf57",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114825663693607046",
+        "text": "Muita migração recente de Paraenses e Nordestinos pra lá né",
+        "author_username": "batsuteko",
+        "author_name": "batsuteko",
+        "created_at": "2026-10-26T21:05:00+00:00",
+        "permalink": "https://nitter.netbub.com/batsuteko/status/2114825663693607046#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 59,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114826197003894831",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114826197003894831",
+      "parent_post_id": null,
+      "thread_root_id": "2114826197003894831",
+      "author": {
+        "platform_id": null,
+        "display_name": "gustuzumakisa",
+        "username": "gustuzumakisa",
+        "profile_url": "https://x.com/gustuzumakisa"
+      },
+      "text": "A frase \"nove dedos no debate da Globo, o vídeo de NIkoly zoando os nordestinos e a mobilização dos jovens nas ruas...esse último foi lindo d+",
+      "created_at": "2026-10-26T21:07:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T18:12:13-03:00",
+      "permalink": "https://nitter.netbub.com/gustuzumakisa/status/2114826197003894831#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "63e8c151-f676-4986-bd42-4d225ccadf57",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114826197003894831",
+        "text": "A frase \"nove dedos no debate da Globo, o vídeo de NIkoly zoando os nordestinos e a mobilização dos jovens nas ruas...esse último foi lindo d+",
+        "author_username": "gustuzumakisa",
+        "author_name": "gustuzumakisa",
+        "created_at": "2026-10-26T21:07:00+00:00",
+        "permalink": "https://nitter.netbub.com/gustuzumakisa/status/2114826197003894831#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 142,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114817339711459770",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114817339711459770",
+      "post_id": "2114776172123042036",
+      "parent_comment_id": "2114776172123042036",
+      "thread_root_id": "2114776172123042036",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "zephodenci46771",
+        "username": "zephodenci46771",
+        "profile_url": null
+      },
+      "text": "A caralha do dólar disparando, tesouro travando, dívida pública explodindo e vocês com mané capacitando? Vtncu",
+      "created_at": "2026-10-26T20:31:00+00:00",
+      "collected_at": "2026-10-26T18:12:13-03:00",
+      "parent_post_url": "https://nitter.netbub.com/zephodenci46771/status/2114817339711459770#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "63e8c151-f676-4986-bd42-4d225ccadf57",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114817339711459770",
+        "text": "A caralha do dólar disparando, tesouro travando, dívida pública explodindo e vocês com mané capacitando? Vtncu",
+        "author_username": "zephodenci46771",
+        "author_name": "zephodenci46771",
+        "created_at": "2026-10-26T20:31:00+00:00",
+        "permalink": "https://nitter.netbub.com/zephodenci46771/status/2114817339711459770#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114776172123042036",
+        "parent_comment_id": "2114776172123042036",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 110,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114727823512322101",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114727823512322101",
+      "post_id": "2114725016331841852",
+      "parent_comment_id": "2114725016331841852",
+      "thread_root_id": "2114725016331841852",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "EmileZo85444700",
+        "username": "EmileZo85444700",
+        "profile_url": null
+      },
+      "text": "Sua visão é abominável, rancorosa, carregada de ódio, vingança, sadismo, pessimismo tóxico, entre outros atributos infernais, porém …. pensando bem… eu concordo com você!",
+      "created_at": "2026-10-26T14:36:00+00:00",
+      "collected_at": "2026-10-26T18:12:13-03:00",
+      "parent_post_url": "https://nitter.netbub.com/EmileZo85444700/status/2114727823512322101#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "63e8c151-f676-4986-bd42-4d225ccadf57",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114727823512322101",
+        "text": "Sua visão é abominável, rancorosa, carregada de ódio, vingança, sadismo, pessimismo tóxico, entre outros atributos infernais, porém …. pensando bem… eu concordo com você!",
+        "author_username": "EmileZo85444700",
+        "author_name": "EmileZo85444700",
+        "created_at": "2026-10-26T14:36:00+00:00",
+        "permalink": "https://nitter.netbub.com/EmileZo85444700/status/2114727823512322101#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114725016331841852",
+        "parent_comment_id": "2114725016331841852",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 170,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
