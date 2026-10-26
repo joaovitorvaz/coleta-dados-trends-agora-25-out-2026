@@ -1,0 +1,2378 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+    "collected_at": "2026-10-26T03:46:50-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 27,
+      "comments": 5,
+      "records_total": 32,
+      "skipped_duplicate": 43
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114576489194696843",
+            "text": "Olha, eu sou nordestino, já morei em cidade pequena e nunca vi uma cena igual aquela que o Nicola mostrou, o máximo que eu já vi foi no Google maps de muitos anos atrás",
+            "author_username": "andso67722",
+            "author_name": "andso67722",
+            "created_at": "2026-10-26T04:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/andso67722/status/2114576489194696843#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114564415055933796",
+            "text": "Eu sou paulistana neta de cearenses com o maior orgulho do mundo, mexeu com nordestino, mexeu cmg",
+            "author_username": "priiidernocka",
+            "author_name": "priiidernocka",
+            "created_at": "2026-10-26T03:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/priiidernocka/status/2114564415055933796#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114562017004589246",
+            "text": "Mais uma vez venho aqui nessa rede social, agradecer ao Povo Nordestino!\n     \n       VIVA O NORDESTE!!!!",
+            "author_username": "DelphinoLuis",
+            "author_name": "DelphinoLuis",
+            "created_at": "2026-10-26T03:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DelphinoLuis/status/2114562017004589246#m",
+            "metrics": {
+              "like_count": 25,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114540068522410093",
+            "text": "sou do NORDESTE mineiro, meio que sou um pouco nordestino também",
+            "author_username": "igorpatzlaff",
+            "author_name": "igorpatzlaff",
+            "created_at": "2026-10-26T02:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/igorpatzlaff/status/2114540068522410093#m",
+            "metrics": {
+              "like_count": 492,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 24
+            }
+          },
+          {
+            "id": "2114539029970501998",
+            "text": "aí jogar half life ou Wolfenstein dps da vitória é papo?",
+            "author_username": "gueirross",
+            "author_name": "gueirross",
+            "created_at": "2026-10-26T02:06:00+00:00",
+            "permalink": "https://nitter.meowing.monster/gueirross/status/2114539029970501998#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114533953293963293",
+            "text": "É mais fácil separar o Brasil dos nordestinos.\n\nE, aviso: Não me façam engolir nordestino.",
+            "author_username": "FabioGhisleni",
+            "author_name": "FabioGhisleni",
+            "created_at": "2026-10-26T01:45:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FabioGhisleni/status/2114533953293963293#m",
+            "metrics": {
+              "like_count": 93,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114532710232297705",
+            "text": "Quem assim como tbm é nordestino, se prepara para a xenofobia nos próximos dias, aliás, próximos anos",
+            "author_username": "claudio_psciano",
+            "author_name": "claudio_psciano",
+            "created_at": "2026-10-26T01:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/claudio_psciano/status/2114532710232297705#m",
+            "metrics": {
+              "like_count": 50,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114528986210427132",
+            "text": "Oi nordestino, oque você está fazendo no sul? O nordeste não é a galinha dos ovos de oro do lula ? \n\nLá não é um paraíso? \nNão é lá que não tem mais problema o papai dos pobre ama vocês usar minha foto também",
+            "author_username": "GambaroSantos",
+            "author_name": "GambaroSantos",
+            "created_at": "2026-10-26T01:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/GambaroSantos/status/2114528986210427132#m",
+            "metrics": {
+              "like_count": 47,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114524561819500686",
+            "text": "O dia que um ambulante nordestino vier me oferecer panela veia e meia furada , vai tomar um paur do caralho ... Nordestino do caralho ..",
+            "author_username": "Possaitt",
+            "author_name": "Possaitt",
+            "created_at": "2026-10-26T01:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Possaitt/status/2114524561819500686#m",
+            "metrics": {
+              "like_count": 98,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114521779595006012",
+            "text": "os nordestino fazem a merda e vem morar no PU, no gardênia, rio das pedras e etc, tinham q ser barrados de pisar aqui kk morre na miséria lá onde vcs fazem a merda, nn corre pra trabalhar aqui nn, no desespero de sobreviver.",
+            "author_username": "AndersonCRF94",
+            "author_name": "AndersonCRF94",
+            "created_at": "2026-10-26T00:57:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AndersonCRF94/status/2114521779595006012#m",
+            "metrics": {
+              "like_count": 159,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114518748384124935",
+            "text": "Nós nordestino demos o nome mesmo sem coletivo eu fui pela nossa democracia fora meliciano  fdp",
+            "author_username": "TaniaL2005",
+            "author_name": "TaniaL2005",
+            "created_at": "2026-10-26T00:45:00+00:00",
+            "permalink": "https://nitter.meowing.monster/TaniaL2005/status/2114518748384124935#m",
+            "metrics": {
+              "like_count": 252,
+              "reply_count": 2,
+              "retweet_count": 1,
+              "quote_count": 10
+            }
+          },
+          {
+            "id": "2114514568353329449",
+            "text": "Não vai ter isso de carioca mais nordestino, aqui não se cria! #Lula13",
+            "author_username": "o_livigomes",
+            "author_name": "o_livigomes",
+            "created_at": "2026-10-26T00:28:00+00:00",
+            "permalink": "https://nitter.meowing.monster/o_livigomes/status/2114514568353329449#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114513665428693084",
+            "text": "Quero ver nordestino passando fome",
+            "author_username": "Leorz8",
+            "author_name": "Leorz8",
+            "created_at": "2026-10-26T00:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Leorz8/status/2114513665428693084#m",
+            "metrics": {
+              "like_count": 26,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114512692039807035",
+            "text": "Irmão como Nordestino não tem nada haver isso ,eles só usam nosso nordeste para dá um ar de legalidade na fraude que eles promove desde da última eleição",
+            "author_username": "Juliano23053827",
+            "author_name": "Juliano23053827",
+            "created_at": "2026-10-26T00:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Juliano23053827/status/2114512692039807035#m",
+            "metrics": {
+              "like_count": 205,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114511680717668417",
+            "text": "Uma notícia boa pra nordestinos, sou nordestino, batam em minha porta e recebem um presente do lula",
+            "author_username": "Davyd29952730",
+            "author_name": "Davyd29952730",
+            "created_at": "2026-10-26T00:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Davyd29952730/status/2114511680717668417#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114511294137090216",
+            "text": "Vai lá trouxa , vai lá passar as férias na desgraça do nordeste e ajudar a economia dos adestrados .\nEu a partir de hoje não dou nem água pra nordestino , não compro uma balinha desses comedores de ração 💩",
+            "author_username": "Kabulozocensura",
+            "author_name": "Kabulozocensura",
+            "created_at": "2026-10-26T00:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Kabulozocensura/status/2114511294137090216#m",
+            "metrics": {
+              "like_count": 98,
+              "reply_count": 332,
+              "retweet_count": 438,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2114510473584386421",
+            "text": "Povo nordestino né .. bando de filhos da puta",
+            "author_username": "RagePlayOficial",
+            "author_name": "RagePlayOficial",
+            "created_at": "2026-10-26T00:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RagePlayOficial/status/2114510473584386421#m",
+            "metrics": {
+              "like_count": 66,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114502853729411075",
+            "text": "NUNCA. JAMAIS, DE MANEIRA ALGUMA, SUBESTIME O POVO, MUITO MENOS O NORDESTINO",
+            "author_username": "visseboe",
+            "author_name": "visseboe",
+            "created_at": "2026-10-25T23:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/visseboe/status/2114502853729411075#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114471889665917284",
+            "text": "Sensação de ser nordestino e o Brasil jogando toda a responsa DNV na gente com o bônus de ser nb",
+            "author_username": "cabecadecd",
+            "author_name": "cabecadecd",
+            "created_at": "2026-10-25T21:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/cabecadecd/status/2114471889665917284#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114468792088875099",
+            "text": "Pensei exatamente isso: foi só o traste genocida aparecer em em nossas vidas e as eleições ficaram violentas, diretor de PRF impedindo nordestino de votar, ministro do TSE sendo totalmente parcial beneficiando o candidato dos bozos.",
+            "author_username": "AnaPaul37403424",
+            "author_name": "AnaPaul37403424",
+            "created_at": "2026-10-25T21:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AnaPaul37403424/status/2114468792088875099#m",
+            "metrics": {
+              "like_count": 34,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114446152351330596",
+            "text": "Sindicalistas adesivaram ônibus público com \"Lula 13\", os ônibus foram impedidos de sair, tiveram de negociar com os sindicalistas e os petistas estão culpando alguém de direita por estarem \"impedindo o nordestino de votar\"...",
+            "author_username": "AldemJohnston",
+            "author_name": "AldemJohnston",
+            "created_at": "2026-10-25T19:57:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AldemJohnston/status/2114446152351330596#m",
+            "metrics": {
+              "like_count": 33,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114444337312592269",
+            "text": "Como me sinto esperando a votação sendo bissexual, gênero fluido, poliamoroso, nordestino e filho de uma mãe solteira que passou anos desempregada se virando nos 30 pra por comida na mesa:",
+            "author_username": "KamyAybrey",
+            "author_name": "KamyAybrey",
+            "created_at": "2026-10-25T19:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/KamyAybrey/status/2114444337312592269#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114414872217681940",
+            "text": "Vai a pé, de carona, de jegue, mas o nordestino vai votar 1️⃣3️⃣ #BoraLula\n#DeixemONordesteVotar",
+            "author_username": "Silviamae",
+            "author_name": "Silviamae",
+            "created_at": "2026-10-25T17:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Silviamae/status/2114414872217681940#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114401639821951241",
+            "text": "No Nordeste fascista não se cria!\nO TRE-BA, acabou de decretar a prisão do secretário de mobilidade de Salvador por reduzir a frota de ônibus hoje na capital baiana.\nRespeitem o povo baiano! Respeitem o povo nordestino!\n#DeixemABahiaVotar",
+            "author_username": "PataxoThyara",
+            "author_name": "PataxoThyara",
+            "created_at": "2026-10-25T17:00:00+00:00",
+            "permalink": "https://nitter.meowing.monster/PataxoThyara/status/2114401639821951241#m",
+            "metrics": {
+              "like_count": 284,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 11
+            }
+          },
+          {
+            "id": "2114395992456065094",
+            "text": "Ele é nordestino, Pernambucano, filho de psicóloga, neto de professora.  \nFascista aqui não se cria! \n#BoraLula #LulaPelaDemocracia \n#Lula13",
+            "author_username": "PsicoLeilaCosta",
+            "author_name": "PsicoLeilaCosta",
+            "created_at": "2026-10-25T16:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/PsicoLeilaCosta/status/2114395992456065094#m",
+            "metrics": {
+              "like_count": 29,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114395008618868922",
+            "text": "ATÉ NA BAHIA? \nBahia era um reduto petista \nO nordeste brasileiro acordou \nEles tentaram calarem o povo nordestino mas não conseguia \nO povo nordestino irá votar Flávio 22",
+            "author_username": "DivinoAlvesdeP1",
+            "author_name": "DivinoAlvesdeP1",
+            "created_at": "2026-10-25T16:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DivinoAlvesdeP1/status/2114395008618868922#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114380929187623065",
+            "text": "fiz cuscuz de café da manhã em homenagem ao nosso velhinho nordestino @LulaOficial hoje",
+            "author_username": "gyelsew",
+            "author_name": "gyelsew",
+            "created_at": "2026-10-25T15:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/gyelsew/status/2114380929187623065#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114368174422458764",
+            "text": "Apesar da angústia e do medo é muito bom ser nordestino e morar no Nordeste.  Vários carros adesivados e buzinando pra gente. Fascista aqui não se cria. Eu acredito na virada ❤️ #Lula13",
+            "author_username": "wanderson26",
+            "author_name": "wanderson26",
+            "created_at": "2026-10-25T14:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/wanderson26/status/2114368174422458764#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114349597334106277",
+            "text": "Um Carcará passou sobrevoando a minha zona de votação, um bom nordestino sabe o que isso significa. ⭐❤️",
+            "author_username": "Willtrends",
+            "author_name": "Willtrends",
+            "created_at": "2026-10-25T13:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Willtrends/status/2114349597334106277#m",
+            "metrics": {
+              "like_count": 385,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 17
+            }
+          },
+          {
+            "id": "2114345588481315079",
+            "text": "instagram.com/reel/De4m5fiiZ…\nÉ esse espírito nordestino, @nikolas_dm , q nos mantém fortes, lutadores e lúcidos. Somos impulsionados pela coragem e não pela covardia. A tua raiva é porque aqui DIREITA não se CRIA. Sabe por quê?\nÉ  porque o nosso alimento é nocivo pra vocês: CARÁTER!",
+            "author_username": "paulo47araujo",
+            "author_name": "paulo47araujo",
+            "created_at": "2026-10-25T13:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2114345588481315079#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114330767518007580",
+            "text": "SENTIU\n\n(E ainda por cima nordestino bolsonarista - a piada vem pronta)",
+            "author_username": "priiidernocka",
+            "author_name": "priiidernocka",
+            "created_at": "2026-10-25T12:18:00+00:00",
+            "permalink": "https://nitter.meowing.monster/priiidernocka/status/2114330767518007580#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114318805664960900",
+            "text": "Lula é tipo \"eu levei o ITA pro Ceará porque os cearenses eram os mais aprovados no ITA 🗿\" e o Flávio \"você nordestino vai ganhar tua gorjeta em dólar tá ok 😎👉🏻🇺🇸🇮🇱\"",
+            "author_username": "jvspalbuquerque",
+            "author_name": "jvspalbuquerque",
+            "created_at": "2026-10-25T11:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jvspalbuquerque/status/2114318805664960900#m",
+            "metrics": {
+              "like_count": 77,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114287249374278056",
+            "text": "Ontem, eu não fui apenas a um ato político: fui defender o direito de existir, amar e viver sem medo no meu próprio país. ❤️🏳️‍🌈🇧🇷 Como homem gay, nordestino e alguém que nunca deixou de acreditar na democracia, sigo ao lado de Lula! #LULAVAIVENCER #ExercitoDoLula ❤️⭐️🏳️‍🌈😍🙏",
+            "author_username": "Israelbarbosa_",
+            "author_name": "Israelbarbosa_",
+            "created_at": "2026-10-25T09:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Israelbarbosa_/status/2114287249374278056#m",
+            "metrics": {
+              "like_count": 33,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114178721556873236",
+            "text": "PETISTA QUE ODEIA NORDESTINO..",
+            "author_username": "065999036707cba",
+            "author_name": "065999036707cba",
+            "created_at": "2026-10-25T02:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/065999036707cba/status/2114178721556873236#m",
+            "metrics": {
+              "like_count": 987,
+              "reply_count": 0,
+              "retweet_count": 20,
+              "quote_count": 47
+            }
+          },
+          {
+            "id": "2114128353389134333",
+            "text": "A GOL, está boicotando o povo nordestino! Será q tem o dedo de FB? Ou q sabe de um governador, prefeito, empresário bolsonaristas??!\n@Mari_Jurema @mariarita4141 @DeniLazzaroto @SilasPortugalR1 @edmilsonsap @VeraRaich @ZATANGOIES @LeonelRadde @Alice_inland13 @vinicios_betiol",
+            "author_username": "LilineRey",
+            "author_name": "LilineRey",
+            "created_at": "2026-10-24T22:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LilineRey/status/2114128353389134333#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          }
+        ],
+        "comments": [
+          {
+            "id": "2114577588400304533",
+            "text": "em que nordeste você vive? eu sou do interior da bahia, e a área rural de lá é assim. os companheiros de trabalho do meu pai, as famílias deles, vivem em lugares assim. é muito mal caratismo querer negar algo que você NÃO sabe, e que EXISTE, é muito. sério vocês se superam",
+            "author_username": "ogStateOfGrace",
+            "author_name": "ogStateOfGrace",
+            "created_at": "2026-10-26T04:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ogStateOfGrace/status/2114577588400304533#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114576489194696843",
+            "parent_comment_id": "2114576489194696843",
+            "depth": 1
+          },
+          {
+            "id": "2114559148918489479",
+            "text": "lembrei do vídeo da dona alvará falando que o seu ladir é do norte de minas divisa com a Bahia kkkk",
+            "author_username": "thatssoerick",
+            "author_name": "thatssoerick",
+            "created_at": "2026-10-26T03:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/thatssoerick/status/2114559148918489479#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114540068522410093",
+            "parent_comment_id": "2114540068522410093",
+            "depth": 1
+          },
+          {
+            "id": "2114548111108681867",
+            "text": "amo",
+            "author_username": "thavsmtttts",
+            "author_name": "thavsmtttts",
+            "created_at": "2026-10-26T02:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/thavsmtttts/status/2114548111108681867#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114540068522410093",
+            "parent_comment_id": "2114540068522410093",
+            "depth": 1
+          },
+          {
+            "id": "2114535072166449465",
+            "text": "Muito obrigada Nordeste por ajudar na reeleição do \nPRESIDENTE LULA 🌟",
+            "author_username": "Joanateresapt13",
+            "author_name": "Joanateresapt13",
+            "created_at": "2026-10-26T01:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Joanateresapt13/status/2114535072166449465#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114518748384124935",
+            "parent_comment_id": "2114518748384124935",
+            "depth": 1
+          },
+          {
+            "id": "2114542390753005665",
+            "text": "Muito obrigado pela contribuição. Gratidão sempre a vocês.",
+            "author_username": "campos_hoffmann",
+            "author_name": "campos_hoffmann",
+            "created_at": "2026-10-26T02:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/campos_hoffmann/status/2114542390753005665#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114518748384124935",
+            "parent_comment_id": "2114518748384124935",
+            "depth": 1
+          },
+          {
+            "id": "2114512556786131384",
+            "text": "Mg tb foi fdp demais. Bh é um antro de esquerdistas. Deus tenha misericórdia de nós.",
+            "author_username": "GarzedimPetru",
+            "author_name": "GarzedimPetru",
+            "created_at": "2026-10-26T00:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/GarzedimPetru/status/2114512556786131384#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114515426310820210",
+            "text": "Vai tomar no teu cu",
+            "author_username": "gleison_cunha",
+            "author_name": "gleison_cunha",
+            "created_at": "2026-10-26T00:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/gleison_cunha/status/2114515426310820210#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114517052920610857",
+            "text": "Vc só percebeu o Nordeste, foi? Dá uma geral nos outros estados.",
+            "author_username": "Bianca_Cid",
+            "author_name": "Bianca_Cid",
+            "created_at": "2026-10-26T00:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Bianca_Cid/status/2114517052920610857#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114545606438076580",
+            "text": "Ia passar o aniversário dos meus filhos no nordeste até desanimei kkk vou fazer igual os demais,ir pra fora do país e votar com o uc no lugar da consciência e deixar quem tá aqui no Brasil se lascando kkkkkk",
+            "author_username": "Hekekka1b",
+            "author_name": "Hekekka1b",
+            "created_at": "2026-10-26T02:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Hekekka1b/status/2114545606438076580#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114585929461490081",
+            "text": "Exatamente isso, sou pernambucano, e digo, a cada 10 nordestino 8 mama o lula.\nNão deem emprego a nordestino, não comprem nada, não deem nem sequer um copo de água, o povo daqui sao satanista, catimbozeiros, lugar de putas, viados e maconheiros. \n\nNEM UM COPO DE AGUA DEEM..",
+            "author_username": "Val1Alves",
+            "author_name": "Val1Alves",
+            "created_at": "2026-10-26T05:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Val1Alves/status/2114585929461490081#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114521602431828129",
+            "text": "Eles deve receber auxílio muito alto não é possível",
+            "author_username": "Flamenguist44",
+            "author_name": "Flamenguist44",
+            "created_at": "2026-10-26T00:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Flamenguist44/status/2114521602431828129#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114527681455038625",
+            "text": "Não esculacha. Vai maltratar o nordestino trabalhador e dar a bunda para o sulista comuna? Se liga. Teu problema é o PT",
+            "author_username": "ReBaleeiro",
+            "author_name": "ReBaleeiro",
+            "created_at": "2026-10-26T01:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ReBaleeiro/status/2114527681455038625#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114522795115720883",
+            "text": "Nordeste todo não, não generalizar eu votei em bolsonaro desde de quanto tirei meu título, e sempre vou lutar pelo neu país indepedente dessas pessoas idiotas",
+            "author_username": "ermersonma81499",
+            "author_name": "ermersonma81499",
+            "created_at": "2026-10-26T01:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ermersonma81499/status/2114522795115720883#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114525425875468297",
+            "text": "Tbm não volto mais pra lá. Agora é Costa Verde de SP e RJ e Sul do Brasil",
+            "author_username": "KeyserSoseIII",
+            "author_name": "KeyserSoseIII",
+            "created_at": "2026-10-26T01:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/KeyserSoseIII/status/2114525425875468297#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114523164554203374",
+            "text": "Eu que moro aqui, mas indignada que o Brasil todo, povo burro",
+            "author_username": "jovanawmou",
+            "author_name": "jovanawmou",
+            "created_at": "2026-10-26T01:03:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jovanawmou/status/2114523164554203374#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114539618183925933",
+            "text": "Depois vem pra cá vender panela e rede pq ta no sufoco",
+            "author_username": "jamesmp4z",
+            "author_name": "jamesmp4z",
+            "created_at": "2026-10-26T02:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jamesmp4z/status/2114539618183925933#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114518549280780534",
+            "text": "Eu falo isso sempre e sou nordestina. \nO nordeste merece um boicote geral.\nO nordeste merece o esquecimento absoluto.",
+            "author_username": "ADApolitica",
+            "author_name": "ADApolitica",
+            "created_at": "2026-10-26T00:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ADApolitica/status/2114518549280780534#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114543354641862778",
+            "text": "Sou Paraibana e não votei no Lula,nem eu, nem o meu marido. Não fazemos parte disso.",
+            "author_username": "amandalarryssa1",
+            "author_name": "amandalarryssa1",
+            "created_at": "2026-10-26T02:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/amandalarryssa1/status/2114543354641862778#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114529756989284560",
+            "text": "Tu não tem dinheiro para vir. Fica por aí mesmo kkkkkkk",
+            "author_username": "LevySLima",
+            "author_name": "LevySLima",
+            "created_at": "2026-10-26T01:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LevySLima/status/2114529756989284560#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114545264463597575",
+            "text": "Sou do nordestina, eu e minha família nunca votamos no PT, moro em São Paulo fazem 30 anos,mas meus irmãos que moram no Ceará sofrem com vizinhos petistas e até minha sobrinha perdeu o emprego por ter postado apoio no Flávio! Lamento! Mas vocês tem razão!!",
+            "author_username": "Marilen85561023",
+            "author_name": "Marilen85561023",
+            "created_at": "2026-10-26T02:30:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Marilen85561023/status/2114545264463597575#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114523123404128564",
+            "text": "Aqui no meu prédio a maioria dos porteiros votaram no PT, estão lá embaixo comemorando..\n\nNão irei dar a caixinha de Natal para nenhum!",
+            "author_username": "paulazanelli",
+            "author_name": "paulazanelli",
+            "created_at": "2026-10-26T01:02:00+00:00",
+            "permalink": "https://nitter.meowing.monster/paulazanelli/status/2114523123404128564#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114511938549919859",
+            "text": "Moro aqui em Recife, estão\nComemorando feito loucos, comem merda e querem\nContinuar comendo",
+            "author_username": "fabdiniz",
+            "author_name": "fabdiniz",
+            "created_at": "2026-10-26T00:18:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fabdiniz/status/2114511938549919859#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114550810348527733",
+            "text": "Sou nordestino e estou sofrendo tanto ou mais que vc! Vc não viu as manifestações da direita no Nordeste? O processo é o problema!!!!",
+            "author_username": "SilvrioGuimare3",
+            "author_name": "SilvrioGuimare3",
+            "created_at": "2026-10-26T02:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/SilvrioGuimare3/status/2114550810348527733#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114573090269081927",
+            "text": "A partir de hoje é cortar todo tipo de relação que eu tenho com petista\n\nNão tem mais amizade",
+            "author_username": "nordestimaev",
+            "author_name": "nordestimaev",
+            "created_at": "2026-10-26T04:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nordestimaev/status/2114573090269081927#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114515596343746641",
+            "text": "Mesma coisa. Quero que nordestinos e mineiros vão para puta que os pariu. Não volto nesses lugares de jeito algum. Não são dignos do meu suado dinheiro.",
+            "author_username": "Unlimitedpoder",
+            "author_name": "Unlimitedpoder",
+            "created_at": "2026-10-26T00:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Unlimitedpoder/status/2114515596343746641#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114548065675759966",
+            "text": "Nunca passei férias nesse lugar, vou para exterior.",
+            "author_username": "CamillaAbelardo",
+            "author_name": "CamillaAbelardo",
+            "created_at": "2026-10-26T02:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/CamillaAbelardo/status/2114548065675759966#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114542636757315754",
+            "text": "E os Mineirin uai,  e os 46 % de paulistas , os 46 % de fluminenses que votaram no nove dedos , tem que parar de jogar a eleição desse desgraçado do lula só nas costas dos nordestinos , tem idiotas no Brasil todo , mas nem todo nordestino é um deles.",
+            "author_username": "tanjiro_dc",
+            "author_name": "tanjiro_dc",
+            "created_at": "2026-10-26T02:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/tanjiro_dc/status/2114542636757315754#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114531546124194179",
+            "text": "Simples isso \nE se possível dividir o país \nSeria um ótimo acordo",
+            "author_username": "DennerRamos9",
+            "author_name": "DennerRamos9",
+            "created_at": "2026-10-26T01:36:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DennerRamos9/status/2114531546124194179#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114518897747755438",
+            "text": "Eu ia comprar viagem pra lá essa semana, já cancelei. Justamente esperei a eleição. Vaf.",
+            "author_username": "Hmguimaraes2026",
+            "author_name": "Hmguimaraes2026",
+            "created_at": "2026-10-26T00:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Hmguimaraes2026/status/2114518897747755438#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114534624705777718",
+            "text": "Agora fiquei na dúvida. Se o Trump mandar um daqueles B2 pra arregacar um quarteirão no Brasil seria melhor fazer em Brasília ou no nordeste ?",
+            "author_username": "Toothsadeh",
+            "author_name": "Toothsadeh",
+            "created_at": "2026-10-26T01:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Toothsadeh/status/2114534624705777718#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114526023567933544",
+            "text": "Se começar a agir igual escória, vai perder a moral de critica-los :D",
+            "author_username": "MarceloCatcher",
+            "author_name": "MarceloCatcher",
+            "created_at": "2026-10-26T01:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MarceloCatcher/status/2114526023567933544#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114519758854877590",
+            "text": "Não diga isso meu caro, entendo profundamente sua angústia, mas como nordestino, posso lhe garantir que aqui há um povo que anseia ardentemente por liberdade e prosperidade de verdade. Estou arrasado, mas sei que Deus sempre terá o controle de tudo.",
+            "author_username": "DanielHatikvah",
+            "author_name": "DanielHatikvah",
+            "created_at": "2026-10-26T00:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DanielHatikvah/status/2114519758854877590#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114516886503272580",
+            "text": "Minas Gerais, também! Que vergonha,que pesadelo!",
+            "author_username": "regifreitas1966",
+            "author_name": "regifreitas1966",
+            "created_at": "2026-10-26T00:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/regifreitas1966/status/2114516886503272580#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114547111668642078",
+            "text": "Dá pra fazer isso no litoral alagoano, a maioria votou no Flávio, de resto, está certo",
+            "author_username": "LeviSil27708422",
+            "author_name": "LeviSil27708422",
+            "created_at": "2026-10-26T02:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LeviSil27708422/status/2114547111668642078#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114552820149997810",
+            "text": "E tem que expulsar todos do sul.",
+            "author_username": "wanderleicta",
+            "author_name": "wanderleicta",
+            "created_at": "2026-10-26T03:00:00+00:00",
+            "permalink": "https://nitter.meowing.monster/wanderleicta/status/2114552820149997810#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114515856633823699",
+            "text": "Sou do nordeste e digo, quero que o Pernambucano e nordestino SE LASQUE feio ano que vem e nos proximos anos...",
+            "author_username": "Ciro_Caribe_",
+            "author_name": "Ciro_Caribe_",
+            "created_at": "2026-10-26T00:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Ciro_Caribe_/status/2114515856633823699#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114523641333334193",
+            "text": "Eu não faço isso tem 4 anos, e o próximoprojeto é deixar o Brasil.",
+            "author_username": "FoggiaBrasil",
+            "author_name": "FoggiaBrasil",
+            "created_at": "2026-10-26T01:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FoggiaBrasil/status/2114523641333334193#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114523868140335533",
+            "text": "O Flávio não perdeu só no nordeste, vc não viu que em Minas Gerais e Santa Catarina votaram no Lula?",
+            "author_username": "maria36930330",
+            "author_name": "maria36930330",
+            "created_at": "2026-10-26T01:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/maria36930330/status/2114523868140335533#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114511294137090216",
+            "parent_comment_id": "2114511294137090216",
+            "depth": 1
+          },
+          {
+            "id": "2114400108355703003",
+            "text": "Amigo, denuncia isso",
+            "author_username": "juniorayres",
+            "author_name": "juniorayres",
+            "created_at": "2026-10-25T16:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/juniorayres/status/2114400108355703003#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114349597334106277",
+            "parent_comment_id": "2114349597334106277",
+            "depth": 1
+          },
+          {
+            "id": "2114355229332558103",
+            "text": "Pega mata e come!",
+            "author_username": "chinelinho38",
+            "author_name": "chinelinho38",
+            "created_at": "2026-10-25T13:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/chinelinho38/status/2114355229332558103#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114349597334106277",
+            "parent_comment_id": "2114349597334106277",
+            "depth": 1
+          }
+        ],
+        "pagination": {
+          "pages_collected": 41,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ]
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114576489194696843",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114576489194696843",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114576489194696843",
+        "text": "Olha, eu sou nordestino, já morei em cidade pequena e nunca vi uma cena igual aquela que o Nicola mostrou, o máximo que eu já vi foi no Google maps de muitos anos atrás",
+        "author_username": "andso67722",
+        "author_name": "andso67722",
+        "created_at": "2026-10-26T04:34:00+00:00",
+        "permalink": "https://nitter.meowing.monster/andso67722/status/2114576489194696843#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114564415055933796",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114564415055933796",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114564415055933796",
+        "text": "Eu sou paulistana neta de cearenses com o maior orgulho do mundo, mexeu com nordestino, mexeu cmg",
+        "author_username": "priiidernocka",
+        "author_name": "priiidernocka",
+        "created_at": "2026-10-26T03:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/priiidernocka/status/2114564415055933796#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114539029970501998",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114539029970501998",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114539029970501998",
+        "text": "aí jogar half life ou Wolfenstein dps da vitória é papo?",
+        "author_username": "gueirross",
+        "author_name": "gueirross",
+        "created_at": "2026-10-26T02:06:00+00:00",
+        "permalink": "https://nitter.meowing.monster/gueirross/status/2114539029970501998#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114533953293963293",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114533953293963293",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114533953293963293",
+        "text": "É mais fácil separar o Brasil dos nordestinos.\n\nE, aviso: Não me façam engolir nordestino.",
+        "author_username": "FabioGhisleni",
+        "author_name": "FabioGhisleni",
+        "created_at": "2026-10-26T01:45:00+00:00",
+        "permalink": "https://nitter.meowing.monster/FabioGhisleni/status/2114533953293963293#m",
+        "metrics": {
+          "like_count": 93,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114532710232297705",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114532710232297705",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114532710232297705",
+        "text": "Quem assim como tbm é nordestino, se prepara para a xenofobia nos próximos dias, aliás, próximos anos",
+        "author_username": "claudio_psciano",
+        "author_name": "claudio_psciano",
+        "created_at": "2026-10-26T01:40:00+00:00",
+        "permalink": "https://nitter.meowing.monster/claudio_psciano/status/2114532710232297705#m",
+        "metrics": {
+          "like_count": 50,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114524561819500686",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114524561819500686",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114524561819500686",
+        "text": "O dia que um ambulante nordestino vier me oferecer panela veia e meia furada , vai tomar um paur do caralho ... Nordestino do caralho ..",
+        "author_username": "Possaitt",
+        "author_name": "Possaitt",
+        "created_at": "2026-10-26T01:08:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Possaitt/status/2114524561819500686#m",
+        "metrics": {
+          "like_count": 98,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114521779595006012",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114521779595006012",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114521779595006012",
+        "text": "os nordestino fazem a merda e vem morar no PU, no gardênia, rio das pedras e etc, tinham q ser barrados de pisar aqui kk morre na miséria lá onde vcs fazem a merda, nn corre pra trabalhar aqui nn, no desespero de sobreviver.",
+        "author_username": "AndersonCRF94",
+        "author_name": "AndersonCRF94",
+        "created_at": "2026-10-26T00:57:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AndersonCRF94/status/2114521779595006012#m",
+        "metrics": {
+          "like_count": 159,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114518748384124935",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114518748384124935",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114518748384124935",
+        "text": "Nós nordestino demos o nome mesmo sem coletivo eu fui pela nossa democracia fora meliciano  fdp",
+        "author_username": "TaniaL2005",
+        "author_name": "TaniaL2005",
+        "created_at": "2026-10-26T00:45:00+00:00",
+        "permalink": "https://nitter.meowing.monster/TaniaL2005/status/2114518748384124935#m",
+        "metrics": {
+          "like_count": 252,
+          "reply_count": 2,
+          "retweet_count": 1,
+          "quote_count": 10
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114514568353329449",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114514568353329449",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114514568353329449",
+        "text": "Não vai ter isso de carioca mais nordestino, aqui não se cria! #Lula13",
+        "author_username": "o_livigomes",
+        "author_name": "o_livigomes",
+        "created_at": "2026-10-26T00:28:00+00:00",
+        "permalink": "https://nitter.meowing.monster/o_livigomes/status/2114514568353329449#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114513665428693084",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114513665428693084",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114513665428693084",
+        "text": "Quero ver nordestino passando fome",
+        "author_username": "Leorz8",
+        "author_name": "Leorz8",
+        "created_at": "2026-10-26T00:25:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Leorz8/status/2114513665428693084#m",
+        "metrics": {
+          "like_count": 26,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114511680717668417",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511680717668417",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114511680717668417",
+        "text": "Uma notícia boa pra nordestinos, sou nordestino, batam em minha porta e recebem um presente do lula",
+        "author_username": "Davyd29952730",
+        "author_name": "Davyd29952730",
+        "created_at": "2026-10-26T00:17:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Davyd29952730/status/2114511680717668417#m",
+        "metrics": {
+          "like_count": 24,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114510473584386421",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114510473584386421",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114510473584386421",
+        "text": "Povo nordestino né .. bando de filhos da puta",
+        "author_username": "RagePlayOficial",
+        "author_name": "RagePlayOficial",
+        "created_at": "2026-10-26T00:12:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RagePlayOficial/status/2114510473584386421#m",
+        "metrics": {
+          "like_count": 66,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114502853729411075",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114502853729411075",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114502853729411075",
+        "text": "NUNCA. JAMAIS, DE MANEIRA ALGUMA, SUBESTIME O POVO, MUITO MENOS O NORDESTINO",
+        "author_username": "visseboe",
+        "author_name": "visseboe",
+        "created_at": "2026-10-25T23:42:00+00:00",
+        "permalink": "https://nitter.meowing.monster/visseboe/status/2114502853729411075#m",
+        "metrics": {
+          "like_count": 15,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114471889665917284",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114471889665917284",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114471889665917284",
+        "text": "Sensação de ser nordestino e o Brasil jogando toda a responsa DNV na gente com o bônus de ser nb",
+        "author_username": "cabecadecd",
+        "author_name": "cabecadecd",
+        "created_at": "2026-10-25T21:39:00+00:00",
+        "permalink": "https://nitter.meowing.monster/cabecadecd/status/2114471889665917284#m",
+        "metrics": {
+          "like_count": 20,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114468792088875099",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114468792088875099",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114468792088875099",
+        "text": "Pensei exatamente isso: foi só o traste genocida aparecer em em nossas vidas e as eleições ficaram violentas, diretor de PRF impedindo nordestino de votar, ministro do TSE sendo totalmente parcial beneficiando o candidato dos bozos.",
+        "author_username": "AnaPaul37403424",
+        "author_name": "AnaPaul37403424",
+        "created_at": "2026-10-25T21:26:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AnaPaul37403424/status/2114468792088875099#m",
+        "metrics": {
+          "like_count": 34,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114446152351330596",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114446152351330596",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "direita",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114446152351330596",
+        "text": "Sindicalistas adesivaram ônibus público com \"Lula 13\", os ônibus foram impedidos de sair, tiveram de negociar com os sindicalistas e os petistas estão culpando alguém de direita por estarem \"impedindo o nordestino de votar\"...",
+        "author_username": "AldemJohnston",
+        "author_name": "AldemJohnston",
+        "created_at": "2026-10-25T19:57:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AldemJohnston/status/2114446152351330596#m",
+        "metrics": {
+          "like_count": 33,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114444337312592269",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114444337312592269",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114444337312592269",
+        "text": "Como me sinto esperando a votação sendo bissexual, gênero fluido, poliamoroso, nordestino e filho de uma mãe solteira que passou anos desempregada se virando nos 30 pra por comida na mesa:",
+        "author_username": "KamyAybrey",
+        "author_name": "KamyAybrey",
+        "created_at": "2026-10-25T19:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/KamyAybrey/status/2114444337312592269#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114414872217681940",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114414872217681940",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114414872217681940",
+        "text": "Vai a pé, de carona, de jegue, mas o nordestino vai votar 1️⃣3️⃣ #BoraLula\n#DeixemONordesteVotar",
+        "author_username": "Silviamae",
+        "author_name": "Silviamae",
+        "created_at": "2026-10-25T17:52:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Silviamae/status/2114414872217681940#m",
+        "metrics": {
+          "like_count": 23,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114395992456065094",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114395992456065094",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114395992456065094",
+        "text": "Ele é nordestino, Pernambucano, filho de psicóloga, neto de professora.  \nFascista aqui não se cria! \n#BoraLula #LulaPelaDemocracia \n#Lula13",
+        "author_username": "PsicoLeilaCosta",
+        "author_name": "PsicoLeilaCosta",
+        "created_at": "2026-10-25T16:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/PsicoLeilaCosta/status/2114395992456065094#m",
+        "metrics": {
+          "like_count": 29,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114380929187623065",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114380929187623065",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114380929187623065",
+        "text": "fiz cuscuz de café da manhã em homenagem ao nosso velhinho nordestino @LulaOficial hoje",
+        "author_username": "gyelsew",
+        "author_name": "gyelsew",
+        "created_at": "2026-10-25T15:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/gyelsew/status/2114380929187623065#m",
+        "metrics": {
+          "like_count": 28,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114349597334106277",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114349597334106277",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114349597334106277",
+        "text": "Um Carcará passou sobrevoando a minha zona de votação, um bom nordestino sabe o que isso significa. ⭐❤️",
+        "author_username": "Willtrends",
+        "author_name": "Willtrends",
+        "created_at": "2026-10-25T13:33:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Willtrends/status/2114349597334106277#m",
+        "metrics": {
+          "like_count": 385,
+          "reply_count": 2,
+          "retweet_count": 0,
+          "quote_count": 17
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114345588481315079",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114345588481315079",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "direita",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114345588481315079",
+        "text": "instagram.com/reel/De4m5fiiZ…\nÉ esse espírito nordestino, @nikolas_dm , q nos mantém fortes, lutadores e lúcidos. Somos impulsionados pela coragem e não pela covardia. A tua raiva é porque aqui DIREITA não se CRIA. Sabe por quê?\nÉ  porque o nosso alimento é nocivo pra vocês: CARÁTER!",
+        "author_username": "paulo47araujo",
+        "author_name": "paulo47araujo",
+        "created_at": "2026-10-25T13:17:00+00:00",
+        "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2114345588481315079#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114330767518007580",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114330767518007580",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114330767518007580",
+        "text": "SENTIU\n\n(E ainda por cima nordestino bolsonarista - a piada vem pronta)",
+        "author_username": "priiidernocka",
+        "author_name": "priiidernocka",
+        "created_at": "2026-10-25T12:18:00+00:00",
+        "permalink": "https://nitter.meowing.monster/priiidernocka/status/2114330767518007580#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114318805664960900",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114318805664960900",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114318805664960900",
+        "text": "Lula é tipo \"eu levei o ITA pro Ceará porque os cearenses eram os mais aprovados no ITA 🗿\" e o Flávio \"você nordestino vai ganhar tua gorjeta em dólar tá ok 😎👉🏻🇺🇸🇮🇱\"",
+        "author_username": "jvspalbuquerque",
+        "author_name": "jvspalbuquerque",
+        "created_at": "2026-10-25T11:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/jvspalbuquerque/status/2114318805664960900#m",
+        "metrics": {
+          "like_count": 77,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114287249374278056",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114287249374278056",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114287249374278056",
+        "text": "Ontem, eu não fui apenas a um ato político: fui defender o direito de existir, amar e viver sem medo no meu próprio país. ❤️🏳️‍🌈🇧🇷 Como homem gay, nordestino e alguém que nunca deixou de acreditar na democracia, sigo ao lado de Lula! #LULAVAIVENCER #ExercitoDoLula ❤️⭐️🏳️‍🌈😍🙏",
+        "author_username": "Israelbarbosa_",
+        "author_name": "Israelbarbosa_",
+        "created_at": "2026-10-25T09:25:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Israelbarbosa_/status/2114287249374278056#m",
+        "metrics": {
+          "like_count": 33,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114178721556873236",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114178721556873236",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114178721556873236",
+        "text": "PETISTA QUE ODEIA NORDESTINO..",
+        "author_username": "065999036707cba",
+        "author_name": "065999036707cba",
+        "created_at": "2026-10-25T02:14:00+00:00",
+        "permalink": "https://nitter.meowing.monster/065999036707cba/status/2114178721556873236#m",
+        "metrics": {
+          "like_count": 987,
+          "reply_count": 0,
+          "retweet_count": 20,
+          "quote_count": 47
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114128353389134333",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114128353389134333",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114128353389134333",
+        "text": "A GOL, está boicotando o povo nordestino! Será q tem o dedo de FB? Ou q sabe de um governador, prefeito, empresário bolsonaristas??!\n@Mari_Jurema @mariarita4141 @DeniLazzaroto @SilasPortugalR1 @edmilsonsap @VeraRaich @ZATANGOIES @LeonelRadde @Alice_inland13 @vinicios_betiol",
+        "author_username": "LilineRey",
+        "author_name": "LilineRey",
+        "created_at": "2026-10-24T22:54:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LilineRey/status/2114128353389134333#m",
+        "metrics": {
+          "like_count": 21,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      }
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:raw:comment:2114577588400304533",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114577588400304533",
+      "post_id": "2114576489194696843",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114577588400304533",
+        "text": "em que nordeste você vive? eu sou do interior da bahia, e a área rural de lá é assim. os companheiros de trabalho do meu pai, as famílias deles, vivem em lugares assim. é muito mal caratismo querer negar algo que você NÃO sabe, e que EXISTE, é muito. sério vocês se superam",
+        "author_username": "ogStateOfGrace",
+        "author_name": "ogStateOfGrace",
+        "created_at": "2026-10-26T04:39:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ogStateOfGrace/status/2114577588400304533#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114576489194696843",
+        "parent_comment_id": "2114576489194696843",
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:comment:2114559148918489479",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114559148918489479",
+      "post_id": "2114540068522410093",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114559148918489479",
+        "text": "lembrei do vídeo da dona alvará falando que o seu ladir é do norte de minas divisa com a Bahia kkkk",
+        "author_username": "thatssoerick",
+        "author_name": "thatssoerick",
+        "created_at": "2026-10-26T03:26:00+00:00",
+        "permalink": "https://nitter.meowing.monster/thatssoerick/status/2114559148918489479#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114540068522410093",
+        "parent_comment_id": "2114540068522410093",
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:comment:2114535072166449465",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114535072166449465",
+      "post_id": "2114518748384124935",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114535072166449465",
+        "text": "Muito obrigada Nordeste por ajudar na reeleição do \nPRESIDENTE LULA 🌟",
+        "author_username": "Joanateresapt13",
+        "author_name": "Joanateresapt13",
+        "created_at": "2026-10-26T01:50:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Joanateresapt13/status/2114535072166449465#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114518748384124935",
+        "parent_comment_id": "2114518748384124935",
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:comment:2114512556786131384",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114512556786131384",
+      "post_id": "2114511294137090216",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114512556786131384",
+        "text": "Mg tb foi fdp demais. Bh é um antro de esquerdistas. Deus tenha misericórdia de nós.",
+        "author_username": "GarzedimPetru",
+        "author_name": "GarzedimPetru",
+        "created_at": "2026-10-26T00:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/GarzedimPetru/status/2114512556786131384#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114511294137090216",
+        "parent_comment_id": "2114511294137090216",
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:comment:2114400108355703003",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114400108355703003",
+      "post_id": "2114349597334106277",
+      "collected_at": "2026-10-26T03:46:50-03:00",
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114400108355703003",
+        "text": "Amigo, denuncia isso",
+        "author_username": "juniorayres",
+        "author_name": "juniorayres",
+        "created_at": "2026-10-25T16:54:00+00:00",
+        "permalink": "https://nitter.meowing.monster/juniorayres/status/2114400108355703003#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114349597334106277",
+        "parent_comment_id": "2114349597334106277",
+        "depth": 1
+      }
+    }
+  ]
+}
