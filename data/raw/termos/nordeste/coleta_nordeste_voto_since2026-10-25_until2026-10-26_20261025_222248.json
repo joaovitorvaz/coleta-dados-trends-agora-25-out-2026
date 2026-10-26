@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste voto",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "2c08891d-6664-4bcf-9b9d-8f9e1433c066",
+    "collected_at": "2026-10-25T22:22:48-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 1,
+      "comments": 1,
+      "records_total": 2,
+      "skipped_duplicate": 7
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114480861240238337",
+            "text": "Ate agora só foi apurado voto do nordeste. E a diferença tá tão pouca assim ...",
+            "author_username": "AdrianoNegao31",
+            "author_name": "AdrianoNegao31",
+            "created_at": "2026-10-25T22:14:00+00:00",
+            "permalink": "https://nitter.netbub.com/AdrianoNegao31/status/2114480861240238337#m",
+            "metrics": {
+              "like_count": 49,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114471550061605272",
+            "text": "Sobre a prorrogação do horário das eleições\n\nResumo para divulgação: no pleito de hoje, o STF, por liminar do ministro Cristiano Zanin, prorrogou a votação até as dezenove horas em seções cujas urnas ainda não tinham sido fechadas, atendendo a pedidos da coligação de Lula e da campanha de Flávio, que apontavam frota de ônibus reduzida em nove estados e chuvas no Sul e Sudeste. O TSE orientou os TREs na mesma linha.\n\nPontos centrais: a biometria não é obrigatória para votar — quem não tem cadastro biométrico vota com documento de foto, e a assinatura no caderno funciona como contrapartida quando a digital não é reconhecida. Fraude de mesário votando por ausente deixaria rastro: digital do autorizador registrada, cruzamento de comparecimento, fiscais de partido no encerramento e apuração pela Justiça Eleitoral, com risco penal de até três anos sob o artigo trezentos e nove do Código Eleitoral.\n\nO temor de fraude em massa pela prorrogação é desproporcional: o que muda é tempo, não o rito de identificação. O que merece atenção de verdade é erro de procedimento — mesário sem aviso fechando urna cedo ou improvisando no improviso. Relatos disso já circularam, inclusive no Nordeste, onde várias seções tinham encerrado antes das dezessete e sete e a prorrogação gerou confusão em vez de ampliar o voto.\n\nPara fechar: a Certidão de Quitação no site do TSE comprova a regularidade, e fotografar o caderno eleitoral continua proibido.",
+            "author_username": "adv_castromaga",
+            "author_name": "adv_castromaga",
+            "created_at": "2026-10-25T21:37:00+00:00",
+            "permalink": "https://nitter.netbub.com/adv_castromaga/status/2114471550061605272#m",
+            "metrics": {
+              "like_count": 158,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114464800948514853",
+            "text": "Ok..\nMas imagina duas horas la pro norte e nordeste, mesarios com as urnas a vontade ..\nQuem não foi votar,vao computar voto\n.vao votar por eles",
+            "author_username": "TarcesP",
+            "author_name": "TarcesP",
+            "created_at": "2026-10-25T21:11:00+00:00",
+            "permalink": "https://nitter.netbub.com/TarcesP/status/2114464800948514853#m",
+            "metrics": {
+              "like_count": 58,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114429111607198086",
+            "text": "TSE, garanta o direito de voto do Nordeste!\n#VotacaoAte19Horas",
+            "author_username": "wandsonmesquita",
+            "author_name": "wandsonmesquita",
+            "created_at": "2026-10-25T18:49:00+00:00",
+            "permalink": "https://nitter.netbub.com/wandsonmesquita/status/2114429111607198086#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114424797061161237",
+            "text": "NORTE NORDESTE E SUDESTE PRECISAM TER HORARIO DE VOTO PRORROGADO ATÉ  AS 19HRS @TSEjusbr não estamos vendo os mesmos problemas em regiões em que o Flávio Bolsonaro foi eleito com facilidade no primeiro turno, vocês serão coniventes ao Golpe?",
+            "author_username": "drogueirinha",
+            "author_name": "drogueirinha",
+            "created_at": "2026-10-25T18:32:00+00:00",
+            "permalink": "https://nitter.netbub.com/drogueirinha/status/2114424797061161237#m",
+            "metrics": {
+              "like_count": 67,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114407438271062032",
+            "text": "É absurdo e criminoso que, em mais uma eleição, agentes públicos estejam agindo para impedir a circulação de ônibus e dificultar que eleitores do Nordeste exerçam seu direito democrático ao voto.\n\n#DeixemONordesteVotar\n#LulaPelaDemocracia\n#DeixemABahiaVotar\n#HojeEuVotoLula",
+            "author_username": "fabiofelixdf",
+            "author_name": "fabiofelixdf",
+            "created_at": "2026-10-25T17:23:00+00:00",
+            "permalink": "https://nitter.netbub.com/fabiofelixdf/status/2114407438271062032#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 49,
+              "retweet_count": 337,
+              "quote_count": 766
+            }
+          },
+          {
+            "id": "2114180963886317980",
+            "text": "Fumou maconha? São Paulo, Rio de Janeiro e Minas Gerais, as porcentagem vai aumentar para Flávio, e no nordeste não tem voto pro Lula pegar mais. Então, fica só no teu mundo fisiológico. 🤣🤣🇧🇷🇧🇷2️⃣2️⃣",
+            "author_username": "JaimeStarlen",
+            "author_name": "JaimeStarlen",
+            "created_at": "2026-10-25T02:23:00+00:00",
+            "permalink": "https://nitter.netbub.com/JaimeStarlen/status/2114180963886317980#m",
+            "metrics": {
+              "like_count": 303,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2114524364922073146",
+            "text": "Se tu acredita que o Lula, sabe nem o que fala. Envolvido até os dentes, perdeu pro Flávio com quase 3 milhões de voto. Lula crescer tudo isso de voto e prorrogando 2h de eleição no Nordeste. Sim, vou entender que foi democrático kkkkk",
+            "author_username": "Wendelzito",
+            "author_name": "Wendelzito",
+            "created_at": "2026-10-26T01:07:00+00:00",
+            "permalink": "https://nitter.xitter.cc/Wendelzito/status/2114524364922073146#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [
+          {
+            "id": "2114524897590567103",
+            "text": "eu votei no menos pior. torço quem em 2030 venha um que ajude todos, fique em paz.",
+            "author_username": "amopeitosfx",
+            "author_name": "amopeitosfx",
+            "created_at": "2026-10-26T01:09:00+00:00",
+            "permalink": "https://nitter.xitter.cc/amopeitosfx/status/2114524897590567103#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114524364922073146",
+            "parent_comment_id": "2114524364922073146",
+            "depth": 1
+          }
+        ],
+        "pagination": {
+          "pages_collected": 3,
+          "instance_used": "https://nitter.xitter.cc"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ]
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114524364922073146",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114524364922073146",
+      "collected_at": "2026-10-25T22:22:48-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste voto",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "2c08891d-6664-4bcf-9b9d-8f9e1433c066",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114524364922073146",
+        "text": "Se tu acredita que o Lula, sabe nem o que fala. Envolvido até os dentes, perdeu pro Flávio com quase 3 milhões de voto. Lula crescer tudo isso de voto e prorrogando 2h de eleição no Nordeste. Sim, vou entender que foi democrático kkkkk",
+        "author_username": "Wendelzito",
+        "author_name": "Wendelzito",
+        "created_at": "2026-10-26T01:07:00+00:00",
+        "permalink": "https://nitter.xitter.cc/Wendelzito/status/2114524364922073146#m",
+        "metrics": {
+          "like_count": 31,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:raw:comment:2114524897590567103",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114524897590567103",
+      "post_id": "2114524364922073146",
+      "collected_at": "2026-10-25T22:22:48-03:00",
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste voto",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "2c08891d-6664-4bcf-9b9d-8f9e1433c066",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114524897590567103",
+        "text": "eu votei no menos pior. torço quem em 2030 venha um que ajude todos, fique em paz.",
+        "author_username": "amopeitosfx",
+        "author_name": "amopeitosfx",
+        "created_at": "2026-10-26T01:09:00+00:00",
+        "permalink": "https://nitter.xitter.cc/amopeitosfx/status/2114524897590567103#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114524364922073146",
+        "parent_comment_id": "2114524364922073146",
+        "depth": 1
+      }
+    }
+  ]
+}

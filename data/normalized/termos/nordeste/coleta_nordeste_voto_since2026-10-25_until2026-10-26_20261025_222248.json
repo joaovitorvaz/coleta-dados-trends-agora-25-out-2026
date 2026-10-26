@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste voto",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "2c08891d-6664-4bcf-9b9d-8f9e1433c066",
+    "collected_at": "2026-10-25T22:22:48-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 1,
+      "records_total": 2,
+      "skipped_duplicate": 7
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114524364922073146",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114524364922073146",
+      "parent_post_id": null,
+      "thread_root_id": "2114524364922073146",
+      "author": {
+        "platform_id": null,
+        "display_name": "Wendelzito",
+        "username": "Wendelzito",
+        "profile_url": "https://x.com/Wendelzito"
+      },
+      "text": "Se tu acredita que o Lula, sabe nem o que fala. Envolvido até os dentes, perdeu pro Flávio com quase 3 milhões de voto. Lula crescer tudo isso de voto e prorrogando 2h de eleição no Nordeste. Sim, vou entender que foi democrático kkkkk",
+      "created_at": "2026-10-26T01:07:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T22:22:48-03:00",
+      "permalink": "https://nitter.xitter.cc/Wendelzito/status/2114524364922073146#m",
+      "metrics": {
+        "like_count": 31,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste voto",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "2c08891d-6664-4bcf-9b9d-8f9e1433c066",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114524364922073146",
+        "text": "Se tu acredita que o Lula, sabe nem o que fala. Envolvido até os dentes, perdeu pro Flávio com quase 3 milhões de voto. Lula crescer tudo isso de voto e prorrogando 2h de eleição no Nordeste. Sim, vou entender que foi democrático kkkkk",
+        "author_username": "Wendelzito",
+        "author_name": "Wendelzito",
+        "created_at": "2026-10-26T01:07:00+00:00",
+        "permalink": "https://nitter.xitter.cc/Wendelzito/status/2114524364922073146#m",
+        "metrics": {
+          "like_count": 31,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 235,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114524897590567103",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114524897590567103",
+      "post_id": "2114524364922073146",
+      "parent_comment_id": "2114524364922073146",
+      "thread_root_id": "2114524364922073146",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "amopeitosfx",
+        "username": "amopeitosfx",
+        "profile_url": null
+      },
+      "text": "eu votei no menos pior. torço quem em 2030 venha um que ajude todos, fique em paz.",
+      "created_at": "2026-10-26T01:09:00+00:00",
+      "collected_at": "2026-10-25T22:22:48-03:00",
+      "parent_post_url": "https://nitter.xitter.cc/amopeitosfx/status/2114524897590567103#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste voto",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "2c08891d-6664-4bcf-9b9d-8f9e1433c066",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114524897590567103",
+        "text": "eu votei no menos pior. torço quem em 2030 venha um que ajude todos, fique em paz.",
+        "author_username": "amopeitosfx",
+        "author_name": "amopeitosfx",
+        "created_at": "2026-10-26T01:09:00+00:00",
+        "permalink": "https://nitter.xitter.cc/amopeitosfx/status/2114524897590567103#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114524364922073146",
+        "parent_comment_id": "2114524364922073146",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 82,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
