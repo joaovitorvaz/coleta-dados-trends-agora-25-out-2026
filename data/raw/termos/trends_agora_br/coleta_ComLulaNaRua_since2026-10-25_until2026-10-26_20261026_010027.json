@@ -1,0 +1,1841 @@
+{
+  "metadata": {
+    "term_group_id": "trends_agora_br",
+    "query": "#ComLulaNaRua",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+    "collected_at": "2026-10-26T01:00:27-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 23,
+      "comments": 3,
+      "records_total": 26,
+      "skipped_duplicate": 29
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114488124562665848",
+            "text": "RAPAZIADA VAMOS PARAR DE ENGAJAR A EXTREMA DIREITA!!!!!! DEIXEM ESSES MERDAS FALANDO SOZINHOS\n#ComLulaNaRua",
+            "author_username": "JuanVale_",
+            "author_name": "JuanVale_",
+            "created_at": "2026-10-25T22:43:00+00:00",
+            "permalink": "https://nitter.netbub.com/JuanVale_/status/2114488124562665848#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114196525156831336",
+            "text": "O Presidente Lula visitou a casa do #PequenoCute hoje. \ninstagram.com/p/De5lnOrFEZ0/…\n#ComLulaNaRua #EuVotoFazendoL #LulaTetra",
+            "author_username": "sheldonbraullyo",
+            "author_name": "sheldonbraullyo",
+            "created_at": "2026-10-25T03:25:00+00:00",
+            "permalink": "https://nitter.netbub.com/sheldonbraullyo/status/2114196525156831336#m",
+            "metrics": {
+              "like_count": 25,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114180073251115027",
+            "text": "BORA LULA 1️⃣3️⃣🇧🇷❤️ PESSOAL DE CAMPO GRANDE FOI PRA CIMA!!! #ComLulaNaRua #LulaVaiVirar #LulaNosTeAmamos #EsquerdaDominouAsRedes",
+            "author_username": "rickenasc",
+            "author_name": "rickenasc",
+            "created_at": "2026-10-25T02:19:00+00:00",
+            "permalink": "https://nitter.netbub.com/rickenasc/status/2114180073251115027#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114179598896279584",
+            "text": "Foi lindooo, Natal/RN⭐️🇧🇷❤️ \n#ComLulaNaRua",
+            "author_username": "renateibfc",
+            "author_name": "renateibfc",
+            "created_at": "2026-10-25T02:17:00+00:00",
+            "permalink": "https://nitter.netbub.com/renateibfc/status/2114179598896279584#m",
+            "metrics": {
+              "like_count": 40,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114178852477981089",
+            "text": "Onde entra o fanatismo, saem o respeito e a humanidade. Não vote nisso, isso é retrocesso! 🕊️🚫 Diga não ao bolsonarismo! \n\n#ComLulaNaRua\n#SoMaisUmVotoProLula\n#nossasenhoraaparecida #nossasenhorarogaipornos",
+            "author_username": "adautosoutoms",
+            "author_name": "adautosoutoms",
+            "created_at": "2026-10-25T02:14:00+00:00",
+            "permalink": "https://nitter.netbub.com/adautosoutoms/status/2114178852477981089#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114178176687497723",
+            "text": "#ComLulaNaRua\nFica bem @AndreJanonesMG  já deu tudo certo eu vou levar mais 2 votos pra Lula que não foram no primeiro turno 1️⃣3️⃣🇧🇷",
+            "author_username": "DerlySilvaReis",
+            "author_name": "DerlySilvaReis",
+            "created_at": "2026-10-25T02:12:00+00:00",
+            "permalink": "https://nitter.netbub.com/DerlySilvaReis/status/2114178176687497723#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114176996204794272",
+            "text": "Cientistas com Lula #ComLulaNaRua #Democracia 🧬⭐1️⃣3️⃣",
+            "author_username": "araujofelipe21",
+            "author_name": "araujofelipe21",
+            "created_at": "2026-10-25T02:07:00+00:00",
+            "permalink": "https://nitter.netbub.com/araujofelipe21/status/2114176996204794272#m",
+            "metrics": {
+              "like_count": 47,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114175536780001584",
+            "text": "Amanhã vamos decidir o futuro do Brasil. Um futuro com educação, saúde e políticas sociais que resultam em inclusão social. Vamos decidir sobre a democracia no Brasil. #EuVotoFazendoL #VOTE13 #ComLulaNaRua",
+            "author_username": "brunoelton",
+            "author_name": "brunoelton",
+            "created_at": "2026-10-25T02:01:00+00:00",
+            "permalink": "https://nitter.netbub.com/brunoelton/status/2114175536780001584#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114174657083355381",
+            "text": "É contra isso que lutamos, como pode uma cena tão nojenta, um branco levando um homem negro na corrente. O Bolsonarismo é isso, a corrente, o chicote a volta da escravidão.\n#ComLulaNaRua #LulaNaPaulista #LulaVaiVirar",
+            "author_username": "LavigneMagno",
+            "author_name": "LavigneMagno",
+            "created_at": "2026-10-25T01:58:00+00:00",
+            "permalink": "https://nitter.netbub.com/LavigneMagno/status/2114174657083355381#m",
+            "metrics": {
+              "like_count": 72,
+              "reply_count": 4,
+              "retweet_count": 1,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114171918269948021",
+            "text": "Nesse dia 25/10/2026, vote 13, vote Lula ⭐🇧🇷 #ComLulaNaRua #LulaNaPaulista #FlavioDefensorDeAssassino #SoMaisUmVotoProLula #LulaNaGlobo #Lula13 #Lula2026 #Eleições2026",
+            "author_username": "eternoestudante",
+            "author_name": "eternoestudante",
+            "created_at": "2026-10-25T01:47:00+00:00",
+            "permalink": "https://nitter.netbub.com/eternoestudante/status/2114171918269948021#m",
+            "metrics": {
+              "like_count": 66,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 12
+            }
+          },
+          {
+            "id": "2114171728779714598",
+            "text": "DESMOTIVAÇÃO AQUI NÃO\nMesmo que o sol nasça, vote sem medo! Garanta seu propósito na terra — por você e por todos. Lula representa liberdade, ética, saúde, educação, arte, respeito e inclusão na democracia. A luz estelar sabe quem você é. Vote 13! ⭐\n\n#ComLulaNaRua",
+            "author_username": "_bianc4",
+            "author_name": "_bianc4",
+            "created_at": "2026-10-25T01:46:00+00:00",
+            "permalink": "https://nitter.netbub.com/_bianc4/status/2114171728779714598#m",
+            "metrics": {
+              "like_count": 46,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114171508830441947",
+            "text": "DESMOTIVAÇÃO AQUI NÃO Mesmo que o sol nasça, vote sem medo! Garanta seu propósito na terra — por você e por todos. Lula representa liberdade, ética, saúde, educação, arte, respeito e inclusão na democracia. A luz estelar sabe quem você é. Vote 13!  ⭐\n\n#ComLulaNaRua",
+            "author_username": "_bianc4",
+            "author_name": "_bianc4",
+            "created_at": "2026-10-25T01:45:00+00:00",
+            "permalink": "https://nitter.netbub.com/_bianc4/status/2114171508830441947#m",
+            "metrics": {
+              "like_count": 52,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114162660115611699",
+            "text": "#comlulanarua \nSurreal a quantidade de pessoas que estavam em Vitória hoje! Já viramos, caralho! Desmotivação aqui não! Não desanimem!",
+            "author_username": "juliomassine",
+            "author_name": "juliomassine",
+            "created_at": "2026-10-25T01:10:00+00:00",
+            "permalink": "https://nitter.netbub.com/juliomassine/status/2114162660115611699#m",
+            "metrics": {
+              "like_count": 34,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114162566876233762",
+            "text": "Pela defesa da democracia. É Lula 13. 🌟 #EuVotoFazendoL #BotaPraVirar #ComLulaNaRua",
+            "author_username": "Rafael_AraujoRN",
+            "author_name": "Rafael_AraujoRN",
+            "created_at": "2026-10-25T01:10:00+00:00",
+            "permalink": "https://nitter.netbub.com/Rafael_AraujoRN/status/2114162566876233762#m",
+            "metrics": {
+              "like_count": 64,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2114159856877707632",
+            "text": "Obrigado Fortaleza! Obrigado Lula\nE vamos vencer ❤️\n#ComLulaNaRua",
+            "author_username": "_Timom",
+            "author_name": "_Timom",
+            "created_at": "2026-10-25T00:59:00+00:00",
+            "permalink": "https://nitter.netbub.com/_Timom/status/2114159856877707632#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114159094571360301",
+            "text": "14 quarteirões em São Paulo 🚩🇧🇷\n#ComLulaNaRua #LulaNaPaulista #LulaEmCopacabana #SoMaisUmVotoProLula #LulaNaGlobo",
+            "author_username": "Luciana_Valiati",
+            "author_name": "Luciana_Valiati",
+            "created_at": "2026-10-25T00:56:00+00:00",
+            "permalink": "https://nitter.netbub.com/Luciana_Valiati/status/2114159094571360301#m",
+            "metrics": {
+              "like_count": 251,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114158176496984087",
+            "text": "Não pare!\nNão pare de repercutir o debate de ontem e os atos de hoje, as redes que mais tem bolsonaristas e indecisos no meu caso, Facebook, WhatsApp e Instagram. A Fala do 9 dedos, a falta de humanidade no caso Ana Clara têm causado náusea aos indecisos\nExplode\n#ComLulaNaRua",
+            "author_username": "DistopiaBrazil",
+            "author_name": "DistopiaBrazil",
+            "created_at": "2026-10-25T00:52:00+00:00",
+            "permalink": "https://nitter.netbub.com/DistopiaBrazil/status/2114158176496984087#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 35,
+              "retweet_count": 119,
+              "quote_count": 240
+            }
+          },
+          {
+            "id": "2114156331082928556",
+            "text": "É o último Ato do Melhor Presidente da História desse país 😭😭❤️❤️1️⃣3️⃣😍😍🌟🌟✊🏻✊🏻👏🏻👏🏻🇧🇷🇧🇷\n#LulaVaiVencer #LulaVaiVirar #ComLulaNaRua #LulaNaPaulista",
+            "author_username": "ASinergyF",
+            "author_name": "ASinergyF",
+            "created_at": "2026-10-25T00:45:00+00:00",
+            "permalink": "https://nitter.netbub.com/ASinergyF/status/2114156331082928556#m",
+            "metrics": {
+              "like_count": 50,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114155730282406146",
+            "text": "BORAAA MEU PRESIDENTE LULAAAAA, BORAAAA VENCER #ComLulaNaRua #LulaNaPaulista #Somos10MilhoesPorLula #SomosTodosNoveDedos #BoraLula13 #LulaVaiVirar\n 1️⃣3️⃣😍🌟❤️✊🏻👏🏻",
+            "author_username": "ASinergyF",
+            "author_name": "ASinergyF",
+            "created_at": "2026-10-25T00:42:00+00:00",
+            "permalink": "https://nitter.netbub.com/ASinergyF/status/2114155730282406146#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114155255537578158",
+            "text": "Que lindooooooo, não tem como não se emocionar 😭😭❤️❤️ BORAAA MEU PRESIDENTE LULAAAAA, BORAAAA VENCER #ComLulaNaRua #LulaNaPaulista #Somos10MilhoesPorLula #SomosTodosNoveDedos 1️⃣3️⃣😍🌟❤️✊🏻",
+            "author_username": "ASinergyF",
+            "author_name": "ASinergyF",
+            "created_at": "2026-10-25T00:41:00+00:00",
+            "permalink": "https://nitter.netbub.com/ASinergyF/status/2114155255537578158#m",
+            "metrics": {
+              "like_count": 32,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114154800573026758",
+            "text": "BORAAAAAA MEU PRESIDENTE LULAAAAAAAAA E JANOOOOONESSSSS MEU GENERAL 3️⃣❤️🌟😍👏🏻✊🏻🙏🏻🇧🇷 BORAAAA VENCER #ComLulaNaRua #LulaEmCopacabana #LulaNaPaulista #SoMaisUmVotoProLula #10MILHOESDESOLDADOSDOLULA #SomosTodos9Dedos 1️⃣3️⃣❤️😍🌟👏🏻✊🏻",
+            "author_username": "ASinergyF",
+            "author_name": "ASinergyF",
+            "created_at": "2026-10-25T00:39:00+00:00",
+            "permalink": "https://nitter.netbub.com/ASinergyF/status/2114154800573026758#m",
+            "metrics": {
+              "like_count": 76,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114150752692093274",
+            "text": "O EXATO momento em que mostro a minha cicatriz pra @ErikakHilton e ela me vê! 🥹❤️🏳️‍⚧️\nA importância de uma presentante trans na política é absurda!!!!!!!!! \nObrigado por abrir caminhos e nos representar aí dentro! \n\n#ComLulaNaRua #erikahilton \n@ErikakHilton",
+            "author_username": "Usuariosem_usar",
+            "author_name": "Usuariosem_usar",
+            "created_at": "2026-10-25T00:23:00+00:00",
+            "permalink": "https://nitter.netbub.com/Usuariosem_usar/status/2114150752692093274#m",
+            "metrics": {
+              "like_count": 95,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114149004732752277",
+            "text": "Da esquerda não, foi a maior manifestação na Av. Paulista, a maior em São Paulo e a maior em todo o Brasil!\n\n#LulaNaPaulista\n#ComLulaNaRua\n#EuVotoFazendoL\nAMANHÃ É 13 🇧🇷",
+            "author_username": "Samuel_Bastille",
+            "author_name": "Samuel_Bastille",
+            "created_at": "2026-10-25T00:16:00+00:00",
+            "permalink": "https://nitter.netbub.com/Samuel_Bastille/status/2114149004732752277#m",
+            "metrics": {
+              "like_count": 118,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114147541004554588",
+            "text": "Mãe da Ana Clara entrando agora. Bora pra Live. #ComLulaNaRua",
+            "author_username": "paesamalia",
+            "author_name": "paesamalia",
+            "created_at": "2026-10-25T00:10:00+00:00",
+            "permalink": "https://nitter.netbub.com/paesamalia/status/2114147541004554588#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114147489125220840",
+            "text": "Isso aqui foi lindo demais! \nMeu ES ainda tem salvação ⭐️❤️⭐️\n#ComLulaNaRua #ExercitoDoLulaVenceuMaisUma",
+            "author_username": "Rafashe4",
+            "author_name": "Rafashe4",
+            "created_at": "2026-10-25T00:10:00+00:00",
+            "permalink": "https://nitter.netbub.com/Rafashe4/status/2114147489125220840#m",
+            "metrics": {
+              "like_count": 53,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114145788406419729",
+            "text": "Obrigada, General Janones ❤️\nObrigada, Marechal Presidente Lula\nEstá sendo uma honra servir no maior Exército do mundo! O mais democrático. O mais lindo!\nAté o último voto! 🫡\n@AndreJanonesMG\n\n#EuVotoFazendoL\n#ComLulaNaRua\n#LulaEmCopacabana \n#LulaNaPaulista \n#ExercitoDoLulaVenceuMaisUma",
+            "author_username": "MeryMedeirox",
+            "author_name": "MeryMedeirox",
+            "created_at": "2026-10-25T00:03:00+00:00",
+            "permalink": "https://nitter.netbub.com/MeryMedeirox/status/2114145788406419729#m",
+            "metrics": {
+              "like_count": 44,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          }
+        ],
+        "comments": [
+          {
+            "id": "2114191384064204969",
+            "text": "#LulaVaiVencer\n#HojeEuVoto13",
+            "author_username": "Elainesousa131",
+            "author_name": "Elainesousa131",
+            "created_at": "2026-10-25T03:04:00+00:00",
+            "permalink": "https://nitter.netbub.com/Elainesousa131/status/2114191384064204969#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114174657083355381",
+            "parent_comment_id": "2114174657083355381",
+            "depth": 1
+          },
+          {
+            "id": "2114194494576894252",
+            "text": "#LulaReeleito",
+            "author_username": "Ernesti49000989",
+            "author_name": "Ernesti49000989",
+            "created_at": "2026-10-25T03:17:00+00:00",
+            "permalink": "https://nitter.netbub.com/Ernesti49000989/status/2114194494576894252#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114174657083355381",
+            "parent_comment_id": "2114174657083355381",
+            "depth": 1
+          },
+          {
+            "id": "2114185772844851330",
+            "text": "#HojeEuVoto13",
+            "author_username": "diasdgloria_tud",
+            "author_name": "diasdgloria_tud",
+            "created_at": "2026-10-25T02:42:00+00:00",
+            "permalink": "https://nitter.netbub.com/diasdgloria_tud/status/2114185772844851330#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114174657083355381",
+            "parent_comment_id": "2114174657083355381",
+            "depth": 1
+          },
+          {
+            "id": "2114186361183834293",
+            "text": "#HojeEuVoto13",
+            "author_username": "FelipeFlins",
+            "author_name": "FelipeFlins",
+            "created_at": "2026-10-25T02:44:00+00:00",
+            "permalink": "https://nitter.netbub.com/FelipeFlins/status/2114186361183834293#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114187662466990549",
+            "text": "#2MilhoesNaPaulistaComLula",
+            "author_username": "LorienAmanda",
+            "author_name": "LorienAmanda",
+            "created_at": "2026-10-25T02:49:00+00:00",
+            "permalink": "https://nitter.netbub.com/LorienAmanda/status/2114187662466990549#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114177931689721913",
+            "text": "#SoMaisUmVotoPraLula",
+            "author_username": "TaniaNeres__",
+            "author_name": "TaniaNeres__",
+            "created_at": "2026-10-25T02:11:00+00:00",
+            "permalink": "https://nitter.netbub.com/TaniaNeres__/status/2114177931689721913#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114160742165586430",
+            "text": "#LULAVAIVENCER",
+            "author_username": "malupedroso",
+            "author_name": "malupedroso",
+            "created_at": "2026-10-25T01:02:00+00:00",
+            "permalink": "https://nitter.netbub.com/malupedroso/status/2114160742165586430#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114336434391744753",
+            "text": "Vamos continuar a caminhada!!",
+            "author_username": "wspalha",
+            "author_name": "wspalha",
+            "created_at": "2026-10-25T12:41:00+00:00",
+            "permalink": "https://nitter.netbub.com/wspalha/status/2114336434391744753#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114341288581779658",
+            "text": "Hoje eu voto 13 pelo Brasil! \n#HojeEuVotoLula\n#LulaVaiVencer\n#LulaOMaiorDeTodos\n#LulaParaSempre",
+            "author_username": "kinemascopie",
+            "author_name": "kinemascopie",
+            "created_at": "2026-10-25T13:00:00+00:00",
+            "permalink": "https://nitter.netbub.com/kinemascopie/status/2114341288581779658#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114345829481771171",
+            "text": "#HojeEuVotoLula\n\n#EuVotoFazendoL",
+            "author_username": "Tarcisio811",
+            "author_name": "Tarcisio811",
+            "created_at": "2026-10-25T13:18:00+00:00",
+            "permalink": "https://nitter.netbub.com/Tarcisio811/status/2114345829481771171#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114270243195322512",
+            "text": "#HojeEuVotoLula13",
+            "author_username": "seliriarosa",
+            "author_name": "seliriarosa",
+            "created_at": "2026-10-25T08:18:00+00:00",
+            "permalink": "https://nitter.netbub.com/seliriarosa/status/2114270243195322512#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114286294519935105",
+            "text": "Bora fazer a diferença Lula 13",
+            "author_username": "paulo_amaducci",
+            "author_name": "paulo_amaducci",
+            "created_at": "2026-10-25T09:21:00+00:00",
+            "permalink": "https://nitter.netbub.com/paulo_amaducci/status/2114286294519935105#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114168577884381685",
+            "text": "#NaRuaComLula",
+            "author_username": "EduardoTVC",
+            "author_name": "EduardoTVC",
+            "created_at": "2026-10-25T01:34:00+00:00",
+            "permalink": "https://nitter.netbub.com/EduardoTVC/status/2114168577884381685#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114324053775495276",
+            "text": "",
+            "author_username": "RitaNascimneto",
+            "author_name": "RitaNascimneto",
+            "created_at": "2026-10-25T11:51:00+00:00",
+            "permalink": "https://nitter.netbub.com/RitaNascimneto/status/2114324053775495276#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114338115091403175",
+            "text": "#ComLulaNaRua",
+            "author_username": "JorgeGo90260311",
+            "author_name": "JorgeGo90260311",
+            "created_at": "2026-10-25T12:47:00+00:00",
+            "permalink": "https://nitter.netbub.com/JorgeGo90260311/status/2114338115091403175#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114185209855754240",
+            "text": "#HojeEuVoto13",
+            "author_username": "flavia_paonessa",
+            "author_name": "flavia_paonessa",
+            "created_at": "2026-10-25T02:40:00+00:00",
+            "permalink": "https://nitter.netbub.com/flavia_paonessa/status/2114185209855754240#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114186193281642698",
+            "text": "#HojeEuVoto13",
+            "author_username": "NildaValentim",
+            "author_name": "NildaValentim",
+            "created_at": "2026-10-25T02:44:00+00:00",
+            "permalink": "https://nitter.netbub.com/NildaValentim/status/2114186193281642698#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114340027455197357",
+            "text": "#HojeEuVoto13  #HojeEu",
+            "author_username": "E37Maga",
+            "author_name": "E37Maga",
+            "created_at": "2026-10-25T12:55:00+00:00",
+            "permalink": "https://nitter.netbub.com/E37Maga/status/2114340027455197357#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114398273066746003",
+            "text": "#EuVotoFazendoL",
+            "author_username": "SelmaSi86704666",
+            "author_name": "SelmaSi86704666",
+            "created_at": "2026-10-25T16:46:00+00:00",
+            "permalink": "https://nitter.netbub.com/SelmaSi86704666/status/2114398273066746003#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114390346843017726",
+            "text": "DeixemONordesteVotar",
+            "author_username": "Eliasfe03752048",
+            "author_name": "Eliasfe03752048",
+            "created_at": "2026-10-25T16:15:00+00:00",
+            "permalink": "https://nitter.netbub.com/Eliasfe03752048/status/2114390346843017726#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114398444106232042",
+            "text": "#GoolDeixaOsNordetinosVotar",
+            "author_username": "genildabatji8",
+            "author_name": "genildabatji8",
+            "created_at": "2026-10-25T16:47:00+00:00",
+            "permalink": "https://nitter.netbub.com/genildabatji8/status/2114398444106232042#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114168128586346523",
+            "text": "#LulaPresidente2026",
+            "author_username": "GMFFig",
+            "author_name": "GMFFig",
+            "created_at": "2026-10-25T01:32:00+00:00",
+            "permalink": "https://nitter.netbub.com/GMFFig/status/2114168128586346523#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114261809234411794",
+            "text": "#LULAVAIVENCER #LulaPelaDemocracia",
+            "author_username": "AdrianaNieeb",
+            "author_name": "AdrianaNieeb",
+            "created_at": "2026-10-25T07:44:00+00:00",
+            "permalink": "https://nitter.netbub.com/AdrianaNieeb/status/2114261809234411794#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114358400494477796",
+            "text": "Do lado certo da História!\n#LulaPelaDemocracia \n#HojeEuVotoLula",
+            "author_username": "Al_Santosss",
+            "author_name": "Al_Santosss",
+            "created_at": "2026-10-25T14:08:00+00:00",
+            "permalink": "https://nitter.netbub.com/Al_Santosss/status/2114358400494477796#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114429703364784624",
+            "text": "Pessoal urgente \nO transporte coletivo voltou ao normal em Salvador \nÉ de graça \nAs sessões estao vazias",
+            "author_username": "mavi_oliveira11",
+            "author_name": "mavi_oliveira11",
+            "created_at": "2026-10-25T18:51:00+00:00",
+            "permalink": "https://nitter.netbub.com/mavi_oliveira11/status/2114429703364784624#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114421610530632184",
+            "text": "#EuVotoFazendoL",
+            "author_username": "Leonard03701528",
+            "author_name": "Leonard03701528",
+            "created_at": "2026-10-25T18:19:00+00:00",
+            "permalink": "https://nitter.netbub.com/Leonard03701528/status/2114421610530632184#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114391213147148494",
+            "text": "#BoraLula vamos votar genteeeee",
+            "author_username": "ricardopiantino",
+            "author_name": "ricardopiantino",
+            "created_at": "2026-10-25T16:18:00+00:00",
+            "permalink": "https://nitter.netbub.com/ricardopiantino/status/2114391213147148494#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114346267052814399",
+            "text": "13",
+            "author_username": "januariodiniz",
+            "author_name": "januariodiniz",
+            "created_at": "2026-10-25T13:20:00+00:00",
+            "permalink": "https://nitter.netbub.com/januariodiniz/status/2114346267052814399#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114158176496984087",
+            "parent_comment_id": "2114158176496984087",
+            "depth": 1
+          },
+          {
+            "id": "2114146537668276379",
+            "text": "#EuVotoFazendoL",
+            "author_username": "ddslwc",
+            "author_name": "ddslwc",
+            "created_at": "2026-10-25T00:06:00+00:00",
+            "permalink": "https://nitter.netbub.com/ddslwc/status/2114146537668276379#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114145788406419729",
+            "parent_comment_id": "2114145788406419729",
+            "depth": 1
+          }
+        ],
+        "pagination": {
+          "pages_collected": 41,
+          "instance_used": "https://nitter.netbub.com"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ]
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114488124562665848",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114488124562665848",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "direita",
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114488124562665848",
+        "text": "RAPAZIADA VAMOS PARAR DE ENGAJAR A EXTREMA DIREITA!!!!!! DEIXEM ESSES MERDAS FALANDO SOZINHOS\n#ComLulaNaRua",
+        "author_username": "JuanVale_",
+        "author_name": "JuanVale_",
+        "created_at": "2026-10-25T22:43:00+00:00",
+        "permalink": "https://nitter.netbub.com/JuanVale_/status/2114488124562665848#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114180073251115027",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114180073251115027",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "esquerda",
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114180073251115027",
+        "text": "BORA LULA 1️⃣3️⃣🇧🇷❤️ PESSOAL DE CAMPO GRANDE FOI PRA CIMA!!! #ComLulaNaRua #LulaVaiVirar #LulaNosTeAmamos #EsquerdaDominouAsRedes",
+        "author_username": "rickenasc",
+        "author_name": "rickenasc",
+        "created_at": "2026-10-25T02:19:00+00:00",
+        "permalink": "https://nitter.netbub.com/rickenasc/status/2114180073251115027#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114179598896279584",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114179598896279584",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114179598896279584",
+        "text": "Foi lindooo, Natal/RN⭐️🇧🇷❤️ \n#ComLulaNaRua",
+        "author_username": "renateibfc",
+        "author_name": "renateibfc",
+        "created_at": "2026-10-25T02:17:00+00:00",
+        "permalink": "https://nitter.netbub.com/renateibfc/status/2114179598896279584#m",
+        "metrics": {
+          "like_count": 40,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114178852477981089",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114178852477981089",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114178852477981089",
+        "text": "Onde entra o fanatismo, saem o respeito e a humanidade. Não vote nisso, isso é retrocesso! 🕊️🚫 Diga não ao bolsonarismo! \n\n#ComLulaNaRua\n#SoMaisUmVotoProLula\n#nossasenhoraaparecida #nossasenhorarogaipornos",
+        "author_username": "adautosoutoms",
+        "author_name": "adautosoutoms",
+        "created_at": "2026-10-25T02:14:00+00:00",
+        "permalink": "https://nitter.netbub.com/adautosoutoms/status/2114178852477981089#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114178176687497723",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114178176687497723",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114178176687497723",
+        "text": "#ComLulaNaRua\nFica bem @AndreJanonesMG  já deu tudo certo eu vou levar mais 2 votos pra Lula que não foram no primeiro turno 1️⃣3️⃣🇧🇷",
+        "author_username": "DerlySilvaReis",
+        "author_name": "DerlySilvaReis",
+        "created_at": "2026-10-25T02:12:00+00:00",
+        "permalink": "https://nitter.netbub.com/DerlySilvaReis/status/2114178176687497723#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114176996204794272",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114176996204794272",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114176996204794272",
+        "text": "Cientistas com Lula #ComLulaNaRua #Democracia 🧬⭐1️⃣3️⃣",
+        "author_username": "araujofelipe21",
+        "author_name": "araujofelipe21",
+        "created_at": "2026-10-25T02:07:00+00:00",
+        "permalink": "https://nitter.netbub.com/araujofelipe21/status/2114176996204794272#m",
+        "metrics": {
+          "like_count": 47,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114174657083355381",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114174657083355381",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114174657083355381",
+        "text": "É contra isso que lutamos, como pode uma cena tão nojenta, um branco levando um homem negro na corrente. O Bolsonarismo é isso, a corrente, o chicote a volta da escravidão.\n#ComLulaNaRua #LulaNaPaulista #LulaVaiVirar",
+        "author_username": "LavigneMagno",
+        "author_name": "LavigneMagno",
+        "created_at": "2026-10-25T01:58:00+00:00",
+        "permalink": "https://nitter.netbub.com/LavigneMagno/status/2114174657083355381#m",
+        "metrics": {
+          "like_count": 72,
+          "reply_count": 4,
+          "retweet_count": 1,
+          "quote_count": 2
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114171918269948021",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114171918269948021",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114171918269948021",
+        "text": "Nesse dia 25/10/2026, vote 13, vote Lula ⭐🇧🇷 #ComLulaNaRua #LulaNaPaulista #FlavioDefensorDeAssassino #SoMaisUmVotoProLula #LulaNaGlobo #Lula13 #Lula2026 #Eleições2026",
+        "author_username": "eternoestudante",
+        "author_name": "eternoestudante",
+        "created_at": "2026-10-25T01:47:00+00:00",
+        "permalink": "https://nitter.netbub.com/eternoestudante/status/2114171918269948021#m",
+        "metrics": {
+          "like_count": 66,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 12
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114171728779714598",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114171728779714598",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114171728779714598",
+        "text": "DESMOTIVAÇÃO AQUI NÃO\nMesmo que o sol nasça, vote sem medo! Garanta seu propósito na terra — por você e por todos. Lula representa liberdade, ética, saúde, educação, arte, respeito e inclusão na democracia. A luz estelar sabe quem você é. Vote 13! ⭐\n\n#ComLulaNaRua",
+        "author_username": "_bianc4",
+        "author_name": "_bianc4",
+        "created_at": "2026-10-25T01:46:00+00:00",
+        "permalink": "https://nitter.netbub.com/_bianc4/status/2114171728779714598#m",
+        "metrics": {
+          "like_count": 46,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114171508830441947",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114171508830441947",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114171508830441947",
+        "text": "DESMOTIVAÇÃO AQUI NÃO Mesmo que o sol nasça, vote sem medo! Garanta seu propósito na terra — por você e por todos. Lula representa liberdade, ética, saúde, educação, arte, respeito e inclusão na democracia. A luz estelar sabe quem você é. Vote 13!  ⭐\n\n#ComLulaNaRua",
+        "author_username": "_bianc4",
+        "author_name": "_bianc4",
+        "created_at": "2026-10-25T01:45:00+00:00",
+        "permalink": "https://nitter.netbub.com/_bianc4/status/2114171508830441947#m",
+        "metrics": {
+          "like_count": 52,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 2
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114162660115611699",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114162660115611699",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114162660115611699",
+        "text": "#comlulanarua \nSurreal a quantidade de pessoas que estavam em Vitória hoje! Já viramos, caralho! Desmotivação aqui não! Não desanimem!",
+        "author_username": "juliomassine",
+        "author_name": "juliomassine",
+        "created_at": "2026-10-25T01:10:00+00:00",
+        "permalink": "https://nitter.netbub.com/juliomassine/status/2114162660115611699#m",
+        "metrics": {
+          "like_count": 34,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114159856877707632",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114159856877707632",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114159856877707632",
+        "text": "Obrigado Fortaleza! Obrigado Lula\nE vamos vencer ❤️\n#ComLulaNaRua",
+        "author_username": "_Timom",
+        "author_name": "_Timom",
+        "created_at": "2026-10-25T00:59:00+00:00",
+        "permalink": "https://nitter.netbub.com/_Timom/status/2114159856877707632#m",
+        "metrics": {
+          "like_count": 15,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114159094571360301",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114159094571360301",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114159094571360301",
+        "text": "14 quarteirões em São Paulo 🚩🇧🇷\n#ComLulaNaRua #LulaNaPaulista #LulaEmCopacabana #SoMaisUmVotoProLula #LulaNaGlobo",
+        "author_username": "Luciana_Valiati",
+        "author_name": "Luciana_Valiati",
+        "created_at": "2026-10-25T00:56:00+00:00",
+        "permalink": "https://nitter.netbub.com/Luciana_Valiati/status/2114159094571360301#m",
+        "metrics": {
+          "like_count": 251,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 4
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114158176496984087",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114158176496984087",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "pl",
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114158176496984087",
+        "text": "Não pare!\nNão pare de repercutir o debate de ontem e os atos de hoje, as redes que mais tem bolsonaristas e indecisos no meu caso, Facebook, WhatsApp e Instagram. A Fala do 9 dedos, a falta de humanidade no caso Ana Clara têm causado náusea aos indecisos\nExplode\n#ComLulaNaRua",
+        "author_username": "DistopiaBrazil",
+        "author_name": "DistopiaBrazil",
+        "created_at": "2026-10-25T00:52:00+00:00",
+        "permalink": "https://nitter.netbub.com/DistopiaBrazil/status/2114158176496984087#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 35,
+          "retweet_count": 119,
+          "quote_count": 240
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114156331082928556",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114156331082928556",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114156331082928556",
+        "text": "É o último Ato do Melhor Presidente da História desse país 😭😭❤️❤️1️⃣3️⃣😍😍🌟🌟✊🏻✊🏻👏🏻👏🏻🇧🇷🇧🇷\n#LulaVaiVencer #LulaVaiVirar #ComLulaNaRua #LulaNaPaulista",
+        "author_username": "ASinergyF",
+        "author_name": "ASinergyF",
+        "created_at": "2026-10-25T00:45:00+00:00",
+        "permalink": "https://nitter.netbub.com/ASinergyF/status/2114156331082928556#m",
+        "metrics": {
+          "like_count": 50,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114155730282406146",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114155730282406146",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114155730282406146",
+        "text": "BORAAA MEU PRESIDENTE LULAAAAA, BORAAAA VENCER #ComLulaNaRua #LulaNaPaulista #Somos10MilhoesPorLula #SomosTodosNoveDedos #BoraLula13 #LulaVaiVirar\n 1️⃣3️⃣😍🌟❤️✊🏻👏🏻",
+        "author_username": "ASinergyF",
+        "author_name": "ASinergyF",
+        "created_at": "2026-10-25T00:42:00+00:00",
+        "permalink": "https://nitter.netbub.com/ASinergyF/status/2114155730282406146#m",
+        "metrics": {
+          "like_count": 28,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114155255537578158",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114155255537578158",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114155255537578158",
+        "text": "Que lindooooooo, não tem como não se emocionar 😭😭❤️❤️ BORAAA MEU PRESIDENTE LULAAAAA, BORAAAA VENCER #ComLulaNaRua #LulaNaPaulista #Somos10MilhoesPorLula #SomosTodosNoveDedos 1️⃣3️⃣😍🌟❤️✊🏻",
+        "author_username": "ASinergyF",
+        "author_name": "ASinergyF",
+        "created_at": "2026-10-25T00:41:00+00:00",
+        "permalink": "https://nitter.netbub.com/ASinergyF/status/2114155255537578158#m",
+        "metrics": {
+          "like_count": 32,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114154800573026758",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114154800573026758",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114154800573026758",
+        "text": "BORAAAAAA MEU PRESIDENTE LULAAAAAAAAA E JANOOOOONESSSSS MEU GENERAL 3️⃣❤️🌟😍👏🏻✊🏻🙏🏻🇧🇷 BORAAAA VENCER #ComLulaNaRua #LulaEmCopacabana #LulaNaPaulista #SoMaisUmVotoProLula #10MILHOESDESOLDADOSDOLULA #SomosTodos9Dedos 1️⃣3️⃣❤️😍🌟👏🏻✊🏻",
+        "author_username": "ASinergyF",
+        "author_name": "ASinergyF",
+        "created_at": "2026-10-25T00:39:00+00:00",
+        "permalink": "https://nitter.netbub.com/ASinergyF/status/2114154800573026758#m",
+        "metrics": {
+          "like_count": 76,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114150752692093274",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114150752692093274",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114150752692093274",
+        "text": "O EXATO momento em que mostro a minha cicatriz pra @ErikakHilton e ela me vê! 🥹❤️🏳️‍⚧️\nA importância de uma presentante trans na política é absurda!!!!!!!!! \nObrigado por abrir caminhos e nos representar aí dentro! \n\n#ComLulaNaRua #erikahilton \n@ErikakHilton",
+        "author_username": "Usuariosem_usar",
+        "author_name": "Usuariosem_usar",
+        "created_at": "2026-10-25T00:23:00+00:00",
+        "permalink": "https://nitter.netbub.com/Usuariosem_usar/status/2114150752692093274#m",
+        "metrics": {
+          "like_count": 95,
+          "reply_count": 2,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114149004732752277",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114149004732752277",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "esquerda",
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114149004732752277",
+        "text": "Da esquerda não, foi a maior manifestação na Av. Paulista, a maior em São Paulo e a maior em todo o Brasil!\n\n#LulaNaPaulista\n#ComLulaNaRua\n#EuVotoFazendoL\nAMANHÃ É 13 🇧🇷",
+        "author_username": "Samuel_Bastille",
+        "author_name": "Samuel_Bastille",
+        "created_at": "2026-10-25T00:16:00+00:00",
+        "permalink": "https://nitter.netbub.com/Samuel_Bastille/status/2114149004732752277#m",
+        "metrics": {
+          "like_count": 118,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114147541004554588",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114147541004554588",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114147541004554588",
+        "text": "Mãe da Ana Clara entrando agora. Bora pra Live. #ComLulaNaRua",
+        "author_username": "paesamalia",
+        "author_name": "paesamalia",
+        "created_at": "2026-10-25T00:10:00+00:00",
+        "permalink": "https://nitter.netbub.com/paesamalia/status/2114147541004554588#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114147489125220840",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114147489125220840",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114147489125220840",
+        "text": "Isso aqui foi lindo demais! \nMeu ES ainda tem salvação ⭐️❤️⭐️\n#ComLulaNaRua #ExercitoDoLulaVenceuMaisUma",
+        "author_username": "Rafashe4",
+        "author_name": "Rafashe4",
+        "created_at": "2026-10-25T00:10:00+00:00",
+        "permalink": "https://nitter.netbub.com/Rafashe4/status/2114147489125220840#m",
+        "metrics": {
+          "like_count": 53,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114145788406419729",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114145788406419729",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [
+        "twitee:7 #ComLulaNaRua"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114145788406419729",
+        "text": "Obrigada, General Janones ❤️\nObrigada, Marechal Presidente Lula\nEstá sendo uma honra servir no maior Exército do mundo! O mais democrático. O mais lindo!\nAté o último voto! 🫡\n@AndreJanonesMG\n\n#EuVotoFazendoL\n#ComLulaNaRua\n#LulaEmCopacabana \n#LulaNaPaulista \n#ExercitoDoLulaVenceuMaisUma",
+        "author_username": "MeryMedeirox",
+        "author_name": "MeryMedeirox",
+        "created_at": "2026-10-25T00:03:00+00:00",
+        "permalink": "https://nitter.netbub.com/MeryMedeirox/status/2114145788406419729#m",
+        "metrics": {
+          "like_count": 44,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:raw:comment:2114191384064204969",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114191384064204969",
+      "post_id": "2114174657083355381",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114191384064204969",
+        "text": "#LulaVaiVencer\n#HojeEuVoto13",
+        "author_username": "Elainesousa131",
+        "author_name": "Elainesousa131",
+        "created_at": "2026-10-25T03:04:00+00:00",
+        "permalink": "https://nitter.netbub.com/Elainesousa131/status/2114191384064204969#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114174657083355381",
+        "parent_comment_id": "2114174657083355381",
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:comment:2114186361183834293",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114186361183834293",
+      "post_id": "2114158176496984087",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114186361183834293",
+        "text": "#HojeEuVoto13",
+        "author_username": "FelipeFlins",
+        "author_name": "FelipeFlins",
+        "created_at": "2026-10-25T02:44:00+00:00",
+        "permalink": "https://nitter.netbub.com/FelipeFlins/status/2114186361183834293#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114158176496984087",
+        "parent_comment_id": "2114158176496984087",
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:comment:2114146537668276379",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114146537668276379",
+      "post_id": "2114145788406419729",
+      "collected_at": "2026-10-26T01:00:26-03:00",
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#ComLulaNaRua",
+        "term_group_id": "trends_agora_br",
+        "term_label": "twitee:7 #ComLulaNaRua",
+        "run_id": "9a6403de-57c8-45ef-829e-8a1b43bd1ab9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114146537668276379",
+        "text": "#EuVotoFazendoL",
+        "author_username": "ddslwc",
+        "author_name": "ddslwc",
+        "created_at": "2026-10-25T00:06:00+00:00",
+        "permalink": "https://nitter.netbub.com/ddslwc/status/2114146537668276379#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114145788406419729",
+        "parent_comment_id": "2114145788406419729",
+        "depth": 1
+      }
+    }
+  ]
+}
