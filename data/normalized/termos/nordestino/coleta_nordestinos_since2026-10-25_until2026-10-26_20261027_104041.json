@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinos",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "235ca8af-22aa-4bc6-bf80-60f382d008a6",
+    "collected_at": "2026-10-27T10:40:41-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 91
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114894826474782855",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114894826474782855",
+      "parent_post_id": null,
+      "thread_root_id": "2114894826474782855",
+      "author": {
+        "platform_id": null,
+        "display_name": "HlioHenriq56903",
+        "username": "HlioHenriq56903",
+        "profile_url": "https://x.com/HlioHenriq56903"
+      },
+      "text": "É,  diga isso aos nordestinos que vivem as custas do sul e sudeste e centro-oeste. Chega de sustentar vagabundo com nossos impostos.",
+      "created_at": "2026-10-27T01:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T10:40:41-03:00",
+      "permalink": "https://nitter.xitter.cc/HlioHenriq56903/status/2114894826474782855#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "235ca8af-22aa-4bc6-bf80-60f382d008a6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114894826474782855",
+        "text": "É,  diga isso aos nordestinos que vivem as custas do sul e sudeste e centro-oeste. Chega de sustentar vagabundo com nossos impostos.",
+        "author_username": "HlioHenriq56903",
+        "author_name": "HlioHenriq56903",
+        "created_at": "2026-10-27T01:39:00+00:00",
+        "permalink": "https://nitter.xitter.cc/HlioHenriq56903/status/2114894826474782855#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 132,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114887037408977149",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114887037408977149",
+      "parent_post_id": null,
+      "thread_root_id": "2114887037408977149",
+      "author": {
+        "platform_id": null,
+        "display_name": "HlioHenriq56903",
+        "username": "HlioHenriq56903",
+        "profile_url": "https://x.com/HlioHenriq56903"
+      },
+      "text": "Rua. Nada de emprego aqui pra nordestinos",
+      "created_at": "2026-10-27T01:08:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T10:40:41-03:00",
+      "permalink": "https://nitter.xitter.cc/HlioHenriq56903/status/2114887037408977149#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "235ca8af-22aa-4bc6-bf80-60f382d008a6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114887037408977149",
+        "text": "Rua. Nada de emprego aqui pra nordestinos",
+        "author_username": "HlioHenriq56903",
+        "author_name": "HlioHenriq56903",
+        "created_at": "2026-10-27T01:08:00+00:00",
+        "permalink": "https://nitter.xitter.cc/HlioHenriq56903/status/2114887037408977149#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 41,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114854821127762017",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114854821127762017",
+      "parent_post_id": null,
+      "thread_root_id": "2114854821127762017",
+      "author": {
+        "platform_id": null,
+        "display_name": "marcosvsq",
+        "username": "marcosvsq",
+        "profile_url": "https://x.com/marcosvsq"
+      },
+      "text": "Ódio do nordestino? E ninguém fica com raiva dos mineiros? Kkkkkkkkkkk, foi Minas gerais que deu a vitória a Lula. Sai do RJ e estou morando em João Pessoa, e vou dizer para vocês, os nordestinos são maravilhosos, João Pessoa é lindo, basta vcs não virem para o nordeste.",
+      "created_at": "2026-10-26T23:00:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T10:40:41-03:00",
+      "permalink": "https://nitter.xitter.cc/marcosvsq/status/2114854821127762017#m",
+      "metrics": {
+        "like_count": 18,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "235ca8af-22aa-4bc6-bf80-60f382d008a6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114854821127762017",
+        "text": "Ódio do nordestino? E ninguém fica com raiva dos mineiros? Kkkkkkkkkkk, foi Minas gerais que deu a vitória a Lula. Sai do RJ e estou morando em João Pessoa, e vou dizer para vocês, os nordestinos são maravilhosos, João Pessoa é lindo, basta vcs não virem para o nordeste.",
+        "author_username": "marcosvsq",
+        "author_name": "marcosvsq",
+        "created_at": "2026-10-26T23:00:00+00:00",
+        "permalink": "https://nitter.xitter.cc/marcosvsq/status/2114854821127762017#m",
+        "metrics": {
+          "like_count": 18,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 271,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
