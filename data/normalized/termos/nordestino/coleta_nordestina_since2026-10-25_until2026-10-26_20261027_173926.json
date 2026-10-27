@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestina",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "18d077e3-ea70-463b-b5b2-8c65422f7507",
+    "collected_at": "2026-10-27T17:39:26-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 1,
+      "records_total": 3,
+      "skipped_duplicate": 19
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114678603333898664",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114678603333898664",
+      "parent_post_id": null,
+      "thread_root_id": "2114678603333898664",
+      "author": {
+        "platform_id": null,
+        "display_name": "wilkkk28",
+        "username": "wilkkk28",
+        "profile_url": "https://x.com/wilkkk28"
+      },
+      "text": "eu amo ser nordestina!❤️❤️\namo meu Piauí!\nvenha nos visitar!❤️",
+      "created_at": "2026-10-26T11:20:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T17:39:26-03:00",
+      "permalink": "https://nitter.netbub.com/wilkkk28/status/2114678603333898664#m",
+      "metrics": {
+        "like_count": 43,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "18d077e3-ea70-463b-b5b2-8c65422f7507",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114678603333898664",
+        "text": "eu amo ser nordestina!❤️❤️\namo meu Piauí!\nvenha nos visitar!❤️",
+        "author_username": "wilkkk28",
+        "author_name": "wilkkk28",
+        "created_at": "2026-10-26T11:20:00+00:00",
+        "permalink": "https://nitter.netbub.com/wilkkk28/status/2114678603333898664#m",
+        "metrics": {
+          "like_count": 43,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 62,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114567086064234762",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114567086064234762",
+      "parent_post_id": null,
+      "thread_root_id": "2114567086064234762",
+      "author": {
+        "platform_id": null,
+        "display_name": "KarinaCssi56039",
+        "username": "KarinaCssi56039",
+        "profile_url": "https://x.com/KarinaCssi56039"
+      },
+      "text": "Eu sou nordestina com muito orgulho então eu já estou animada para esse ano👏👊✊🏾😃❤️🇧🇷👆",
+      "created_at": "2026-10-26T03:57:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T17:39:26-03:00",
+      "permalink": "https://nitter.netbub.com/KarinaCssi56039/status/2114567086064234762#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "18d077e3-ea70-463b-b5b2-8c65422f7507",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114567086064234762",
+        "text": "Eu sou nordestina com muito orgulho então eu já estou animada para esse ano👏👊✊🏾😃❤️🇧🇷👆",
+        "author_username": "KarinaCssi56039",
+        "author_name": "KarinaCssi56039",
+        "created_at": "2026-10-26T03:57:00+00:00",
+        "permalink": "https://nitter.netbub.com/KarinaCssi56039/status/2114567086064234762#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 85,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114695215768375456",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114695215768375456",
+      "post_id": "2114678603333898664",
+      "parent_comment_id": "2114678603333898664",
+      "thread_root_id": "2114678603333898664",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "Ljpstardust91",
+        "username": "Ljpstardust91",
+        "profile_url": null
+      },
+      "text": "Eu sou doida pra ir ai, visitar o Nordeste, vcs sempre foram os melhores",
+      "created_at": "2026-10-26T12:26:00+00:00",
+      "collected_at": "2026-10-27T17:39:26-03:00",
+      "parent_post_url": "https://nitter.netbub.com/Ljpstardust91/status/2114695215768375456#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "18d077e3-ea70-463b-b5b2-8c65422f7507",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114695215768375456",
+        "text": "Eu sou doida pra ir ai, visitar o Nordeste, vcs sempre foram os melhores",
+        "author_username": "Ljpstardust91",
+        "author_name": "Ljpstardust91",
+        "created_at": "2026-10-26T12:26:00+00:00",
+        "permalink": "https://nitter.netbub.com/Ljpstardust91/status/2114695215768375456#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114678603333898664",
+        "parent_comment_id": "2114678603333898664",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 72,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
