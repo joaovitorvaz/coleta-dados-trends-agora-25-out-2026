@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinos",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "efcceba1-15c5-437c-839f-98ba49fe9d32",
+    "collected_at": "2026-10-26T20:56:51-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 52
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114829881385046273",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114829881385046273",
+      "parent_post_id": null,
+      "thread_root_id": "2114829881385046273",
+      "author": {
+        "platform_id": null,
+        "display_name": "lourival_coelho",
+        "username": "lourival_coelho",
+        "profile_url": "https://x.com/lourival_coelho"
+      },
+      "text": "NÓS REPUDIAMOS OS NORDESTINOS, MAS QUEM DECIDIU AS ELEIÇÕES FORAM OS MINEIROS ! QUE DECEPÇÃO ....",
+      "created_at": "2026-10-26T21:21:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T20:56:51-03:00",
+      "permalink": "https://nitter.meowing.monster/lourival_coelho/status/2114829881385046273#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "efcceba1-15c5-437c-839f-98ba49fe9d32",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114829881385046273",
+        "text": "NÓS REPUDIAMOS OS NORDESTINOS, MAS QUEM DECIDIU AS ELEIÇÕES FORAM OS MINEIROS ! QUE DECEPÇÃO ....",
+        "author_username": "lourival_coelho",
+        "author_name": "lourival_coelho",
+        "created_at": "2026-10-26T21:21:00+00:00",
+        "permalink": "https://nitter.meowing.monster/lourival_coelho/status/2114829881385046273#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 97,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
