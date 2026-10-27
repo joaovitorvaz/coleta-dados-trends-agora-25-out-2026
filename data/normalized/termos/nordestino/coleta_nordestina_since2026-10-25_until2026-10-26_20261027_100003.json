@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestina",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "235ca8af-22aa-4bc6-bf80-60f382d008a6",
+    "collected_at": "2026-10-27T10:00:03-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 19
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114867646382428567",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114867646382428567",
+      "parent_post_id": null,
+      "thread_root_id": "2114867646382428567",
+      "author": {
+        "platform_id": null,
+        "display_name": "vivivix_",
+        "username": "vivivix_",
+        "profile_url": "https://x.com/vivivix_"
+      },
+      "text": "Nordestina que n consegue acertar o ponto do cuscuz (jailllll)",
+      "created_at": "2026-10-26T23:51:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T10:00:03-03:00",
+      "permalink": "https://nitter.netbub.com/vivivix_/status/2114867646382428567#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "235ca8af-22aa-4bc6-bf80-60f382d008a6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114867646382428567",
+        "text": "Nordestina que n consegue acertar o ponto do cuscuz (jailllll)",
+        "author_username": "vivivix_",
+        "author_name": "vivivix_",
+        "created_at": "2026-10-26T23:51:00+00:00",
+        "permalink": "https://nitter.netbub.com/vivivix_/status/2114867646382428567#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 62,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
