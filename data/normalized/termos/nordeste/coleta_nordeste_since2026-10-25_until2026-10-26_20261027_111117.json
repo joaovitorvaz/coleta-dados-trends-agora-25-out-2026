@@ -1,0 +1,545 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "4b365852-7390-42e9-82a6-46c37f604a4e",
+    "collected_at": "2026-10-27T11:11:17-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 0,
+      "comments": 8,
+      "records_total": 8,
+      "skipped_duplicate": 268
+    }
+  },
+  "posts": [],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114857308123496899",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114857308123496899",
+      "post_id": "2114854573550522662",
+      "parent_comment_id": "2114854573550522662",
+      "thread_root_id": "2114854573550522662",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "ClaudiaReg39371",
+        "username": "ClaudiaReg39371",
+        "profile_url": null
+      },
+      "text": "#LulaOBrasilTeAma\n#VitoriaDaDemocracia\n#VivaoNordeste",
+      "created_at": "2026-10-26T23:10:00+00:00",
+      "collected_at": "2026-10-27T11:11:17-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/ClaudiaReg39371/status/2114857308123496899#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "4b365852-7390-42e9-82a6-46c37f604a4e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114857308123496899",
+        "text": "#LulaOBrasilTeAma\n#VitoriaDaDemocracia\n#VivaoNordeste",
+        "author_username": "ClaudiaReg39371",
+        "author_name": "ClaudiaReg39371",
+        "created_at": "2026-10-26T23:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ClaudiaReg39371/status/2114857308123496899#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114854573550522662",
+        "parent_comment_id": "2114854573550522662",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 53,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114867960300867733",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114867960300867733",
+      "post_id": "2114814526692511931",
+      "parent_comment_id": "2114814526692511931",
+      "thread_root_id": "2114814526692511931",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "davidebelem",
+        "username": "davidebelem",
+        "profile_url": null
+      },
+      "text": "Eu moro no norte e não sou sustentado por ninguém",
+      "created_at": "2026-10-26T23:53:00+00:00",
+      "collected_at": "2026-10-27T11:11:17-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/davidebelem/status/2114867960300867733#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "4b365852-7390-42e9-82a6-46c37f604a4e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114867960300867733",
+        "text": "Eu moro no norte e não sou sustentado por ninguém",
+        "author_username": "davidebelem",
+        "author_name": "davidebelem",
+        "created_at": "2026-10-26T23:53:00+00:00",
+        "permalink": "https://nitter.meowing.monster/davidebelem/status/2114867960300867733#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114814526692511931",
+        "parent_comment_id": "2114814526692511931",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 49,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114834147059347805",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114834147059347805",
+      "post_id": "2114786990629523771",
+      "parent_comment_id": "2114786990629523771",
+      "thread_root_id": "2114786990629523771",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "BanidoX5",
+        "username": "BanidoX5",
+        "profile_url": null
+      },
+      "text": "Vocês estavam alegando fraude e interferência no primeiro turno com medo de perder(e iriam, se fosse de forma honesta)",
+      "created_at": "2026-10-26T21:38:00+00:00",
+      "collected_at": "2026-10-27T11:11:17-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/BanidoX5/status/2114834147059347805#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "4b365852-7390-42e9-82a6-46c37f604a4e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114834147059347805",
+        "text": "Vocês estavam alegando fraude e interferência no primeiro turno com medo de perder(e iriam, se fosse de forma honesta)",
+        "author_username": "BanidoX5",
+        "author_name": "BanidoX5",
+        "created_at": "2026-10-26T21:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/BanidoX5/status/2114834147059347805#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114786990629523771",
+        "parent_comment_id": "2114786990629523771",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 118,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114838836211593335",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114838836211593335",
+      "post_id": "2114786536759709747",
+      "parent_comment_id": "2114786536759709747",
+      "thread_root_id": "2114786536759709747",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "doutortomalicu",
+        "username": "doutortomalicu",
+        "profile_url": null
+      },
+      "text": "Sabe...",
+      "created_at": "2026-10-26T21:57:00+00:00",
+      "collected_at": "2026-10-27T11:11:17-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/doutortomalicu/status/2114838836211593335#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "4b365852-7390-42e9-82a6-46c37f604a4e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114838836211593335",
+        "text": "Sabe...",
+        "author_username": "doutortomalicu",
+        "author_name": "doutortomalicu",
+        "created_at": "2026-10-26T21:57:00+00:00",
+        "permalink": "https://nitter.meowing.monster/doutortomalicu/status/2114838836211593335#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114786536759709747",
+        "parent_comment_id": "2114786536759709747",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 7,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114803234770395317",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114803234770395317",
+      "post_id": "2114766774696595876",
+      "parent_comment_id": "2114766774696595876",
+      "thread_root_id": "2114766774696595876",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "Victor_Zaluski",
+        "username": "Victor_Zaluski",
+        "profile_url": null
+      },
+      "text": "O problema do NE não é ser pobre e precário, é sua orientação politica que arrasta o país todo junto. E o PY vem melhorando ao longo dos anos. Vcs falam quando se fala coisas do tipo do NE, mas fazem o mesmo quando podem contra outros.",
+      "created_at": "2026-10-26T19:35:00+00:00",
+      "collected_at": "2026-10-27T11:11:17-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/Victor_Zaluski/status/2114803234770395317#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "4b365852-7390-42e9-82a6-46c37f604a4e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114803234770395317",
+        "text": "O problema do NE não é ser pobre e precário, é sua orientação politica que arrasta o país todo junto. E o PY vem melhorando ao longo dos anos. Vcs falam quando se fala coisas do tipo do NE, mas fazem o mesmo quando podem contra outros.",
+        "author_username": "Victor_Zaluski",
+        "author_name": "Victor_Zaluski",
+        "created_at": "2026-10-26T19:35:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Victor_Zaluski/status/2114803234770395317#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114766774696595876",
+        "parent_comment_id": "2114766774696595876",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 235,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114747300618670209",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114747300618670209",
+      "post_id": "2114742781465792656",
+      "parent_comment_id": "2114742781465792656",
+      "thread_root_id": "2114742781465792656",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "deiaferracin",
+        "username": "deiaferracin",
+        "profile_url": null
+      },
+      "text": "👏🏻 perfeito, se está tão bom pq não ficam aonde o PT reina?Pq ir atrás de um estado melhor? Atrás do capitalismo? O problema q saem, crescem e continuam votando errado ! Meu padrasto veio da BA, melhorou, comprou e fez a vida em SP, vota no PT pq foi o PT q deu td isso pra ele 🤌🏻",
+      "created_at": "2026-10-26T15:53:00+00:00",
+      "collected_at": "2026-10-27T11:11:17-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/deiaferracin/status/2114747300618670209#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "4b365852-7390-42e9-82a6-46c37f604a4e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114747300618670209",
+        "text": "👏🏻 perfeito, se está tão bom pq não ficam aonde o PT reina?Pq ir atrás de um estado melhor? Atrás do capitalismo? O problema q saem, crescem e continuam votando errado ! Meu padrasto veio da BA, melhorou, comprou e fez a vida em SP, vota no PT pq foi o PT q deu td isso pra ele 🤌🏻",
+        "author_username": "deiaferracin",
+        "author_name": "deiaferracin",
+        "created_at": "2026-10-26T15:53:00+00:00",
+        "permalink": "https://nitter.meowing.monster/deiaferracin/status/2114747300618670209#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114742781465792656",
+        "parent_comment_id": "2114742781465792656",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 280,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2115043587922784664",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2115043587922784664",
+      "post_id": "2114736397701534064",
+      "parent_comment_id": "2114736397701534064",
+      "thread_root_id": "2114736397701534064",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "tit18405",
+        "username": "tit18405",
+        "profile_url": null
+      },
+      "text": "Perfeito comentário, inclusive vejo pouca divulgação do excelente trabalho do BNB",
+      "created_at": "2026-10-27T11:31:00+00:00",
+      "collected_at": "2026-10-27T11:11:17-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/tit18405/status/2115043587922784664#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "4b365852-7390-42e9-82a6-46c37f604a4e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2115043587922784664",
+        "text": "Perfeito comentário, inclusive vejo pouca divulgação do excelente trabalho do BNB",
+        "author_username": "tit18405",
+        "author_name": "tit18405",
+        "created_at": "2026-10-27T11:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/tit18405/status/2115043587922784664#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114736397701534064",
+        "parent_comment_id": "2114736397701534064",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 81,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114616561411473425",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114616561411473425",
+      "post_id": "2114602917265064380",
+      "parent_comment_id": "2114602917265064380",
+      "thread_root_id": "2114602917265064380",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "Raimund31326434",
+        "username": "Raimund31326434",
+        "profile_url": null
+      },
+      "text": "❤️",
+      "created_at": "2026-10-26T07:14:00+00:00",
+      "collected_at": "2026-10-27T11:11:17-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/Raimund31326434/status/2114616561411473425#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "4b365852-7390-42e9-82a6-46c37f604a4e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114616561411473425",
+        "text": "❤️",
+        "author_username": "Raimund31326434",
+        "author_name": "Raimund31326434",
+        "created_at": "2026-10-26T07:14:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Raimund31326434/status/2114616561411473425#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114602917265064380",
+        "parent_comment_id": "2114602917265064380",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 2,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
