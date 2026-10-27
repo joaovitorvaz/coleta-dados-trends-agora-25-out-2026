@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "ecdf3c11-b750-4c3d-8197-9d1dbce76110",
+    "collected_at": "2026-10-27T19:40:25-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 0,
+      "comments": 1,
+      "records_total": 1,
+      "skipped_duplicate": 613
+    }
+  },
+  "posts": [],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114866916732830055",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114866916732830055",
+      "post_id": "2114553787624968652",
+      "parent_comment_id": "2114553787624968652",
+      "thread_root_id": "2114553787624968652",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "UendersonFluzao",
+        "username": "UendersonFluzao",
+        "profile_url": null
+      },
+      "text": "Sabe que tentou roubar e nem assim ganhou? Vocês,assim como foi em 2022 vocês tentaram novamente atrapalhar o povo de votar kkkkk e nem assim ganharam,a extrema direita tem a veia golpista.",
+      "created_at": "2026-10-26T23:48:00+00:00",
+      "collected_at": "2026-10-27T19:40:25-03:00",
+      "parent_post_url": "https://nitter.mie.foundation/UendersonFluzao/status/2114866916732830055#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ecdf3c11-b750-4c3d-8197-9d1dbce76110",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114866916732830055",
+        "text": "Sabe que tentou roubar e nem assim ganhou? Vocês,assim como foi em 2022 vocês tentaram novamente atrapalhar o povo de votar kkkkk e nem assim ganharam,a extrema direita tem a veia golpista.",
+        "author_username": "UendersonFluzao",
+        "author_name": "UendersonFluzao",
+        "created_at": "2026-10-26T23:48:00+00:00",
+        "permalink": "https://nitter.mie.foundation/UendersonFluzao/status/2114866916732830055#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114553787624968652",
+        "parent_comment_id": "2114553787624968652",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 189,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
