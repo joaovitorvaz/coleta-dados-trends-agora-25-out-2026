@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinos",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "0afee6d3-0dba-4d92-9047-2dd852e0b105",
+    "collected_at": "2026-10-27T00:21:09-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 0,
+      "comments": 1,
+      "records_total": 1,
+      "skipped_duplicate": 80
+    }
+  },
+  "posts": [],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114834997932605948",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114834997932605948",
+      "post_id": "2114826197003894831",
+      "parent_comment_id": "2114826197003894831",
+      "thread_root_id": "2114826197003894831",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "lscec22",
+        "username": "lscec22",
+        "profile_url": null
+      },
+      "text": "Inclusive até postei na hora, se ele tivesse chorado teria entrado muito mais votos ainda.",
+      "created_at": "2026-10-26T21:42:00+00:00",
+      "collected_at": "2026-10-27T00:21:09-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/lscec22/status/2114834997932605948#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "0afee6d3-0dba-4d92-9047-2dd852e0b105",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114834997932605948",
+        "text": "Inclusive até postei na hora, se ele tivesse chorado teria entrado muito mais votos ainda.",
+        "author_username": "lscec22",
+        "author_name": "lscec22",
+        "created_at": "2026-10-26T21:42:00+00:00",
+        "permalink": "https://nitter.meowing.monster/lscec22/status/2114834997932605948#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114826197003894831",
+        "parent_comment_id": "2114826197003894831",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 90,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
