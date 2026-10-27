@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste voto",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "6f58453d-8b8d-4190-862e-1075d3d61ba6",
+    "collected_at": "2026-10-27T01:52:48-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 12
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114908527453962659",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114908527453962659",
+      "parent_post_id": null,
+      "thread_root_id": "2114908527453962659",
+      "author": {
+        "platform_id": null,
+        "display_name": "mbernadete429",
+        "username": "mbernadete429",
+        "profile_url": "https://x.com/mbernadete429"
+      },
+      "text": "Posso falar uma coisa VC viu mídia preparando tudo pra golpe eles não tem 30porceto eles tiraram voto nulos jogaram no nordeste mesmo coisa 2018",
+      "created_at": "2026-10-27T02:34:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T01:52:48-03:00",
+      "permalink": "https://nitter.netbub.com/mbernadete429/status/2114908527453962659#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste voto",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "6f58453d-8b8d-4190-862e-1075d3d61ba6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114908527453962659",
+        "text": "Posso falar uma coisa VC viu mídia preparando tudo pra golpe eles não tem 30porceto eles tiraram voto nulos jogaram no nordeste mesmo coisa 2018",
+        "author_username": "mbernadete429",
+        "author_name": "mbernadete429",
+        "created_at": "2026-10-27T02:34:00+00:00",
+        "permalink": "https://nitter.netbub.com/mbernadete429/status/2114908527453962659#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 144,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
