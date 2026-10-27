@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "18d077e3-ea70-463b-b5b2-8c65422f7507",
+    "collected_at": "2026-10-27T17:24:43-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 0,
+      "comments": 2,
+      "records_total": 2,
+      "skipped_duplicate": 589
+    }
+  },
+  "posts": [],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114841293499289841",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114841293499289841",
+      "post_id": "2114592891217576439",
+      "parent_comment_id": "2114592891217576439",
+      "thread_root_id": "2114592891217576439",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "leoalbuq3",
+        "username": "leoalbuq3",
+        "profile_url": null
+      },
+      "text": "Tudo que tem no nordeste é gostoso",
+      "created_at": "2026-10-26T22:07:00+00:00",
+      "collected_at": "2026-10-27T17:24:43-03:00",
+      "parent_post_url": "https://nitter.mie.foundation/leoalbuq3/status/2114841293499289841#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "18d077e3-ea70-463b-b5b2-8c65422f7507",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114841293499289841",
+        "text": "Tudo que tem no nordeste é gostoso",
+        "author_username": "leoalbuq3",
+        "author_name": "leoalbuq3",
+        "created_at": "2026-10-26T22:07:00+00:00",
+        "permalink": "https://nitter.mie.foundation/leoalbuq3/status/2114841293499289841#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114592891217576439",
+        "parent_comment_id": "2114592891217576439",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 34,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114681497370120353",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114681497370120353",
+      "post_id": "2114576155952951707",
+      "parent_comment_id": "2114576155952951707",
+      "thread_root_id": "2114576155952951707",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "aldineisalim2",
+        "username": "aldineisalim2",
+        "profile_url": null
+      },
+      "text": "Pede separação então do restante do país e leva toda quadrilha petista p governar somente p vcs!",
+      "created_at": "2026-10-26T11:32:00+00:00",
+      "collected_at": "2026-10-27T17:24:43-03:00",
+      "parent_post_url": "https://nitter.mie.foundation/aldineisalim2/status/2114681497370120353#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "18d077e3-ea70-463b-b5b2-8c65422f7507",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114681497370120353",
+        "text": "Pede separação então do restante do país e leva toda quadrilha petista p governar somente p vcs!",
+        "author_username": "aldineisalim2",
+        "author_name": "aldineisalim2",
+        "created_at": "2026-10-26T11:32:00+00:00",
+        "permalink": "https://nitter.mie.foundation/aldineisalim2/status/2114681497370120353#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114576155952951707",
+        "parent_comment_id": "2114576155952951707",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 96,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
