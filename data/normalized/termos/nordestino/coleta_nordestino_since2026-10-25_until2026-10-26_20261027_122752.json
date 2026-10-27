@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "3cf13827-d69d-416e-bb0b-60b7f872d41e",
+    "collected_at": "2026-10-27T12:27:52-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 105
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114907936635990301",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114907936635990301",
+      "parent_post_id": null,
+      "thread_root_id": "2114907936635990301",
+      "author": {
+        "platform_id": null,
+        "display_name": "WagnerWagnerme1",
+        "username": "WagnerWagnerme1",
+        "profile_url": "https://x.com/WagnerWagnerme1"
+      },
+      "text": "Ó nordestino vai ter que comer capim. Logo logo. \nÉ quer saber. Eu quero que vso8 tudo pró inferno. \nÉ já vão terde.",
+      "created_at": "2026-10-27T02:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:27:52-03:00",
+      "permalink": "https://nitter.netbub.com/WagnerWagnerme1/status/2114907936635990301#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "3cf13827-d69d-416e-bb0b-60b7f872d41e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114907936635990301",
+        "text": "Ó nordestino vai ter que comer capim. Logo logo. \nÉ quer saber. Eu quero que vso8 tudo pró inferno. \nÉ já vão terde.",
+        "author_username": "WagnerWagnerme1",
+        "author_name": "WagnerWagnerme1",
+        "created_at": "2026-10-27T02:31:00+00:00",
+        "permalink": "https://nitter.netbub.com/WagnerWagnerme1/status/2114907936635990301#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 116,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114884839862161676",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114884839862161676",
+      "parent_post_id": null,
+      "thread_root_id": "2114884839862161676",
+      "author": {
+        "platform_id": null,
+        "display_name": "mendonca_photos",
+        "username": "mendonca_photos",
+        "profile_url": "https://x.com/mendonca_photos"
+      },
+      "text": "Isso aqui jamais deve ser cogitado. \nE não, eu não sou petista, quero ser nordestino brasileiro de um país só.",
+      "created_at": "2026-10-27T01:00:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:27:52-03:00",
+      "permalink": "https://nitter.netbub.com/mendonca_photos/status/2114884839862161676#m",
+      "metrics": {
+        "like_count": 24,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "3cf13827-d69d-416e-bb0b-60b7f872d41e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114884839862161676",
+        "text": "Isso aqui jamais deve ser cogitado. \nE não, eu não sou petista, quero ser nordestino brasileiro de um país só.",
+        "author_username": "mendonca_photos",
+        "author_name": "mendonca_photos",
+        "created_at": "2026-10-27T01:00:00+00:00",
+        "permalink": "https://nitter.netbub.com/mendonca_photos/status/2114884839862161676#m",
+        "metrics": {
+          "like_count": 24,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 110,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114868040022057207",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114868040022057207",
+      "parent_post_id": null,
+      "thread_root_id": "2114868040022057207",
+      "author": {
+        "platform_id": null,
+        "display_name": "065999036707cba",
+        "username": "065999036707cba",
+        "profile_url": "https://x.com/065999036707cba"
+      },
+      "text": "Esse aí é povo nordestino que, Lula \ndisse que tirou da miséria.",
+      "created_at": "2026-10-26T23:53:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:27:52-03:00",
+      "permalink": "https://nitter.netbub.com/065999036707cba/status/2114868040022057207#m",
+      "metrics": {
+        "like_count": 583,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 16
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "3cf13827-d69d-416e-bb0b-60b7f872d41e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114868040022057207",
+        "text": "Esse aí é povo nordestino que, Lula \ndisse que tirou da miséria.",
+        "author_username": "065999036707cba",
+        "author_name": "065999036707cba",
+        "created_at": "2026-10-26T23:53:00+00:00",
+        "permalink": "https://nitter.netbub.com/065999036707cba/status/2114868040022057207#m",
+        "metrics": {
+          "like_count": 583,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 16
+        }
+      },
+      "normalized": {
+        "text_length": 64,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
