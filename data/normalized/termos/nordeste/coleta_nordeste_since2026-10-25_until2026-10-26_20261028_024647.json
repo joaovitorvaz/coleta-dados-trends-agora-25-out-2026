@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "935fb344-dcfc-4d94-9fae-9e7d353444dc",
+    "collected_at": "2026-10-28T02:46:47-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 3,
+      "records_total": 4,
+      "skipped_duplicate": 294
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114916728903741864",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114916728903741864",
+      "parent_post_id": null,
+      "thread_root_id": "2114916728903741864",
+      "author": {
+        "platform_id": null,
+        "display_name": "fernandosoder",
+        "username": "fernandosoder",
+        "profile_url": "https://x.com/fernandosoder"
+      },
+      "text": "Flávio teria milhões de votos a mais se os estados fora do nordeste não tivessem resolvido as eleições locais no primeiro turno.",
+      "created_at": "2026-10-27T03:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T02:46:47-03:00",
+      "permalink": "https://nitter.netbub.com/fernandosoder/status/2114916728903741864#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "935fb344-dcfc-4d94-9fae-9e7d353444dc",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 19,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114916728903741864",
+        "text": "Flávio teria milhões de votos a mais se os estados fora do nordeste não tivessem resolvido as eleições locais no primeiro turno.",
+        "author_username": "fernandosoder",
+        "author_name": "fernandosoder",
+        "created_at": "2026-10-27T03:06:00+00:00",
+        "permalink": "https://nitter.netbub.com/fernandosoder/status/2114916728903741864#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 128,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114938225147933136",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114938225147933136",
+      "post_id": "2114928864975536273",
+      "parent_comment_id": "2114928864975536273",
+      "thread_root_id": "2114928864975536273",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "eusoretweeto",
+        "username": "eusoretweeto",
+        "profile_url": null
+      },
+      "text": "Isso é verdade. Se todo mundo visse a substância duvido que fariam procedimentos",
+      "created_at": "2026-10-27T04:32:00+00:00",
+      "collected_at": "2026-10-28T02:46:47-03:00",
+      "parent_post_url": "https://nitter.netbub.com/eusoretweeto/status/2114938225147933136#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "935fb344-dcfc-4d94-9fae-9e7d353444dc",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114938225147933136",
+        "text": "Isso é verdade. Se todo mundo visse a substância duvido que fariam procedimentos",
+        "author_username": "eusoretweeto",
+        "author_name": "eusoretweeto",
+        "created_at": "2026-10-27T04:32:00+00:00",
+        "permalink": "https://nitter.netbub.com/eusoretweeto/status/2114938225147933136#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114928864975536273",
+        "parent_comment_id": "2114928864975536273",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 80,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114922551512088919",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114922551512088919",
+      "post_id": "2114922380564824406",
+      "parent_comment_id": "2114922380564824406",
+      "thread_root_id": "2114922380564824406",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "aquietv",
+        "username": "aquietv",
+        "profile_url": null
+      },
+      "text": "Série ou filme?",
+      "created_at": "2026-10-27T03:30:00+00:00",
+      "collected_at": "2026-10-28T02:46:47-03:00",
+      "parent_post_url": "https://nitter.netbub.com/aquietv/status/2114922551512088919#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "935fb344-dcfc-4d94-9fae-9e7d353444dc",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114922551512088919",
+        "text": "Série ou filme?",
+        "author_username": "aquietv",
+        "author_name": "aquietv",
+        "created_at": "2026-10-27T03:30:00+00:00",
+        "permalink": "https://nitter.netbub.com/aquietv/status/2114922551512088919#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114922380564824406",
+        "parent_comment_id": "2114922380564824406",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 15,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114898761486868941",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114898761486868941",
+      "post_id": "2114892546627252455",
+      "parent_comment_id": "2114892546627252455",
+      "thread_root_id": "2114892546627252455",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "raphael_nunes34",
+        "username": "raphael_nunes34",
+        "profile_url": null
+      },
+      "text": "Para de chorar , putinha.",
+      "created_at": "2026-10-27T01:55:00+00:00",
+      "collected_at": "2026-10-28T02:46:47-03:00",
+      "parent_post_url": "https://nitter.netbub.com/raphael_nunes34/status/2114898761486868941#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "935fb344-dcfc-4d94-9fae-9e7d353444dc",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114898761486868941",
+        "text": "Para de chorar , putinha.",
+        "author_username": "raphael_nunes34",
+        "author_name": "raphael_nunes34",
+        "created_at": "2026-10-27T01:55:00+00:00",
+        "permalink": "https://nitter.netbub.com/raphael_nunes34/status/2114898761486868941#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114892546627252455",
+        "parent_comment_id": "2114892546627252455",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 25,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
