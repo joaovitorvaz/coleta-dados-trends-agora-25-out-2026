@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "93da8375-fc40-49f4-94d9-bba5866a9abd",
+    "collected_at": "2026-10-28T02:09:06-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 121
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114498296609685968",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114498296609685968",
+      "parent_post_id": null,
+      "thread_root_id": "2114498296609685968",
+      "author": {
+        "platform_id": null,
+        "display_name": "crfsta",
+        "username": "crfsta",
+        "profile_url": "https://x.com/crfsta"
+      },
+      "text": "nossa véi oq vai salvar a gente vai ser nordeste e minas gerais",
+      "created_at": "2026-10-25T23:24:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T02:09:06-03:00",
+      "permalink": "https://nitter.netbub.com/crfsta/status/2114498296609685968#m",
+      "metrics": {
+        "like_count": 52,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "93da8375-fc40-49f4-94d9-bba5866a9abd",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114498296609685968",
+        "text": "nossa véi oq vai salvar a gente vai ser nordeste e minas gerais",
+        "author_username": "crfsta",
+        "author_name": "crfsta",
+        "created_at": "2026-10-25T23:24:00+00:00",
+        "permalink": "https://nitter.netbub.com/crfsta/status/2114498296609685968#m",
+        "metrics": {
+          "like_count": 52,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 63,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
