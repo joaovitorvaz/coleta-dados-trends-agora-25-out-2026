@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "9cb28ec2-1e12-4bd2-81e8-d3678baa6f65",
+    "collected_at": "2026-10-27T23:59:46-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 62
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114649067888250907",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114649067888250907",
+      "parent_post_id": null,
+      "thread_root_id": "2114649067888250907",
+      "author": {
+        "platform_id": null,
+        "display_name": "CleydeVitalino",
+        "username": "CleydeVitalino",
+        "profile_url": "https://x.com/CleydeVitalino"
+      },
+      "text": "Gratidão Nordeste!\n\nOrgulho de ser filha de nordestino!❤️",
+      "created_at": "2026-10-26T09:23:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T23:59:46-03:00",
+      "permalink": "https://nitter.netbub.com/CleydeVitalino/status/2114649067888250907#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9cb28ec2-1e12-4bd2-81e8-d3678baa6f65",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114649067888250907",
+        "text": "Gratidão Nordeste!\n\nOrgulho de ser filha de nordestino!❤️",
+        "author_username": "CleydeVitalino",
+        "author_name": "CleydeVitalino",
+        "created_at": "2026-10-26T09:23:00+00:00",
+        "permalink": "https://nitter.netbub.com/CleydeVitalino/status/2114649067888250907#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 57,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
