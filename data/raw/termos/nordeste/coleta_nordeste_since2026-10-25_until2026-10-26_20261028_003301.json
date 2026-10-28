@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "#nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "70532f31-d271-4218-8958-d10185351cd8",
+    "collected_at": "2026-10-28T00:33:01-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 5
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114553356156866642",
+            "text": "Reflexão política e social - Eleições 2026 segundo turno...\nPor Felipe Guandelini\n#politica\n#eleicoes\n#nordeste\n#viral\n#brasil",
+            "author_username": "FelipGuandelini",
+            "author_name": "FelipGuandelini",
+            "created_at": "2026-10-26T03:03:00+00:00",
+            "permalink": "https://nitter.netbub.com/FelipGuandelini/status/2114553356156866642#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114526096649523393",
+            "text": "Muito emocionado com tanto amor envolvido, gratidão a todos que ajudaram na virada, com seus idosos, família, ajudando quem não tinha caro, ou levando os acamados. Você são maravilhosos 🙏🇧🇷 Ha #Piauí #Nordeste Mas é preciso ter força\nÉ preciso ter raça É preciso ter gana sempre.",
+            "author_username": "FamilyBuscapeLT",
+            "author_name": "FamilyBuscapeLT",
+            "created_at": "2026-10-26T01:14:00+00:00",
+            "permalink": "https://nitter.netbub.com/FamilyBuscapeLT/status/2114526096649523393#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114502177142022600",
+            "text": "17% das urnas, eu amo meu Sergipe #nordeste #eleiçoes2026",
+            "author_username": "gadot_ana",
+            "author_name": "gadot_ana",
+            "created_at": "2026-10-25T23:39:00+00:00",
+            "permalink": "https://nitter.netbub.com/gadot_ana/status/2114502177142022600#m",
+            "metrics": {
+              "like_count": 107,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114490324676403548",
+            "text": "Muito louco pensar, q se não fosse o #Nordeste nem 2°turno teriamos.",
+            "author_username": "Ly_gleyce",
+            "author_name": "Ly_gleyce",
+            "created_at": "2026-10-25T22:52:00+00:00",
+            "permalink": "https://nitter.netbub.com/Ly_gleyce/status/2114490324676403548#m",
+            "metrics": {
+              "like_count": 52,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114192751684096245",
+            "text": "Estamos juntos, agora é #Flavio22Presidente. O povo quer prosperar de #Nordeste a #Sul",
+            "author_username": "amarildo32",
+            "author_name": "amarildo32",
+            "created_at": "2026-10-25T03:10:00+00:00",
+            "permalink": "https://nitter.netbub.com/amarildo32/status/2114192751684096245#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114548355695075392",
+            "text": "Até Flávio votou no Lula! 🤣🤣\n\n#Lula2026étetra \n#Nordeste",
+            "author_username": "ElaineMacedo215",
+            "author_name": "ElaineMacedo215",
+            "created_at": "2026-10-26T02:43:00+00:00",
+            "permalink": "https://nitter.netbub.com/ElaineMacedo215/status/2114548355695075392#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 8,
+          "instance_used": "https://nitter.netbub.com"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ]
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114548355695075392",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114548355695075392",
+      "collected_at": "2026-10-28T00:33:01-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "70532f31-d271-4218-8958-d10185351cd8",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114548355695075392",
+        "text": "Até Flávio votou no Lula! 🤣🤣\n\n#Lula2026étetra \n#Nordeste",
+        "author_username": "ElaineMacedo215",
+        "author_name": "ElaineMacedo215",
+        "created_at": "2026-10-26T02:43:00+00:00",
+        "permalink": "https://nitter.netbub.com/ElaineMacedo215/status/2114548355695075392#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}

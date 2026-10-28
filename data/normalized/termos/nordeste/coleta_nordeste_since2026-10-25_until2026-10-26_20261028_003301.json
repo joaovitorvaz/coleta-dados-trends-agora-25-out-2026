@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "#nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "70532f31-d271-4218-8958-d10185351cd8",
+    "collected_at": "2026-10-28T00:33:01-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 5
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114548355695075392",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114548355695075392",
+      "parent_post_id": null,
+      "thread_root_id": "2114548355695075392",
+      "author": {
+        "platform_id": null,
+        "display_name": "ElaineMacedo215",
+        "username": "ElaineMacedo215",
+        "profile_url": "https://x.com/ElaineMacedo215"
+      },
+      "text": "Até Flávio votou no Lula! 🤣🤣\n\n#Lula2026étetra \n#Nordeste",
+      "created_at": "2026-10-26T02:43:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-28T00:33:01-03:00",
+      "permalink": "https://nitter.netbub.com/ElaineMacedo215/status/2114548355695075392#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "70532f31-d271-4218-8958-d10185351cd8",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 8,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114548355695075392",
+        "text": "Até Flávio votou no Lula! 🤣🤣\n\n#Lula2026étetra \n#Nordeste",
+        "author_username": "ElaineMacedo215",
+        "author_name": "ElaineMacedo215",
+        "created_at": "2026-10-26T02:43:00+00:00",
+        "permalink": "https://nitter.netbub.com/ElaineMacedo215/status/2114548355695075392#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 56,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
